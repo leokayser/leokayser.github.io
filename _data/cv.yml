@@ -14,29 +14,29 @@
       year: 2021 - 2022
       description:
         - Focus on theoretical computer science and machine learning
-        - Thesis on *Gröbner Bases and Their Complexity*
+        - Thesis on <i>Gröbner Bases and Their Complexity</i>
     - title: M.Sc. Mathematics
       institution: Leibniz University Hannover, Hanover, Germany
       year: 2020 - 2022
       description:
         - Focus on Algebraic Geometry and Algebraic Number Theory
-        - "Thesis on *The Waring Problem for Polynomials: Geometry and Applications*"
+        - "Thesis on <i>The Waring problem for polynomials: Geometry and applications</i>"
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
       items: 
-        - Dean's list
+        - Affiliated with the <i>Dean's list</i>
     - year: 2020
       items: 
         - President's Prize for Excellent Students
     - year: 2018 - 2021
       items:
-        - Stipend of the [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de/en/)
+        - Stipend of the <a href="https://www.studienstiftung.de/en/">Studienstiftung des deutschen Volkes</a>
     - year: 2017 - 2018
       items:
-        - Stipend of the [Deutschlandstipendium](https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html)
+        - Stipend of the <a href="https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html">Deutschlandstipendium</a>
 
 - title: Academic Interests
   type: nested_list
