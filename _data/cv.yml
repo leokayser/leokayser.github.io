@@ -9,6 +9,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Mathematics
+      institution: Max Planck Institute for Mathematics in the Sciences
+      year: ≥2023
+      description:
+        - Member of the <a href="https://www.mis.mpg.de/nlalg/research.html">Nonlinear Algebra group</a>
+        - Research in Numerical Nonlinear Algebra under the supervision of <a href="https://simontelen.webnode.page/">Simon Telen</a>
     - title: M.Sc. Computer Science
       institution: Leibniz University Hannover, Hanover, Germany
       year: 2021 - 2022
@@ -17,20 +23,31 @@
         - Thesis on <i>Gröbner Bases and Their Complexity</i>
     - title: M.Sc. Mathematics
       institution: Leibniz University Hannover, Hanover, Germany
-      year: 2020 - 2022
+      year: 2019 - 2022
       description:
         - Focus on Algebraic Geometry and Algebraic Number Theory
         - "Thesis on <i>The Waring problem for polynomials: Geometry and applications</i>"
+    - title: B.Sc. Computer Science
+      institution: Leibniz University Hannover, Hanover, Germany
+      year: 2017 - 2021
+      description:
+        - Thesis on <i>Geometric Complexity Theory</i>
+    - title: B.Sc. Mathematics
+      institution: Leibniz University Hannover, Hanover, Germany
+      year: 2016 - 2019
+      description:
+        - "Thesis on <i>Del Pezzo surfaces: Geometry and Arithmetic</i>"
+
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
       items: 
-        - Affiliated with the <i>Dean's list</i>
+        - Affiliated with the <i>Dean's list</i> of the EE-CS faculty at LUH
     - year: 2020
       items: 
-        - President's Prize for Excellent Students
+        - President's Prize for Excellent Students at LUH
     - year: 2018 - 2021
       items:
         - Stipend of the <a href="https://www.studienstiftung.de/en/">Studienstiftung des deutschen Volkes</a>
