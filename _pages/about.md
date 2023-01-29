@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Math PhD student at <a href="https://www.mis.mpg.de/">MPI MiS Leipzig</a>.
+subtitle: Math PhD student at MPI MiS Leipzig.
 
 profile:
   align: right
@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, this is my life now.
+Hi, I'm Leo, a PhD student in math at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) in Leipzig. I'm a member of the Nonlinear Algebra group, my advisor is Simon Telen.
