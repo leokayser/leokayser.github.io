@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Mathematics
+    - title: Ph.D. in Mathematics
       institution: Max Planck Institute for Mathematics in the Sciences
       year: ≥ 2023
       description:
@@ -20,23 +20,23 @@
       year: 2021 - 2022
       description:
         - Focus on theoretical computer science and machine learning
-        - Thesis on <i>Gröbner Bases and Their Complexity</i>
+        - Thesis on <i><a href="/assets/pdf/Gr%C3%B6bner_Bases_and_Their_Complexity.pdf">Gröbner Bases and Their Complexity</a></i>, supervised by <a href="https://www.thi.uni-hannover.de/en/vollmer/">Heribert Vollmer</a>
     - title: M.Sc. Mathematics
       institution: Leibniz University Hannover, Hanover, Germany
       year: 2019 - 2022
       description:
         - Focus on Algebraic Geometry and Algebraic Number Theory
-        - "Thesis on <i>The Waring problem for polynomials: Geometry and applications</i>"
+        - 'Thesis on <i><a href=\"/assets/pdf/The_Waring_problem_for_polynomials.pdf\">The Waring problem for polynomials: Geometry and applications</a></i>, supervised by <a href="https://www.iag.uni-hannover.de/en/schuett/">Matthias Schütt</a>'
     - title: B.Sc. Computer Science
       institution: Leibniz University Hannover, Hanover, Germany
       year: 2017 - 2021
       description:
-        - Thesis on <i>Geometric Complexity Theory</i>
+        - Thesis on <i>Geometric Complexity Theory</i>, supervised by <a href="https://www.thi.uni-hannover.de/en/meier/">Arne Meier</a>
     - title: B.Sc. Mathematics
       institution: Leibniz University Hannover, Hanover, Germany
       year: 2016 - 2019
       description:
-        - "Thesis on <i>Del Pezzo surfaces: Geometry and Arithmetic</i>"
+        - 'Thesis on <i>Del Pezzo surfaces: Geometry and Arithmetic</i>, supervised by <a href="https://www.iag.uni-hannover.de/en/hulek/">Klaus Hulek</a>'
 
 
 - title: Honors and Awards
