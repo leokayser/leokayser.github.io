@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Leo, a PhD student in math at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) in Leipzig. I'm a member of the [Nonlinear Algebra group](https://www.mis.mpg.de/nlalg/research.html), my advisor is [Simon Telen](https://simontelen.webnode.page/). I am interested in (Commutative) Algebra and Algebraic Geometry with a view towards computation and applications.
 
-I studied both mathematics and computer science at the Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on [The Waring problem for polynomials](/assets/pdf/The_Waring_problem_for_polynomials.pdf) under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on [Gröbner Bases and Their Complexity](/assets/pdf/Gr%C3%B6bner_Bases_and_Their_Complexity.pdf) under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
+I studied both mathematics and computer science at the Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on <a href="/assets/pdf/The_Waring_problem_for_polynomials.pdf" target="_blank">The Waring problem for polynomials</a> under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on <a href="/assets/pdf/Gröbner_Bases_and_Their_Complexity.pdf" target="_blank">Gröbner Bases and Their Complexity</a> under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
 
 ## Upcoming events
 
