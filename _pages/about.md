@@ -25,11 +25,11 @@ I studied both mathematics and computer science at the Leibniz University Hannov
 
 ## Upcoming events
 
-- Feb 9--10, 2023: [NoGAGS](https://www.math.hu-berlin.de/~www-ag/NoGAGS.html) at HU Berlin
 - Mar 9, 2023: Seminar day on [Algebra, Geometry and Computation](https://simontelen.webnode.page/l/algebra-geometry-and-computation-at-cwi/) at CWI, Amsterdam
 - Apr 3--4, 2023: [Solving hard polynomial systems](https://www.mis.mpg.de/calendar/conferences/2023/shps23.html) at MPI MiS, Leipzig
 
 ## Past events
 
+- Feb 9--10, 2023: [NoGAGS](https://www.math.hu-berlin.de/~www-ag/NoGAGS.html) at HU Berlin
 - Dec 13--14, 2022: [Macaulay2 Bootcamp](https://www.mis.mpg.de/calendar/conferences/2022/m2bc.html) at MPI MiS, Leipzig
 - Nov 28--Dec 1, 2022: [Computational Geometry School](https://www.mathematik.uni-kl.de/~boehm/computationalgeometryschool/) at Fraunhofer Institute ITWM, Kaiserslautern
