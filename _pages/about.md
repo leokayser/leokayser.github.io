@@ -25,11 +25,11 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Mar 13--14: Workshop on [Research Data in Discrete Mathematics](https://www.mis.mpg.de/calendar/conferences/2023/dataindiscretemath.html) at MPI MiS, Leipzig
 - Apr 3--4, 2023: Workshop on [Solving hard polynomial systems](https://www.mis.mpg.de/calendar/conferences/2023/shps23.html) at MPI MiS, Leipzig
 
 ## Past events
 
+- Mar 13--14: Workshop on [Research Data in Discrete Mathematics](https://www.mis.mpg.de/calendar/conferences/2023/dataindiscretemath.html) at MPI MiS, Leipzig
 - Mar 9, 2023: Seminar day on [Algebra, Geometry and Computation](https://simontelen.webnode.page/l/algebra-geometry-and-computation-at-cwi/) at CWI, Amsterdam
 - Feb 9--10, 2023: [NoGAGS](https://www.math.hu-berlin.de/~www-ag/NoGAGS.html) at HU Berlin
 - Dec 13--14, 2022: [Macaulay2 Bootcamp](https://www.mis.mpg.de/calendar/conferences/2022/m2bc.html) at MPI MiS, Leipzig
