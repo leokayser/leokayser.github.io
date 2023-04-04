@@ -23,12 +23,11 @@ Hi, I'm Leonie, a PhD student in math at the [Max Planck Institute for Mathemati
 
 I studied both mathematics and computer science at Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on <a href="/assets/pdf/The_Waring_problem_for_polynomials.pdf" target="_blank">The Waring problem for polynomials</a> under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on <a href="/assets/pdf/Gröbner_Bases_and_Their_Complexity.pdf" target="_blank">Gröbner Bases and Their Complexity</a> under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
 
-## Upcoming events
-
-- Apr 3--4, 2023: Workshop on [Solving hard polynomial systems](https://www.mis.mpg.de/calendar/conferences/2023/shps23.html) at MPI MiS, Leipzig
+[//]: # ## Upcoming events
 
 ## Past events
 
+- Apr 3--4, 2023: Workshop on [Solving hard polynomial systems](https://www.mis.mpg.de/calendar/conferences/2023/shps23.html) at MPI MiS, Leipzig
 - Mar 17, 2023: [Applications of Tropical Geometry in Leipzig-Berlin](https://www.mis.mpg.de/calendar/conferences/2023/aotg.html) at MPI MiS, Leipzig
 - Mar 13--14: [Research Data in Discrete Mathematics](https://www.mis.mpg.de/calendar/conferences/2023/dataindiscretemath.html) at MPI MiS, Leipzig
 - Mar 9, 2023: Seminar day on [Algebra, Geometry and Computation](https://simontelen.webnode.page/l/algebra-geometry-and-computation-at-cwi/) at CWI, Amsterdam
