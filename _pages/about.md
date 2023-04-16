@@ -15,8 +15,8 @@ profile:
     <p>04103 Leipzig, Germany</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -26,16 +26,15 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- May 31--Jun 1, 2023: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at Leibniz Universität Hannover
-- Jun 12--23, 2023: [Summer Graduate School on Algebraic Methods for Biochemical Reaction Networks](https://www.mis.mpg.de/calendar/conferences/2023/msri-mpi23.html) at MPI MiS, Leipzig
-- Jul 10--14, 2023: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at Eindhoven University of Technology
+- May 31--Jun 1: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at Leibniz Universität Hannover
+- Jun 12--23: [Summer Graduate School on Algebraic Methods for Biochemical Reaction Networks](https://www.mis.mpg.de/calendar/conferences/2023/msri-mpi23.html) at MPI MiS, Leipzig
+- Jul 10--14: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at Eindhoven University of Technology
 
 ## Past events
 
-- Apr 3--4, 2023: Workshop on [Solving hard polynomial systems](https://www.mis.mpg.de/calendar/conferences/2023/shps23.html) at MPI MiS, Leipzig
-# - Mar 17, 2023: [Applications of Tropical Geometry in Leipzig-Berlin](https://www.mis.mpg.de/calendar/conferences/2023/aotg.html) at MPI MiS, Leipzig
+- Apr 3--4: Workshop on [Solving hard polynomial systems](https://www.mis.mpg.de/calendar/conferences/2023/shps23.html) at MPI MiS, Leipzig
 - Mar 13--14: [Research Data in Discrete Mathematics](https://www.mis.mpg.de/calendar/conferences/2023/dataindiscretemath.html) at MPI MiS, Leipzig
-- Mar 9, 2023: Seminar day on [Algebra, Geometry and Computation](https://simontelen.webnode.page/l/algebra-geometry-and-computation-at-cwi/) at CWI, Amsterdam
-- Feb 9--10, 2023: [NoGAGS](https://www.math.hu-berlin.de/~www-ag/NoGAGS.html) at HU Berlin
+- Mar 9: Seminar day on [Algebra, Geometry and Computation](https://simontelen.webnode.page/l/algebra-geometry-and-computation-at-cwi/) at CWI, Amsterdam
+- Feb 9--10: [NoGAGS](https://www.math.hu-berlin.de/~www-ag/NoGAGS.html) at HU Berlin
 - Dec 13--14, 2022: [Macaulay2 Bootcamp](https://www.mis.mpg.de/calendar/conferences/2022/m2bc.html) at MPI MiS, Leipzig
 - Nov 28--Dec 1, 2022: [Computational Geometry School](https://www.mathematik.uni-kl.de/~boehm/computationalgeometryschool/) at Fraunhofer Institute ITWM, Kaiserslautern

@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Leo Kayser, Leonie Kayser, MPI MiS, Leipzig, math, algebra, algebraic geometry, macaulay2, tensor, complexity, computation, leokayser # add your own keywords or leave empty
+keywords: Leo Kayser, Leonie Kayser, MPI MiS, Leipzig, math, Commuting Quadrangles, algebra, algebraic geometry, macaulay2, tensor, complexity, computation, leokayser # add your own keywords or leave empty
 
 author:
   name: Leonie Kayser
@@ -123,9 +123,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: simply disconnected # blog_name will be displayed in your blog page
+blog_name: commuting quadrangles # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Not sure what I'm gonna do with this.
+blog_description: Original and unoriginal math thoughts.
 permalink: /blog/:year/:title/
 
 # Pagination
