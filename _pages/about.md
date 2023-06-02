@@ -26,7 +26,7 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Jun 07--08: [Let's get \(\mathbb{R}\)eal](https://www.mis.mpg.de/calendar/conferences/2023/real.html) at MPI MiS, Leipzig
+- Jun 07--08: [Let's get ℝeal](https://www.mis.mpg.de/calendar/conferences/2023/real.html) at MPI MiS, Leipzig
 - Jun 12--23: [Summer Graduate School on Algebraic Methods for Biochemical Reaction Networks](https://www.mis.mpg.de/calendar/conferences/2023/msri-mpi23.html) at MPI MiS, Leipzig
 - Jul 10--14: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at Eindhoven University of Technology
 
