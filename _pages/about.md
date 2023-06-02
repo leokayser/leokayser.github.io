@@ -26,13 +26,14 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- May 22--24: [Commutative Algebra TOwards Applications](https://sites.google.com/view/commalgintorino/home) at Politecnico and Università di Torino 
-- May 31--Jun 1: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at Leibniz Universität Hannover
+- Jun 07--08: [Let's get \(\mathbb{R}\)eal](https://www.mis.mpg.de/calendar/conferences/2023/real.html) at MPI MiS, Leipzig
 - Jun 12--23: [Summer Graduate School on Algebraic Methods for Biochemical Reaction Networks](https://www.mis.mpg.de/calendar/conferences/2023/msri-mpi23.html) at MPI MiS, Leipzig
 - Jul 10--14: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at Eindhoven University of Technology
 
 ## Past events
 
+- May 31--Jun 1: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at Leibniz Universität Hannover
+- May 22--24: [Commutative Algebra TOwards Applications](https://sites.google.com/view/commalgintorino/home) at Politecnico and Università di Torino 
 - Apr 3--4: Workshop on [Solving hard polynomial systems](https://www.mis.mpg.de/calendar/conferences/2023/shps23.html) at MPI MiS, Leipzig
 - Mar 13--14: [Research Data in Discrete Mathematics](https://www.mis.mpg.de/calendar/conferences/2023/dataindiscretemath.html) at MPI MiS, Leipzig
 - Mar 9: Seminar day on [Algebra, Geometry and Computation](https://simontelen.webnode.page/l/algebra-geometry-and-computation-at-cwi/) at CWI, Amsterdam
