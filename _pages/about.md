@@ -11,8 +11,6 @@ profile:
   address: >
     <p><a href="https://www.mis.mpg.de/">MPI MiS Leipzig</a></p>
     <p>Office G3 05</p>
-    <p>Inselstraße 22</p>
-    <p>04103 Leipzig, Germany</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -26,12 +24,13 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Jun 07--08: [Let's get ℝeal](https://www.mis.mpg.de/calendar/conferences/2023/real.html) at MPI MiS, Leipzig
-- Jun 12--23: [Summer Graduate School on Algebraic Methods for Biochemical Reaction Networks](https://www.mis.mpg.de/calendar/conferences/2023/msri-mpi23.html) at MPI MiS, Leipzig
 - Jul 10--14: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at Eindhoven University of Technology
+- Sep 6--8: [Conference on Applied Algebra](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/) at Osnabrück University
 
 ## Past events
 
+- Jun 12--23: [Summer Graduate School on Algebraic Methods for Biochemical Reaction Networks](https://www.mis.mpg.de/calendar/conferences/2023/msri-mpi23.html) at MPI MiS, Leipzig
+- Jun 07--08: [Let's get ℝeal](https://www.mis.mpg.de/calendar/conferences/2023/real.html) at MPI MiS, Leipzig
 - May 31--Jun 1: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at Leibniz Universität Hannover
 - May 22--24: [Commutative Algebra TOwards Applications](https://sites.google.com/view/commalgintorino/home) at Politecnico and Università di Torino 
 - Apr 3--4: Workshop on [Solving hard polynomial systems](https://www.mis.mpg.de/calendar/conferences/2023/shps23.html) at MPI MiS, Leipzig
