@@ -14,7 +14,7 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -29,7 +29,6 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Past events
 
-- Jun 12--23: [Summer Graduate School on Algebraic Methods for Biochemical Reaction Networks](https://www.mis.mpg.de/calendar/conferences/2023/msri-mpi23.html) at MPI MiS, Leipzig
 - Jun 07--08: [Let's get ℝeal](https://www.mis.mpg.de/calendar/conferences/2023/real.html) at MPI MiS, Leipzig
 - May 31--Jun 1: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at Leibniz Universität Hannover
 - May 22--24: [Commutative Algebra TOwards Applications](https://sites.google.com/view/commalgintorino/home) at Politecnico and Università di Torino 
