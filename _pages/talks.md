@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-#2023
+## 2023
 
 - Jul 10: **Hilbert Functions of Chopped ideals** (<a href="/assets/pdf/Hilbert_Functions_of_Chopped_Ideals_SIAM.pdf" target="_blank">Poster</a>)
 at [SIAM AG23](https://www.siam.org/conferences/cm/conference/ag23), TU Eindhoven
@@ -22,7 +22,7 @@ at the NLA Seminar, MPI MiS Leipzig
 - Mar 9: **What is a Hilbert function?** (<a href="/assets/pdf/What_is_a_Hilbert_function_CWI.pdf" target="_blank">Slides</a>)
 on the [Seminar day on Algebra, Geometry and Computation](https://simontelen.webnode.page/l/algebra-geometry-and-computation-at-cwi/), CWI Amsterdam
 
-#2022
+## 2022
 
 - Nov 30: **Gröbner Bases and Their Complexity** (Slides)
 at [Computational Geometry School](https://www.mathematik.uni-kl.de/~boehm/computationalgeometryschool/) at ITWM Kaiserslautern
