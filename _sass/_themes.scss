@@ -7,7 +7,7 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{scale-color($trans-blue, $lightness: -20%)};
+  --global-theme-color: #{scale-color($trans-blue, $lightness: -25%)};
   --global-hover-color: #{$trans-blue};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
@@ -52,7 +52,7 @@ html[data-theme='dark'] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{scale-color($trans-pink, $lightness: -10%)};
+  --global-theme-color: #{scale-color($trans-pink, $lightness: -5%)};
   --global-hover-color: #{$trans-pink};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-light};
