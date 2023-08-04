@@ -5,16 +5,13 @@
   abbr={Thesis},
   title={Gröbner Bases and Their Complexity},
   author={Leonie Kayser},
-  abstract={Polynomial equations and their solutions play a ubiquitous role both for theoretical and
-practical applications. A closely related problem is that of ideal membership, i. e. deciding
-whether a polynomial is a linear combination of other polynomials. Gröbner bases provide
-a well-developed machinery to deal with these problems symbolically as a part of computer
-algebra systems. In this thesis we give an introduction to the theory of Gröbner bases with a
-view towards computational complexity. In particular, we discuss algorithmic aspects and up-
-per bounds depending on the classes of polynomials considered. Furthermore, lower bounds
-on the size and computational complexity of Gröbner bases and related problems are pre-
-sented. While often useful in practice, the worst-case complexity of Gröbner bases is located
-in $\textsf{EXPSPACE}$.},
+  abstract={Polynomial equations and their solutions play a ubiquitous role both for theoretical and practical applications.
+    A closely related problem is that of ideal membership, i.e. deciding whether a polynomial is a linear combination of other polynomials.
+    Gröbner bases provide a well-developed machinery to deal with these problems symbolically as a part of computer algebra systems.
+    In this thesis we give an introduction to the theory of Gröbner bases with a view towards computational complexity.
+    In particular, we discuss algorithmic aspects and upper bounds depending on the classes of polynomials considered.
+    Furthermore, lower bounds on the size and computational complexity of Gröbner bases and related problems are presented.
+    While often useful in practice, the worst-case complexity of Gröbner bases is located in \(\textsf{EXPSPACE}\).},
   year={2022},
   month={October},
   pdf={papers/Gröbner_Bases_and_Their_Complexity.pdf}
@@ -29,11 +26,15 @@ in $\textsf{EXPSPACE}$.},
   pdf={papers/The_Waring_problem_for_polynomials.pdf}
 }
 
-@misc{GKT2023choppedideals,
+@Article{GKT2023choppedideals,
   selected={true},
   abbr={Article},
   title={Hilbert Functions of Chopped Ideals}, 
-  abstract={A chopped ideal is obtained from a homogeneous ideal by considering only the generators of a fixed degree. We investigate cases in which the chopped ideal defines the same finite set of points as the original one-dimensional ideal. The complexity of computing these points from the chopped ideal is governed by the Hilbert function and regularity. We conjecture values for these invariants and prove them in many cases. We show that our conjecture is of practical relevance for symmetric tensor decomposition.},
+  abstract={A chopped ideal is obtained from a homogeneous ideal by considering only the generators of a fixed degree.
+    We investigate cases in which the chopped ideal defines the same finite set of points as the original one-dimensional ideal.
+    The complexity of computing these points from the chopped ideal is governed by the Hilbert function and regularity.
+    We conjecture values for these invariants and prove them in many cases.
+    We show that our conjecture is of practical relevance for symmetric tensor decomposition.},
   author={Fulvio Gesmundo and Leonie Kayser and Simon Telen},
   year={2023},
   month={July},
@@ -43,4 +44,24 @@ in $\textsf{EXPSPACE}$.},
   html={https://arxiv.org/abs/2307.02560},
   pdf={papers/Hilbert_Functions_of_Chopped_Ideals.pdf},
   preview={quintics_small.png}
+}
+
+@Article{BKM2023subgraphx,
+  selected={true},
+  abbr={Article},
+  title={[Re] On Explainability of Graph Neural Networks via Subgraph Explorations}, 
+  abstract={Yuan et al. claim their proposed method SubgraphX achieves (i) higher fidelity in explaining models for graph- and node classification tasks compared to other explanation techniques, namely GNNExplainer.
+    Additionally, (ii) the computational effort of SubgraphX is at a 'reasonable level', which is not further specified by the original authors. We define this as at most ten times slower than GNNExplainer. 
+    We reimplemented the proposed algorithm in PyTorch. Then, we replicated the experiments performed by the authors on a smaller scale due to resource constraints.
+    Additionally, we checked the performance on a new dataset and investigated the influence of hyperparameters. Lastly, we improved SubgraphX using greedy initialization and utilizing fidelity as a score function.},
+  author={Yannik Mahlau and Leonie Kayser and Lukas Berg},
+  year={2023},
+  month={July},
+  doi={10.5281/zenodo.8173753},
+  html={https://openreview.net/forum?id=zKBJw4Ht8s},
+  journal={ReScience C},
+  volume={9},
+  number={2}
+  pdf={papers/[Re]_On_Explainability_of_Graph_Neural_Networks_via_Subgraph_Explorations.pdf},
+  preview={mcts_mutag_small.png}
 }
