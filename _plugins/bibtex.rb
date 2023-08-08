@@ -1,12 +1,11 @@
-require "bibtex"
-require "pandoc-ruby"
-
-class Pandoc < BibTeX::Filter
-  def apply(value)
-    value = value.to_s
-    return value unless %w[\ { } $].any? { |c| value.include?(c) }
-    html = PandocRuby.convert(value, :mathjax, from: :latex, to: :html)
-    html.gsub!(%r{</?p>}, "") if html.scan("<p>").size == 1
-    html.strip
+require 'latex/decode'
+# Disable the Math module of latex-decode as it interferes with MathJax
+module LaTeX
+  module Decode
+    class Maths < Decoder
+      def self.decode! (string)
+        string
+      end
+    end
   end
 end
