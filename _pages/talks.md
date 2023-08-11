@@ -24,5 +24,16 @@ on the [Seminar day on Algebra, Geometry and Computation](https://simontelen.web
 
 ## 2022
 
-- Nov 30: **Gröbner Bases and Their Complexity** (Slides)
+- Nov 30: **Gröbner Bases and Their Complexity** (<a href="/assets/pdf/presentations/Gröbner_Bases_and_Their_Complexity_Kaiserslautern.pdf" target="_blank">Slides</a>)
 at [Computational Geometry School](https://www.mathematik.uni-kl.de/~boehm/computationalgeometryschool/) at ITWM Kaiserslautern
+- Nov 23: **Gröbner Bases and Their Complexity** (<a href="/assets/pdf/presentations/Gröbner_Bases_and_Their_Complexity_THI.pdf" target="_blank">Slides</a>)
+at [Advanced Seminar on Theoretical Computer Science](https://www.thi.uni-hannover.de/en/research/advanced-seminar) at LUH Hannover
+- Jul 8: **Der Satz von Smolensky** (<a href="/assets/pdf/presentations/Der_Satz_von_Smolensky.pdf" target="_blank">Folien</a>)
+at [Seminar Theorie Boole'scher Schaltkreise](https://www.thi.uni-hannover.de/de/lehre/msc/thbs) at LUH Hannover
+- Jan 28: **The Waring problem for polynomials** (Slides)
+at [Research Seminar Algebraic Geometry](https://www.iag.uni-hannover.de/en/activities/research-seminar) at LUH Hannover
+
+## 2021
+
+- Jul 15: **Die Presburger Arithmetik ist hart für EXPTIME** (<a href="/assets/pdf/presentations/Die_Presburger_Arithmetik_ist_hart_für_EXPTIME.pdf" target="_blank">Folien</a>)
+at [Seminar Berechenbarkeit und Logik](https://www.thi.uni-hannover.de/de/lehre/msc/bul) at LUH Hannover
