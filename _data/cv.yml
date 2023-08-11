@@ -60,13 +60,15 @@
   contents:
     - title: Mathematics
       items: 
-        - Commutative Algebra and Algebraic Geometry
+        - Commutative Algebra
+        - Algebraic Geometry, specifically Projective Geometry, syzygies
         - Computer Algebra
         - Tensor decomposition
     - title: Computer Science
       items:
         - Computational Complexity and efficient algorithms
         - Algebraic Complexity Theory
+        - Machine Learning
 
 # - title: Other Interests
 #   type: list
