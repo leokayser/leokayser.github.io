@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Leonie, a PhD student in math at [MPI MiS](https://www.mis.mpg.de/), Leipzig. I'm a member of the [Nonlinear Algebra Group](https://www.mis.mpg.de/nlalg/research.html), my advisor is [Simon Telen](https://simontelen.webnode.page/). I am interested in Commutative Algebra and Algebraic Geometry with a view towards computation and applications.
 
-I studied both mathematics and computer science at Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on <a href="/assets/pdf/papers/The_Waring_problem_for_polynomials.pdf" target="_blank">The Waring problem for polynomials</a> under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on <a href="/assets/pdf/papers/Gröbner_Bases_and_Their_Complexity.pdf" target="_blank">Gröbner Bases and Their Complexity</a> under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
+I studied both mathematics and computer science at Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on <a href="/assets/pdf/papers/The_Waring_problem_for_polynomials.pdf" target="_blank">The Waring problem for polynomials</a> under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on <a href="/assets/pdf/papers/Groebner_Bases_and_Their_Complexity.pdf" target="_blank">Gröbner Bases and Their Complexity</a> under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
 
 ## Upcoming events
 
