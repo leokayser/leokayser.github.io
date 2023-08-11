@@ -5,7 +5,7 @@ permalink: /projects/
 description: This is the place where I'll present some of the stuff I've been working on. Stay tuned!
 nav: true
 nav_order: 4
-display_categories: #[work, fun]
+display_categories:
 horizontal: false
 ---
 
