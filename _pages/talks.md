@@ -9,6 +9,14 @@ nav_order: 2
 
 ## 2023
 
+- Oct 9: **MathRepo - MPI MiS’ mathematical repository** (<a href="/assets/pdf/presentations/MaRDI_meets_information_specialists.pdf" target="_blank">Slides</a>)
+at [MaRDI meets information specialists](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html), MPI MiS, Leipzig
+- Sep 28: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag.pdf" target="_blank">Poster</a>)
+at MPI MiS, Leipzig
+- Sep 16: **Domino spielen mit Emil Post** (<a href="/assets/pdf/presentations/PCP_Poster.pdf" target="_blank">Poster</a>)
+at [*Quantum Entanglement Science & Music Open Air*](https://www.instagram.com/quantumentanglementfestival/), Leipzig
+- Sep 6: **Hilbert Functions of Chopped ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_SIAM.pdf" target="_blank">Poster</a>)
+at [*Conference on Applied Algebra*](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/), Osnabrück University
 - Jul 10: **Hilbert Functions of Chopped ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_SIAM.pdf" target="_blank">Poster</a>)
 at [*SIAM AG23*](https://www.siam.org/conferences/cm/conference/ag23), TU Eindhoven
 - Jun 21: **Hilbert Functions of Chopped ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_MPI.pdf" target="_blank">Slides</a>)

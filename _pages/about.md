@@ -24,10 +24,13 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Sep 6--8: [Conference on Applied Algebra](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/) at Osnabrück University
+- Oct 9--11: [Maths meets information specialists](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html) at MPI MiS, Leipzig
+- Oct 16--18: [Chow Lectures 2023](https://www.mis.mpg.de/calendar/conferences/2023/chow.html) at MPI MiS, Leipzig
 
 ## Past events
 
+- Sep 16: [Quantum Entanglement: Science & Music Open Air](https://www.instagram.com/quantumentanglementfestival/) at [Heiter bis Wolkig](https://www.facebook.com/heiterbiswolkigcafe/), Leipzig
+- Sep 6--8: [Conference on Applied Algebra](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/) at Osnabrück University
 - Jul 10--14: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at TU Eindhoven
 - Jun 07--08: [Let's get ℝeal](https://www.mis.mpg.de/calendar/conferences/2023/real.html) at MPI MiS, Leipzig
 - May 31--Jun 1: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at LUH, Hannover
