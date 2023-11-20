@@ -22,13 +22,13 @@ Hi, I'm Leonie, a PhD student in math at [MPI MiS](https://www.mis.mpg.de/), Lei
 
 I studied both mathematics and computer science at Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on <a href="/assets/pdf/papers/The_Waring_problem_for_polynomials.pdf" target="_blank">The Waring problem for polynomials</a> under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on <a href="/assets/pdf/papers/Groebner_Bases_and_Their_Complexity.pdf" target="_blank">Gröbner Bases and Their Complexity</a> under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
 
-## Upcoming events
-
-- Oct 9--11: [Maths meets information specialists](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html) at MPI MiS, Leipzig
-- Oct 16--18: [Chow Lectures 2023](https://www.mis.mpg.de/calendar/conferences/2023/chow.html) at MPI MiS, Leipzig
+[//]: # ## Upcoming events
 
 ## Past events
-
+- Nov 13--15: [Workshop on Geometry and Machine Learning ](https://www.mis.mpg.de/calendar/conferences/2023/gaml.html) at MPI MiS, Leipzig
+- Nov 8--10: [IMPRS Combo 1](https://www.mis.mpg.de/calendar/conferences/2023/imprscombo1.html) at MPI MiS, Leipzig
+- Oct 16--18: [Chow Lectures 2023](https://www.mis.mpg.de/calendar/conferences/2023/chow.html) at MPI MiS, Leipzig
+- Oct 9--11: [Maths meets information specialists](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html) at MPI MiS, Leipzig
 - Sep 16: [Quantum Entanglement: Science & Music Open Air](https://www.instagram.com/quantumentanglementfestival/) at [Heiter bis Wolkig](https://www.facebook.com/heiterbiswolkigcafe/), Leipzig
 - Sep 6--8: [Conference on Applied Algebra](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/) at Osnabrück University
 - Jul 10--14: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at TU Eindhoven

@@ -9,8 +9,16 @@ nav_order: 2
 
 ## 2023
 
+- Nov 23: **Affine and projective varieties** (Blackboard?)
+at [*GIT & NaHC Reading Seminar*](/nahc/), MPI MiS Leipzig
+- Nov 8: **The Computational Complexity of Subalgebra Membership** (Blackboard)
+at [*IMPRS Combo 1*](https://www.mis.mpg.de/calendar/conferences/2023/imprscombo1.html), MPI MiS Leipzig
+- Nov 7: **"One slide about me"** (<a href="/assets/pdf/presentations/Geometry_meets_Algebra_day.pdf" target="_blank">Slide</a>)
+at [*Geometry meets Algebra day*](https://www.mis.mpg.de/calendar/conferences/2023/gmad.html), MPI MiS Leipzig
+- Nov 1: **Recovering a polynomial from its space of partial derivatives** (Blackboard)
+at [*RePS*](https://sites.google.com/view/regiomontanus-phd/home), Universität Leipzig
 - Oct 9: **MathRepo - MPI MiS’ mathematical repository** (<a href="/assets/pdf/presentations/MaRDI_meets_information_specialists.pdf" target="_blank">Slides</a>)
-at [MaRDI meets information specialists](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html), MPI MiS, Leipzig
+at [*MaRDI meets information specialists*](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html), MPI MiS, Leipzig
 - Sep 28: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag.pdf" target="_blank">Poster</a>)
 at MPI MiS, Leipzig
 - Sep 16: **Domino spielen mit Emil Post** (<a href="/assets/pdf/presentations/PCP_Poster.pdf" target="_blank">Poster</a>)
