@@ -9,7 +9,7 @@ nav_order: 2
 
 ## 2023
 
-- Nov 23: **Affine and projective varieties** (Blackboard?)
+- Nov 23: **Affine and projective varieties** (<a href="/assets/pdf/nahc/01_Affine_and_projective_Varieties.pdf" target="_blank">Slides</a>)
 at [*GIT & NaHC Reading Seminar*](/nahc/), MPI MiS Leipzig
 - Nov 8: **The Computational Complexity of Subalgebra Membership** (Blackboard)
 at [*IMPRS Combo 1*](https://www.mis.mpg.de/calendar/conferences/2023/imprscombo1.html), MPI MiS Leipzig
