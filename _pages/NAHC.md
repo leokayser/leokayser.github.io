@@ -6,7 +6,9 @@ description: This is where Enya Hsiao and I organise the <i>Geometric Invariant 
 nav: false
 ---
 
-<a href="/assets/pdf/notes/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
+<a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
+
+**Update 2023-11-25:** The recommended reading on GIT for "non-AG folks" was changed/added, as well as the list of recommended books on GIT. The content of weeks 1-3 was added/clarified.
 
 The nonabelian Hodge correspondence is a deep and beautiful theory that identifies three moduli spaces: the **Betti moduli space** $$\mathcal{M}_{\text{B}}$$ of surface group representations, the **de Rham moduli space** $$\mathcal{M}_{\text{dR}}$$ of flat connections and the **Dolbeault moduli space** $$\mathcal{M}_{\text{Dol}}$$ of Higgs bundles, whose objects on the surface appear to arise from very different contexts. The moduli spaces themselves are constructed as GIT quotients based on the geometric invariant theory pioneered by Mumford. The correspondence between these moduli spaces is the cumulative work of Corlette, Donaldson, Hitchin and Simpson built on that of many mathematicians and the machinery involved to prove these results lies in the intersection of algebraic geometry, complex geometry, geometric analysis and gauge theory.
 
@@ -20,13 +22,13 @@ The goal of this reading seminar is two-fold:
 | Date   |     | Topic                                                  | Speaker    |
 |:------:|----:|:-------------------------------------------------------|:-----------|
 | 16.11. |  0. | Introduction and overview                              |            |
-| 23.11. |  1. | Affine and projective varieties                        | Leonie     |
+| 23.11. |  1. | <a href="/assets/pdf/nahc/01_Affine_and_projective_Varieties.pdf" target="_blank">Affine and projective varieties</a>     | Leonie     |
 | 30.11. |  2. | Algebraic groups and invariant theory                  | Barbara    |
 | 07.12. |  3. | Affine GIT                                             | Anaëlle    |
 | 14.12. | *D1.* | *Discussion: Gauge Theory*                             |            |
-| 21.12. |     | ❄️                                                      |            |
-| 28.12. |     | ❄️                                                      |            |
-| 04.01. |     | ❄️                                                      |            |
+| 21.12. |  ❄️  |                                                        |            |
+| 28.12. |  ❄️  |                                                        |            |
+| 04.01. |  ❄️  |                                                        |            |
 | 11.01. |  4. | The Betti Moduli space: Character variety              | Fernando   |
 | 18.01. |  5. | The de Rham Moduli space: Flat connections             | Jiajun     |
 | 25.01. |  6. | The Riemann-Hilbert correspondence                     | Pengfei    |
