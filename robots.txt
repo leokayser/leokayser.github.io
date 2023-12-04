@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://leokayser.github.io//sitemap.xml
+Sitemap: https://leokayser.github.io/sitemap.xml
