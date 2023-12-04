@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2023
 
+- Dec 7: **The Computational Complexity of Subalgebra Membership** (Blackboard)
+at the *NLA Seminar*, MPI MiS Leipzig
 - Nov 23: **Affine and projective varieties** (<a href="/assets/pdf/nahc/01_Affine_and_projective_Varieties.pdf" target="_blank">Slides</a>)
 at [*GIT & NaHC Reading Seminar*](/nahc/), MPI MiS Leipzig
 - Nov 8: **The Computational Complexity of Subalgebra Membership** (Blackboard)
