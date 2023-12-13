@@ -27,7 +27,7 @@ The goal of this reading seminar is two-fold:
 | 23.11. |  1. | <a href="/assets/pdf/nahc/01_Affine_and_projective_Varieties.pdf" target="_blank">Affine and projective varieties</a>     | Leonie     |
 | 30.11. |  2. | <a href="/assets/pdf/nahc/02_Algebraic_groups_and_invariant_theory.pdf" target="_blank">Algebraic groups and invariant theory</a>                  | Barbara    |
 | 07.12. |  3. | Affine GIT                                             | Anaëlle    |
-| 14.12. | *D1.* | <a href="/assets/pdf/nahc/D1_Gauge_Theory.pdf" target="_blank">*Discussion: Gauge Theory*</a>                             | Merik           |
+| 14.12. | *D1.* | <a href="/assets/pdf/nahc/D1_Gauge_Theory.pdf" target="_blank">*Discussion:* Gauge Theory</a>                             | Merik           |
 | 21.12. |  ❄️  |                                                        |            |
 | 28.12. |  ❄️  |                                                        |            |
 | 04.01. |  ❄️  |                                                        |            |
