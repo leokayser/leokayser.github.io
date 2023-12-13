@@ -8,6 +8,8 @@ nav: false
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
+**Update 2023-12-08:** Added discussion sheet for Gauge theory.
+
 **Update 2023-12-04:** Added the notes from Barbara's talk, reading plan polished (~~28.2.~~ was a typo, sorry!).
 
 **Update 2023-11-25:** The recommended reading on GIT for "non-AG folks" was changed/added, as well as the list of recommended books on GIT. The content of weeks 1-3 was added/clarified.
