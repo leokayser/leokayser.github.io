@@ -8,6 +8,8 @@ nav: false
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
+**Update 2023-12-13:** Added the notes from Anaëlle's talk.
+
 **Update 2023-12-08:** Added discussion sheet for Gauge theory.
 
 **Update 2023-12-04:** Added the notes from Barbara's talk, reading plan polished (~~28.2.~~ was a typo, sorry!).
@@ -28,7 +30,7 @@ The goal of this reading seminar is two-fold:
 | 16.11. |  0. | Introduction and overview                              |            |
 | 23.11. |  1. | <a href="/assets/pdf/nahc/01_Affine_and_projective_Varieties.pdf" target="_blank">Affine and projective varieties</a>     | Leonie     |
 | 30.11. |  2. | <a href="/assets/pdf/nahc/02_Algebraic_groups_and_invariant_theory.pdf" target="_blank">Algebraic groups and invariant theory</a>                  | Barbara    |
-| 07.12. |  3. | Affine GIT                                             | Anaëlle    |
+| 07.12. |  3. | <a href="/assets/pdf/nahc/03_Affine_GIT.pdf" target="_blank">Affine GIT</a>                                             | Anaëlle    |
 | 14.12. | *D1.* | <a href="/assets/pdf/nahc/D1_Gauge_Theory.pdf" target="_blank">*Discussion:* Gauge Theory</a>                             | Merik           |
 | 21.12. |  ❄️  |                                                        |            |
 | 28.12. |  ❄️  |                                                        |            |
