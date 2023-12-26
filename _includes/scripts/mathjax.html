@@ -5,7 +5,15 @@
       loader: {load: ['[tex]/mathtools']},
       tex: {
         tags: 'ams',
-        packages: {'[+]': ['mathtools']}
+        packages: {'[+]': ['mathtools']},
+        macros: {
+          NN: '{\\mathbb N}',
+          ZZ: '{\\mathbb Z}',
+          QQ: '{\\mathbb Q}',
+          RR: '{\\mathbb R}',
+          CC: '{\\mathbb C}',
+          OO: '{\\mathcal O}',
+        }
       }
     };
   </script>
