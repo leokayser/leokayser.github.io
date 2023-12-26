@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Symmetric algebra or symmetric tensors?
-date: 2023-08-12 00:00:00+0200
+date: 2099-08-12 00:00:00+0200
 description: (Why) can we identify symmetric tensors with the symmetric algebra?
 tags: [linear algebra, tensors]
 categories: [commutative algebra]
