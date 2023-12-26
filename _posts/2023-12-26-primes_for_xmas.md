@@ -8,6 +8,7 @@ categories: [commutative algebra]
 giscus_comments: true
 related_posts: false
 ---
+
 As my first *ever* blog post on here and also as a mathematical Christmas gift, I wanted to share my favorite proof of the infinitude of prime numbers, only using commutative algebra (in the guise of the theory of Dedekind domains).
 
 > **Euclid's theorem.** There are infinitely many prime numbers $$p \in \ZZ$$.
@@ -16,7 +17,7 @@ The following proof uses some basic results of algebraic number theory, which I'
 
 A Dedekind domain $$A$$ is an integral domain that has well-behaved factorization properties. One definition is that every nonzero ideal $$\mathfrak a \subseteq A$$ is the product of maximal ideals $$\mathfrak a = \mathfrak p_1 \dotsm \mathfrak p_s$$; this decomposition is then unique (up to permutation). In Dedekind domains the containment relation is the divisibility relation, i.e. $$\mathfrak b \supseteq \mathfrak a$$ if and only if there is an ideal $$\mathfrak c$$ with $$\mathfrak a = \mathfrak b \mathfrak c$$.
 
-> **Fact 1.** The integral closure of $$\ZZ$$ in a finite extension $$K / \QQ$$ (that is, all elements $$\alpha \in K$$ that satisfy a monic polynomial equation $$\alpha^n + a_{n-1}\alpha^{n-1} + \dots + a_1\alpha + a_0 = 0$$, $$a_i \in \ZZ$$) is a Dedekind domain.
+> **Fact 1.** The integral closure of $$\ZZ$$ in a finite field extension $$K / \QQ$$ (that is, all elements $$\alpha \in K$$ satisfying a monic polynomial equation $$\alpha^n + a_{n-1}\alpha^{n-1} + \dots + a_1\alpha + a_0 = 0$$, $$a_i \in \ZZ$$) is a Dedekind domain.
 
 In fact, we need this result only for a particular quadratic extension of the rationals.
 
