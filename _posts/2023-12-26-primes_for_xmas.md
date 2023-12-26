@@ -5,6 +5,7 @@ date: 2023-12-26 20:00:00+0100
 description: Tis the season, and as a special gift I have infinitely many prime numbers for you using commutative algebra!
 tags: [commutative algebra, number theory]
 categories: [commutative algebra]
+giscus_comments: true
 related_posts: false
 ---
 As my first *ever* blog post on here and also as a mathematical Christmas gift, I wanted to share my favorite proof of the infinitude of prime numbers, only using commutative algebra (in the guise of the theory of Dedekind domains).
