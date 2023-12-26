@@ -7,7 +7,7 @@ tags: [commutative algebra, number theory]
 categories: [commutative algebra]
 related_posts: false
 ---
-As my first *ever* blog post on here and also as a mathematical Christmas gift, I wanted to share my favorite proof of the infinitude of prime numbers.
+As my first *ever* blog post on here and also as a mathematical Christmas gift, I wanted to share my favorite proof of the infinitude of prime numbers, only using commutative algebra (in the guise of the theory of Dedekind domains).
 
 > **Euclid's theorem.** There are infinitely many prime numbers $$p \in \ZZ$$.
 
