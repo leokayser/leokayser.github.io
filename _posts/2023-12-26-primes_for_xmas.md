@@ -13,7 +13,7 @@ As my first *ever* blog post on here and also as a mathematical Christmas gift, 
 
 > **Euclid's theorem.** There are infinitely many prime numbers $$p \in \ZZ$$.
 
-The following proof uses some basic results of algebraic number theory, which I'll now recall.
+Before showing you the proof, I recall some basic results from algebraic number theory.
 
 A Dedekind domain $$A$$ is an integral domain that has well-behaved factorization properties. One definition is that every nonzero ideal $$\mathfrak a \subseteq A$$ is the product of maximal ideals $$\mathfrak a = \mathfrak p_1 \dotsm \mathfrak p_s$$; this decomposition is then unique (up to permutation). In Dedekind domains the containment relation is the divisibility relation, i.e. $$\mathfrak b \supseteq \mathfrak a$$ if and only if there is an ideal $$\mathfrak c$$ with $$\mathfrak a = \mathfrak b \mathfrak c$$.
 
@@ -35,22 +35,28 @@ $$
 A \to A/\mathfrak q^2 \times A/\mathfrak p_2 \times \dotsm \times A/\mathfrak p_m
 $$
 
-is surjective. Pick $$a \in \mathfrak q \setminus \mathfrak q^2$$ and let $$q \in A$$ be any preimage of $$(a,0,\dots,0)$$. The prime factorization of $$qA$$ can not involve any of $$\mathfrak p_2, \dots, \mathfrak p_m$$ and also not $$\mathfrak q^2$$ by construction, hence $$qA = \mathfrak q$$. $$\square$$
+is surjective. Pick $$a \in \mathfrak q \setminus \mathfrak q^2$$ and let $$q \in A$$ be any preimage of $$(a,1,\dots,1)$$. The prime factorization of $$qA$$ can not involve any of $$\mathfrak p_2, \dots, \mathfrak p_m$$ and also not $$\mathfrak q^2$$ by construction, hence $$qA = \mathfrak q$$. $$\square$$
 
 Finally, we need the following easy fact
 
-> **Fact 4.** If $$A \subseteq B$$ is an integral extension and $$\mathfrak M \subseteq B$$ is a maximal ideal, then so is $$\mathfrak M \cap A \subseteq A$$.
+> **Fact 4.** If $$A \subseteq B$$ is an integral extension and $$\mathfrak M \subseteq B$$ is a maximal ideal, then so is $$\mathfrak m \coloneqq \mathfrak M \cap A \subseteq A$$.
+
+*Proof.* If $$A \subseteq B$$ is integral, then so is $$A' \coloneqq A/ \mathfrak m \subseteq B / \mathfrak M \eqqcolon K$$. Thus it suffices to show that if $$A' \subseteq K$$ is an integral extension with $$K$$ a field, then $$A'$$ is a field too. Let $$0 \neq x \in A$$, then $$x^{-1} \in K$$ is integral over $$A'$$, i.e. $$x^{-n} + a_{n-1}x^{-(n-1)} + \dots + a_1x^{-1} + a_0 = 0$$. Multiply by $$x^{n-1}$$ and rearrange to see
+
+$$
+x^{-1} = -a_{n-1} - a_{n-2}x - \dots - a_1 x^{n-2} - a_0 x^{n-1} \in A'. \tag*{$\square$}
+$$
 
 This implies that all maximal ideals in a finite extension $$B \supseteq A$$ of Dedekind domains are factors of $$\mathfrak p B$$ for $$\mathfrak p \subseteq A$$ maximal (Proof: $$\mathfrak M \supseteq (\mathfrak M \cap A)B$$).
 
 We are ready to prove the infinitude of prime number!
 
-*Proof of Euclid's theorem.* Assume that $$\ZZ$$ has only finitely prime numbers. Then the Dedekind domain $$\ZZ[\sqrt{-5}]$$ (**Fact 1&2**) also has only finitely maximal ideals (**Fact 4**) and hence is a principal ideal domain (**Fact 3**). But the decomposition
+*Proof of Euclid's theorem.* Assume that $$\ZZ$$ has only finitely prime numbers. Then the Dedekind domain $$\ZZ[\sqrt{-5}]$$ (**Fact 1+2**) also has only finitely maximal ideals (**Fact 4** + remark after) and hence is a principal ideal domain (**Fact 3**). But the decomposition
 
 $$
-6 = 2\cdot 3 = (1+\sqrt{-5}) \cdot (1-\sqrt{-5})
+2\cdot 3 = 6 = (1+\sqrt{-5}) \cdot (1-\sqrt{-5})
 $$
 
-shows that $$\ZZ[\sqrt{-5}]$$ is *not* an unique factorization domain! It is easy to see that $$2$$ is irreducible by considering the multiplicative norm $$N(x) = \lvert x \rvert^2$$, but it does *not* divide $$1\pm \sqrt{-5}$$, so it is not prime. :zap:
+shows that $$\ZZ[\sqrt{-5}]$$ is *not* an unique factorization domain! It is easy to see that $$2$$ is irreducible by considering the multiplicative norm $$N(x) = \lvert x \rvert^2$$, but $$2$$ does *not* divide $$1\pm \sqrt{-5}$$, so it is not prime. :zap:
 
 Merry Christmas and happy holidays! :christmas_tree:
