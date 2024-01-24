@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's value the ring
-date: 2023-12-29 20:00:00+0100
+date: 2099-12-29 20:00:00+0100
 description: This is a quick introduction to valuation rings and the "spectrum" of a field extension.
 tags: [commutative algebra]
 categories: [commutative algebra]
