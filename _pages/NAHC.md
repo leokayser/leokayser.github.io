@@ -1,13 +1,15 @@
 ---
 layout: page
 permalink: /nahc/
-title: GIT & NaHC Reading Seminar
+title: GIT & NaHC
 description: This is where Enya Hsiao and I organise the <i>Geometric Invariant Theory & Non-abelian Hodge Correspondence</i> Reading Seminar.
 nav: true
 nav_order: 6
 ---
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
+
+**Update 2024-01-23:** Added the notes from Fernando's talk and added this page to the navigation bar.
 
 **Update 2023-12-13:** Added the notes from Anaëlle's talk.
 
@@ -39,7 +41,7 @@ The goal of this reading seminar is two-fold:
 | 11.01. |  4. | <a href="/assets/pdf/nahc/04_Character_Variety.pdf" target="_blank">The Betti Moduli space: Character variety</a>              | Fernando   |
 | 18.01. |  5. | The de Rham Moduli space: Flat connections             | Jiajun     |
 | 25.01. |  6. | The Riemann-Hilbert correspondence                     | Pengfei    |
-| 01.02. | *D2.* | *Discussion: Ample line bundles*                       |            |
+| 01.02. | *D2.* | *Discussion: Ample line bundles*                       | Bernhard    |
 | 08.02. |  7. | Projective GIT                                         | Bernhard   |
 | 15.02. |  8. | Hilbert-Mumford criterion                              | Maximilian |
 | 22.02. |  9. | The moduli problem                                     | Leonie     |
