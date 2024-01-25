@@ -9,6 +9,8 @@ nav_order: 6
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
+**Update 2024-01-25:** Added the notes from Jiajun's talk.
+
 **Update 2024-01-23:** Added the notes from Fernando's talk and added this page to the navigation bar.
 
 **Update 2023-12-13:** Added the notes from Anaëlle's talk.
@@ -17,7 +19,7 @@ nav_order: 6
 
 **Update 2023-12-04:** Added the notes from Barbara's talk, reading plan polished (~~28.2.~~ was a typo, sorry!).
 
-**Update 2023-11-25:** The recommended reading on GIT for "non-AG folks" was changed/added, as well as the list of recommended books on GIT. The content of weeks 1-3 was added/clarified.
+[//]: # ## **Update 2023-11-25:** The recommended reading on GIT for "non-AG folks" was changed/added, as well as the list of recommended books on GIT. The content of weeks 1-3 was added/clarified.
 
 The nonabelian Hodge correspondence is a deep and beautiful theory that identifies three moduli spaces: the **Betti moduli space** $$\mathcal{M}_{\text{B}}$$ of surface group representations, the **de Rham moduli space** $$\mathcal{M}_{\text{dR}}$$ of flat connections and the **Dolbeault moduli space** $$\mathcal{M}_{\text{Dol}}$$ of Higgs bundles, whose objects on the surface appear to arise from very different contexts. The moduli spaces themselves are constructed as GIT quotients based on the geometric invariant theory pioneered by Mumford. The correspondence between these moduli spaces is the cumulative work of Corlette, Donaldson, Hitchin and Simpson built on that of many mathematicians and the machinery involved to prove these results lies in the intersection of algebraic geometry, complex geometry, geometric analysis and gauge theory.
 
@@ -39,7 +41,7 @@ The goal of this reading seminar is two-fold:
 | 28.12. |  ❄️  |                                                        |            |
 | 04.01. |  ❄️  |                                                        |            |
 | 11.01. |  4. | <a href="/assets/pdf/nahc/04_Character_Variety.pdf" target="_blank">The Betti Moduli space: Character variety</a>              | Fernando   |
-| 18.01. |  5. | The de Rham Moduli space: Flat connections             | Jiajun     |
+| 18.01. |  5. | <a href="/assets/pdf/nahc/05_deRham_Moduli_Space.pdf" target="_blank">The de Rham Moduli space: Flat connections</a>             | Jiajun     |
 | 25.01. |  6. | The Riemann-Hilbert correspondence                     | Pengfei    |
 | 01.02. | *D2.* | *Discussion: Ample line bundles*                       | Bernhard    |
 | 08.02. |  7. | Projective GIT                                         | Bernhard   |
