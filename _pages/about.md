@@ -12,10 +12,10 @@ profile:
     <p><a href="https://www.mis.mpg.de/">MPI MiS Leipzig</a></p>
     <p>Office G3 05</p>
 
-news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Leonie, a PhD student in math at [MPI MiS](https://www.mis.mpg.de/), Leipzig. I'm a member of the [Nonlinear Algebra Group](https://www.mis.mpg.de/nlalg/research.html), my advisor is [Simon Telen](https://simontelen.webnode.page/) and my mentor is [Fulvio Gesmundo](https://fulges.github.io/). I am interested in Commutative Algebra and Algebraic Geometry with a view towards computation and applications.
