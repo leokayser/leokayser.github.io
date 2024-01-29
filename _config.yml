@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Leonie
 middle_name:
 last_name: Kayser
-email: kayser@mis.mpg.de
+email: leo.kayser@mis.mpg.de
 pronouns: she/her
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage of Leonie Kayser, math PhD student @ MPI MiS Leipzig.
