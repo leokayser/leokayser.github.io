@@ -15,12 +15,6 @@ nav_order: 6
 
 **Update 2023-12-13:** Added the notes from Anaëlle's talk.
 
-**Update 2023-12-08:** Added discussion sheet for Gauge theory.
-
-**Update 2023-12-04:** Added the notes from Barbara's talk, reading plan polished (~~28.2.~~ was a typo, sorry!).
-
-[//]: # ## **Update 2023-11-25:** The recommended reading on GIT for "non-AG folks" was changed/added, as well as the list of recommended books on GIT. The content of weeks 1-3 was added/clarified.
-
 The nonabelian Hodge correspondence is a deep and beautiful theory that identifies three moduli spaces: the **Betti moduli space** $$\mathcal{M}_{\text{B}}$$ of surface group representations, the **de Rham moduli space** $$\mathcal{M}_{\text{dR}}$$ of flat connections and the **Dolbeault moduli space** $$\mathcal{M}_{\text{Dol}}$$ of Higgs bundles, whose objects on the surface appear to arise from very different contexts. The moduli spaces themselves are constructed as GIT quotients based on the geometric invariant theory pioneered by Mumford. The correspondence between these moduli spaces is the cumulative work of Corlette, Donaldson, Hitchin and Simpson built on that of many mathematicians and the machinery involved to prove these results lies in the intersection of algebraic geometry, complex geometry, geometric analysis and gauge theory.
 
 The goal of this reading seminar is two-fold:
