@@ -38,15 +38,14 @@
       description:
         - 'Thesis on <i>Del Pezzo surfaces: Geometry and Arithmetic</i>, supervised by <a href="https://www.iag.uni-hannover.de/en/hulek/">Klaus Hulek</a>'
 
-
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
-      items: 
+      items:
         - Affiliated with the <i>Dean's list</i> of the EE-CS faculty at LUH
     - year: 2020
-      items: 
+      items:
         - President's Prize for Excellent Students at LUH
     - year: 2018 - 2021
       items:
@@ -59,7 +58,7 @@
   type: nested_list
   contents:
     - title: Mathematics
-      items: 
+      items:
         - Commutative Algebra
         - Algebraic Geometry, specifically Projective Geometry, syzygies
         - Computer Algebra

@@ -9,17 +9,17 @@ giscus_comments: true
 related_posts: true
 ---
 
-I always found the topic of *valuation rings* quite nice
+I always found the topic of _valuation rings_ quite nice
 
-> **Definition.** Let $R$ be a ring and $(\Gamma,\geq)$ a totally ordered abelian group (that is, $a \geq b \implies a+c \geq b+c$). A *valuation* on $R$ is a map $v \colon R \to\Gamma \cup \{\infty\}$ such that
+> **Definition.** Let $R$ be a ring and $(\Gamma,\geq)$ a totally ordered abelian group (that is, $a \geq b \implies a+c \geq b+c$). A _valuation_ on $R$ is a map $v \colon R \to\Gamma \cup \{\infty\}$ such that
 >
-> * (V0) $\nu(0) = \infty$ and $v(x) \in \Gamma$ for $x \neq 0$.
-> * (V1) $\nu(xy) = \nu(x) + \nu(y)$ (with the convention $a+\infty = \infty$) and
-> * (V2) $\nu(x+y) \geq \min\{\nu(x),\nu(y)\}$ for $x,y \in K$.
+> - (V0) $\nu(0) = \infty$ and $v(x) \in \Gamma$ for $x \neq 0$.
+> - (V1) $\nu(xy) = \nu(x) + \nu(y)$ (with the convention $a+\infty = \infty$) and
+> - (V2) $\nu(x+y) \geq \min\{\nu(x),\nu(y)\}$ for $x,y \in K$.
 >
-> If $R$ is a field, then the image $\nu(R^\times) \subseteq \Gamma$ is the *value group*.
+> If $R$ is a field, then the image $\nu(R^\times) \subseteq \Gamma$ is the _value group_.
 
-Note that a ring with a valuation is necessarily an integral domain (V0+V1), and that a valuation on $R$ can always be uniquely extended to a valuation on the field of fractions $K = \operatorname{Frac}(R)$ via $\nu(x/y) = \nu(x)-\nu(y)$. The set of elements of $K$ of non-negative valuation form a ring $\OO_\nu = \set{x \in K : \nu(x) \geq 0}$ with unique maximal ideal $\mm_\nu = \set{x \in K : \nu(x) > 0}$, the *valuation ring* of $\nu$. What kind of rings are valuation rings?
+Note that a ring with a valuation is necessarily an integral domain (V0+V1), and that a valuation on $R$ can always be uniquely extended to a valuation on the field of fractions $K = \operatorname{Frac}(R)$ via $\nu(x/y) = \nu(x)-\nu(y)$. The set of elements of $K$ of non-negative valuation form a ring $\OO_\nu = \set{x \in K : \nu(x) \geq 0}$ with unique maximal ideal $\mm_\nu = \set{x \in K : \nu(x) > 0}$, the _valuation ring_ of $\nu$. What kind of rings are valuation rings?
 
 > **Lemma/Definition.** Let $R$ be an integral domain with field of fractions $K$. The following are equivalent:
 >
@@ -28,9 +28,9 @@ Note that a ring with a valuation is necessarily an integral domain (V0+V1), and
 > 3. The set of ideals, or more generally the set of $R$-submodules of $K$, is totally ordered by inclusion;
 > 4. There exists a valuation $\nu$ on $K$ with $R = \OO_\nu$.
 >
-> We define a *valuation ring* to be a ring satisfying these properties. $\nu \colon K^\times \to \nu(K^\times)$ is unique up to isomorphism. 
+> We define a _valuation ring_ to be a ring satisfying these properties. $\nu \colon K^\times \to \nu(K^\times)$ is unique up to isomorphism.
 
-*Proof.* (1.⇔2.) The "more generally" in 2. is evidently equivalent to 1.. Conversely, if $x = a/b \notin R$, then $a \nmid b$, so $a \mid b$ and $x^{-1} = b/a \in R$.
+_Proof._ (1.⇔2.) The "more generally" in 2. is evidently equivalent to 1.. Conversely, if $x = a/b \notin R$, then $a \nmid b$, so $a \mid b$ and $x^{-1} = b/a \in R$.
 
 (2.⇔3.) Let $M, N \subseteq K$ be submodules and $x \in N \setminus M$. Let $y \in M$, then $x \notin Ry$ and hence $y \in Rx \subseteq N$. The converse is clear.
 
@@ -46,13 +46,13 @@ Finally, the valuation is unique up to isomorphism, since the map to the value g
 
 These equivalent characterizations hint at a particularly simple ideal theory of valuation rings, which should be related to the value group $\Gamma$. Let $M \subseteq K$ be an $R$-submodule, then $\Gamma_M \coloneqq \nu(M \setminus 0)$ has is an order
 
-> *Theorem.* 
+> _Theorem._
 
-There is another important characterization of valuation rings: they are maximal subrings of their fraction field without 
+There is another important characterization of valuation rings: they are maximal subrings of their fraction field without
 
 (1.+3.⇒5.) 3. easily implies that there is a unique maximal ideal $\mathfrak m_R$, so $R$ is local. Moreover, any overring $R \subseteq R \subseteq K$ also satisfies 1.. If $S$ dominates $R$ and $x \notin R$, then $x^{-1} \in R \setminus R^\times = \mathfrak m_R \subseteq \mathfrak m_S = S \setminus S^\times$, so $s \notin S$, hence $S=R$.
 
-> **Lemma.**  $R$ is maximal among local rings $\subseteq K$ with respect to *domination*, that is, $(R, \mathfrak m_R) \leq_{\text{dom}} (S, \mathfrak m_S)$ iff $R \subseteq S$ and $\mathfrak m_R = \mathfrak m_S \cap R$.
+> **Lemma.** $R$ is maximal among local rings $\subseteq K$ with respect to _domination_, that is, $(R, \mathfrak m_R) \leq_{\text{dom}} (S, \mathfrak m_S)$ iff $R \subseteq S$ and $\mathfrak m_R = \mathfrak m_S \cap R$.
 > Then there exists a valuation ring $A \subseteq S \subseteq K$ dominating $R$.
 
-*Proof.* The set $\set{S \subseteq K : S \geq_{\text{dom}} R}$ is nonempty and closed under taking ascending chains (the condition $\mathfrak m_S \cap R = \mathfrak m_R$ is equivalent to $1 \notin \mathfrak m_RS$). By Zorn's lemma there is a maximal element $S$. $S$ is integrally closed;
+_Proof._ The set $\set{S \subseteq K : S \geq_{\text{dom}} R}$ is nonempty and closed under taking ascending chains (the condition $\mathfrak m_S \cap R = \mathfrak m_R$ is equivalent to $1 \notin \mathfrak m_RS$). By Zorn's lemma there is a maximal element $S$. $S$ is integrally closed;

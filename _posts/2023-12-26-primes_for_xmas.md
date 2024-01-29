@@ -9,7 +9,7 @@ giscus_comments: true
 related_posts: false
 ---
 
-As my first *ever* blog post on here and also as a mathematical Christmas gift, I wanted to share my favorite proof of the infinitude of prime numbers, only using commutative algebra (in the guise of the theory of Dedekind domains).
+As my first _ever_ blog post on here and also as a mathematical Christmas gift, I wanted to share my favorite proof of the infinitude of prime numbers, only using commutative algebra (in the guise of the theory of Dedekind domains).
 
 > **Euclid's theorem.** There are infinitely many prime numbers $p \in \ZZ$.
 
@@ -29,7 +29,7 @@ Dedekind domains need not be unique factorization domains, in fact **Dedekind + 
 
 > **Fact 3.** A Dedekind domain $A$ with finitely many maximal ideals is a principal ideal domain.
 
-*Proof.* By the prime factorization it suffices that each of the finitely many maximal ideals $\mathfrak p_1,\dots,\mathfrak p_m$ is principal, let's show this for $\mathfrak q = \mathfrak p_1$. By the Chinese Remainder Theorem applied to the comaximal ideals $\mathfrak q^2, \mathfrak p_2, \dots, \mathfrak p_m$, the map
+_Proof._ By the prime factorization it suffices that each of the finitely many maximal ideals $\mathfrak p_1,\dots,\mathfrak p_m$ is principal, let's show this for $\mathfrak q = \mathfrak p_1$. By the Chinese Remainder Theorem applied to the comaximal ideals $\mathfrak q^2, \mathfrak p_2, \dots, \mathfrak p_m$, the map
 
 $$
 A \to A/\mathfrak q^2 \times A/\mathfrak p_2 \times \dotsm \times A/\mathfrak p_m
@@ -41,7 +41,7 @@ Finally, we need the following easy fact
 
 > **Fact 4.** If $A \subseteq B$ is an integral extension and $\mathfrak M \subseteq B$ is a maximal ideal, then so is $\mathfrak m \coloneqq \mathfrak M \cap A \subseteq A$.
 
-*Proof.* If $A \subseteq B$ is integral, then so is $A' \coloneqq A/ \mathfrak m \subseteq B / \mathfrak M \eqqcolon K$. Thus it suffices to show that if $A' \subseteq K$ is an integral extension with $K$ a field, then $A'$ is a field too. Let $0 \neq x \in A$, then $x^{-1} \in K$ is integral over $A'$, i.e. $x^{-n} + a_{n-1}x^{-(n-1)} + \dots + a_1x^{-1} + a_0 = 0$. Multiply by $x^{n-1}$ and rearrange to see
+_Proof._ If $A \subseteq B$ is integral, then so is $A' \coloneqq A/ \mathfrak m \subseteq B / \mathfrak M \eqqcolon K$. Thus it suffices to show that if $A' \subseteq K$ is an integral extension with $K$ a field, then $A'$ is a field too. Let $0 \neq x \in A$, then $x^{-1} \in K$ is integral over $A'$, i.e. $x^{-n} + a_{n-1}x^{-(n-1)} + \dots + a_1x^{-1} + a_0 = 0$. Multiply by $x^{n-1}$ and rearrange to see
 
 $$
 x^{-1} = -a_{n-1} - a_{n-2}x - \dots - a_1 x^{n-2} - a_0 x^{n-1} \in A'. \tag*{$\square$}
@@ -51,12 +51,12 @@ This implies that all maximal ideals in a finite extension $B \supseteq A$ of De
 
 We are ready to prove the infinitude of prime number!
 
-*Proof of Euclid's theorem.* Assume that $\ZZ$ has only finitely prime numbers. Then the Dedekind domain $\ZZ[\sqrt{-5}]$ (**Fact 1+2**) also has only finitely maximal ideals (**Fact 4** + remark after) and hence is a principal ideal domain (**Fact 3**). But the decomposition
+_Proof of Euclid's theorem._ Assume that $\ZZ$ has only finitely prime numbers. Then the Dedekind domain $\ZZ[\sqrt{-5}]$ (**Fact 1+2**) also has only finitely maximal ideals (**Fact 4** + remark after) and hence is a principal ideal domain (**Fact 3**). But the decomposition
 
 $$
 2\cdot 3 = 6 = (1+\sqrt{-5}) \cdot (1-\sqrt{-5})
 $$
 
-shows that $\ZZ[\sqrt{-5}]$ is *not* an unique factorization domain! It is easy to see that $2$ is irreducible by considering the multiplicative norm $N(x) = \lvert x \rvert^2$, but $2$ does *not* divide $1\pm \sqrt{-5}$, so it is not prime. :zap:
+shows that $\ZZ[\sqrt{-5}]$ is _not_ an unique factorization domain! It is easy to see that $2$ is irreducible by considering the multiplicative norm $N(x) = \lvert x \rvert^2$, but $2$ does _not_ divide $1\pm \sqrt{-5}$, so it is not prime. :zap:
 
 Merry Christmas and happy holidays! :christmas_tree:

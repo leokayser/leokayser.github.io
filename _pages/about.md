@@ -23,6 +23,7 @@ Hi, I'm Leonie, a PhD student in math at [MPI MiS](https://www.mis.mpg.de/), Lei
 I studied both mathematics and computer science at Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on <a href="/assets/pdf/papers/The_Waring_problem_for_polynomials.pdf" target="_blank">The Waring problem for polynomials</a> under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on <a href="/assets/pdf/papers/Groebner_Bases_and_Their_Complexity.pdf" target="_blank">Gröbner Bases and Their Complexity</a> under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
 
 ## Upcoming events
+
 - Feb 12-16: [Positive Geometry in Particle Physics and Cosmology](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology) at MPI MiS, Leipzig
 - Feb 29--Mar 1: [Northern German Algebraic Geometry Seminar Spring 2024](https://uol.de/milena-wrobel/north-german-algebraic-geometry-seminar) at UOL, Oldenburg
 - Mar 8--9: [SPIN 2030 Science Festival](https://spin2030.com/en/veranstaltung/spin-2030-science-festival/) at Technische Sammlungen Dresden
@@ -30,6 +31,7 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - May 13--17: [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) at Sorbonne Université, Paris
 
 ## Past events
+
 - Nov 13--15: [Workshop on Geometry and Machine Learning](https://www.mis.mpg.de/calendar/conferences/2023/gaml.html) at MPI MiS, Leipzig
 - Oct 16--18: [Chow Lectures 2023](https://www.mis.mpg.de/calendar/conferences/2023/chow.html) at MPI MiS, Leipzig
 - Oct 9--11: [Maths meets information specialists](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html) at MPI MiS, Leipzig
@@ -37,6 +39,6 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Sep 6--8: [Conference on Applied Algebra](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/) at Osnabrück University
 - Jul 10--14: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at TU Eindhoven
 - May 31--Jun 1: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at LUH, Hannover
-- May 22--24: [Commutative Algebra TOwards Applications](https://sites.google.com/view/commalgintorino/home) at Politecnico and Università di Torino 
+- May 22--24: [Commutative Algebra TOwards Applications](https://sites.google.com/view/commalgintorino/home) at Politecnico and Università di Torino
 - Mar 9: Seminar day on [Algebra, Geometry and Computation](https://simontelen.webnode.page/l/algebra-geometry-and-computation-at-cwi/) at CWI, Amsterdam
 - Feb 9--10, 2023: [Northern German Algebraic Geometry Seminar 2023](https://www.math.hu-berlin.de/~www-ag/NoGAGS.html) at HU Berlin

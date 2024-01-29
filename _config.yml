@@ -14,9 +14,8 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Leo Kayser, Leonie Kayser, Elisabeth Kayser, Elias Kayser, MPI MiS, Leipzig, math, Commuting Quadrangles, algebra, algebraic geometry, macaulay2, tensor, complexity, computation, leokayser # add your own keywords or leave empty
-
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: feather_ico.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: feather_ico.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://leokayser.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -141,13 +140,13 @@ related_blog_posts:
 giscus:
   repo: leokayser/leokayser.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOI2J8lA
-  category: Comments             # name of the category under which discussions will be created
+  category: Comments # name of the category under which discussions will be created
   category_id: DIC_kwDOI2J8lM4CT1-1
-  mapping: title                 # identify discussions by post title
-  strict: 0                      # use strict identification mode
-  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
+  mapping: title # identify discussions by post title
+  strict: 0 # use strict identification mode
+  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
+  input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
 
@@ -282,7 +281,6 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-
   last_name: [Kayser]
   first_name: [Leonie, L.]
 
