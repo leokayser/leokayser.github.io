@@ -2,10 +2,37 @@
   <!-- MathJax -->
   <script type="text/javascript">
     window.MathJax = {
-      tex: {
-        tags: 'ams',
+    loader: { load: ["[tex]/mathtools", "[tex]/braket"] },
+    tex: {
+      inlineMath: [
+        ["$", "$"],
+        ["\\(", "\\)"],
+      ],
+      displayMath: [
+        ["$$", "$$"],
+        ["\\[", "\\]"],
+      ],
+      tags: "ams",
+      packages: { "[+]": ["mathtools", "braket"] },
+      macros: {
+        NN: "{\\mathbb N}",
+        ZZ: "{\\mathbb Z}",
+        QQ: "{\\mathbb Q}",
+        RR: "{\\mathbb R}",
+        CC: "{\\mathbb C}",
+        PP: "{\\mathbb P}",
+        OO: "{\\mathcal O}",
+        aa: "{\\mathfrak a}",
+        bb: "{\\mathfrak b}",
+        cc: "{\\mathfrak c}",
+        mm: "{\\mathfrak m}",
+        pp: "{\\mathfrak p}",
+        divides: "\\mid",
+        dividesnot: "\\nmid",
+        eps: "\\varepsilon",
       },
-    };
+    },
+  };
   </script>
   <script
     defer
