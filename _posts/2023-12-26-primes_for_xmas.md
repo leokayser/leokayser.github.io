@@ -35,7 +35,7 @@ $$
 A \to A/\mathfrak q^2 \times A/\mathfrak p_2 \times \dotsm \times A/\mathfrak p_m
 $$
 
-is surjective. Pick $a \in \mathfrak q \setminus \mathfrak q^2$ and let $q \in A$ be any preimage of $(a,1,\dots,1)$. The prime factorization of $qA$ can not involve any of $\mathfrak p_2, \dots, \mathfrak p_m$ and also not $\mathfrak q^2$ by construction, hence $qA = \mathfrak q$. $\square$
+is surjective. Pick $a \in \mathfrak q \setminus \mathfrak q^2$ and let $q \in A$ be any preimage of $(a,1,\dots,1)$. The prime factorization of $qA \subseteq \mathfrak q$ can not involve any of $\mathfrak p_2, \dots, \mathfrak p_m$ and also not $\mathfrak q^2$ by construction, hence $qA = \mathfrak q$. $\square$
 
 Finally, we need the following easy fact
 
