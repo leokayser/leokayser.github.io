@@ -1,13 +1,15 @@
 ---
 layout: page
 permalink: /nahc/
-title: GIT & NaHC
+title: git & nahc
 description: This is where Enya Hsiao and I organise the <i>Geometric Invariant Theory & Non-abelian Hodge Correspondence</i> Reading Seminar.
 nav: true
 nav_order: 6
 ---
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
+
+**Update 2024-01-31:** Due to the [Symplectic geometry of representation and quiver varieties](https://www.mis.mpg.de/de/events/series/symplectic-geometry-of-representation-and-quiver-varieties) conference we postpone this week's meeting to **Friday 2.2. 14:00**. Sorry for the short notice!
 
 **Update 2024-01-25:** Added the notes from Jiajun's talk.
 
@@ -38,7 +40,7 @@ The goal of this reading seminar is two-fold:
 | 11.01. | 4. | <a href="/assets/pdf/nahc/04_Character_Variety.pdf" target="_blank">The Betti Moduli space: Character variety</a> | Fernando |
 | 18.01. | 5. | <a href="/assets/pdf/nahc/05_deRham_Moduli_Space.pdf" target="_blank">The de Rham Moduli space: Flat connections</a> | Jiajun |
 | 25.01. | 6. | The Riemann-Hilbert correspondence | Pengfei |
-| 01.02. | _D2._ | _Discussion: Ample line bundles_ | Bernhard |
+| <span style="color:red">02.02.</span> | _D2._ | _Discussion: Ample line bundles_ <span style="color:red">14:00</span> | Bernhard |
 | 08.02. | 7. | Projective GIT | Bernhard |
 | 15.02. | 8. | Hilbert-Mumford criterion | Maximilian |
 | 22.02. | 9. | The moduli problem | Leonie |
