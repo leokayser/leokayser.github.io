@@ -9,7 +9,7 @@ nav_order: 6
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
-**Update 2024-01-31:** Due to the [Symplectic geometry of representation and quiver varieties](https://www.mis.mpg.de/de/events/series/symplectic-geometry-of-representation-and-quiver-varieties) conference we postpone this week's meeting to **Friday 2.2. 14:00**. Sorry for the short notice!
+**Update 2024-01-31:** Due to [a local workshop](https://www.mis.mpg.de/de/events/series/symplectic-geometry-of-representation-and-quiver-varieties) we postpone this week's meeting to <span style="color:red">**Friday 2.2. 14:00**</span>. Sorry for the short notice!
 
 **Update 2024-01-25:** Added the notes from Jiajun's talk.
 
