@@ -11,7 +11,7 @@ nav_order: 6
 
 **Update 2024-02-02:** Added the notes from Pengfei's talk.
 
-**Update 2024-01-31:** Due to the [Symplectic geometry of representation and quiver varieties](https://www.mis.mpg.de/de/events/series/symplectic-geometry-of-representation-and-quiver-varieties) conference we postpone this week's meeting to **Friday 2.2. 14:00**. Sorry for the short notice!
+**Update 2024-01-31:** Due to [a local workshop](https://www.mis.mpg.de/de/events/series/symplectic-geometry-of-representation-and-quiver-varieties) we move this week's meeting to <span style="color:red">Friday 2.2. 14:00</span>. Sorry for the short notice!
 
 **Update 2024-01-25:** Added the notes from Jiajun's talk.
 
