@@ -9,13 +9,13 @@ nav_order: 6
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
+**Update 2024-02-02:** Added the notes from Pengfei's talk.
+
 **Update 2024-01-31:** Due to the [Symplectic geometry of representation and quiver varieties](https://www.mis.mpg.de/de/events/series/symplectic-geometry-of-representation-and-quiver-varieties) conference we postpone this week's meeting to **Friday 2.2. 14:00**. Sorry for the short notice!
 
 **Update 2024-01-25:** Added the notes from Jiajun's talk.
 
 **Update 2024-01-23:** Added the notes from Fernando's talk and added this page to the navigation bar.
-
-**Update 2023-12-13:** Added the notes from Anaëlle's talk.
 
 The nonabelian Hodge correspondence is a deep and beautiful theory that identifies three moduli spaces: the **Betti moduli space** $$\mathcal{M}_{\text{B}}$$ of surface group representations, the **de Rham moduli space** $$\mathcal{M}_{\text{dR}}$$ of flat connections and the **Dolbeault moduli space** $$\mathcal{M}_{\text{Dol}}$$ of Higgs bundles, whose objects on the surface appear to arise from very different contexts. The moduli spaces themselves are constructed as GIT quotients based on the geometric invariant theory pioneered by Mumford. The correspondence between these moduli spaces is the cumulative work of Corlette, Donaldson, Hitchin and Simpson built on that of many mathematicians and the machinery involved to prove these results lies in the intersection of algebraic geometry, complex geometry, geometric analysis and gauge theory.
 
@@ -39,7 +39,7 @@ The goal of this reading seminar is two-fold:
 | 04.01. | ❄️ | | |
 | 11.01. | 4. | <a href="/assets/pdf/nahc/04_Character_Variety.pdf" target="_blank">The Betti Moduli space: Character variety</a> | Fernando |
 | 18.01. | 5. | <a href="/assets/pdf/nahc/05_deRham_Moduli_Space.pdf" target="_blank">The de Rham Moduli space: Flat connections</a> | Jiajun |
-| 25.01. | 6. | The Riemann-Hilbert correspondence | Pengfei |
+| 25.01. | 6. | <a href="/assets/pdf/nahc/06_Riemann-Hilbert_correspondence.pdf" target="_blank">The Riemann-Hilbert correspondence</a> | Pengfei |
 | <span style="color:red">02.02.</span> | _D2._ | _Discussion: Ample line bundles_ <span style="color:red">14:00</span> | Bernhard |
 | 08.02. | 7. | Projective GIT | Bernhard |
 | 15.02. | 8. | Hilbert-Mumford criterion | Maximilian |
