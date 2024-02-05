@@ -49,7 +49,7 @@ $$
 
 This implies that all maximal ideals in a finite extension $B \supseteq A$ of Dedekind domains are factors of $\mathfrak p B$ for $\mathfrak p \subseteq A$ maximal (Proof: $\mathfrak M \supseteq (\mathfrak M \cap A)B$).
 
-We are ready to prove the infinitude of prime number!
+We are ready to prove the infinitude of prime numbers!
 
 _Proof of Euclid's theorem._ Assume that $\ZZ$ has only finitely prime numbers. Then the Dedekind domain $\ZZ[\sqrt{-5}]$ (**Fact 1+2**) also has only finitely maximal ideals (**Fact 4** + remark after) and hence is a principal ideal domain (**Fact 3**). But the decomposition
 
