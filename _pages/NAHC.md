@@ -40,7 +40,7 @@ The goal of this reading seminar is two-fold:
 | 11.01. | 4. | <a href="/assets/pdf/nahc/04_Character_Variety.pdf" target="_blank">The Betti Moduli space: Character variety</a> | Fernando |
 | 18.01. | 5. | <a href="/assets/pdf/nahc/05_deRham_Moduli_Space.pdf" target="_blank">The de Rham Moduli space: Flat connections</a> | Jiajun |
 | 25.01. | 6. | <a href="/assets/pdf/nahc/06_Riemann-Hilbert_correspondence.pdf" target="_blank">The Riemann-Hilbert correspondence</a> | Pengfei |
-| <span style="color:red">02.02.</span> | _D2._ | _Discussion:_ <a href="/assets/pdf/nahc/D2_Proj_and_Ample_line_bundles.pdf" target="_blank">Proj and Ample line bundles</a> <span style="color:red">14:00</span> | Bernhard |
+| <span style="color:red">02.02.</span> | _D2._ | <a href="/assets/pdf/nahc/D2_Proj_and_Ample_line_bundles.pdf" target="_blank">_Discussion:_ Proj and Ample line bundles</a> <span style="color:red">14:00</span> | Bernhard |
 | 08.02. | 7. | Projective GIT | Bernhard |
 | 15.02. | 8. | Hilbert-Mumford criterion | Maximilian |
 | 22.02. | 9. | The moduli problem | Leonie |
