@@ -9,7 +9,7 @@ nav_order: 6
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
-**Update 2024-02-06:** Added discussion sheet from Bernhard's talk.
+**Update 2024-02-06:** Added discussion sheet from Bernhard's talk and updated the seminar plan.
 
 **Update 2024-02-02:** Added the notes from Pengfei's talk.
 
