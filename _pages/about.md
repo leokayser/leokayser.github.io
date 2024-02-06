@@ -29,6 +29,7 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Mar 8--9: [SPIN 2030 Science Festival](https://spin2030.com/en/veranstaltung/spin-2030-science-festival/) at Technische Sammlungen Dresden
 - Apr 10--12: [5th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/) at HU/TU Berlin
 - May 13--17: [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) at Sorbonne Université, Paris
+- May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
 
 ## Past events
 
