@@ -41,7 +41,7 @@ The goal of this reading seminar is two-fold:
 | 18.01. | 5. | <a href="/assets/pdf/nahc/05_deRham_Moduli_Space.pdf" target="_blank">The de Rham Moduli space: Flat connections</a> | Jiajun |
 | 25.01. | 6. | <a href="/assets/pdf/nahc/06_Riemann-Hilbert_correspondence.pdf" target="_blank">The Riemann-Hilbert correspondence</a> | Pengfei |
 | <span style="color:red">02.02.</span> | _D2._ | <a href="/assets/pdf/nahc/D2_Proj_and_Ample_line_bundles.pdf" target="_blank">_Discussion:_ Proj and Ample line bundles</a> <span style="color:red">14:00</span> | Bernhard |
-| 08.02. | 7. | <a href="/assets/pdf/nahc/07_Projective_GIT.pdf" target="_blank">Projective GIT</span> | Bernhard |
+| 08.02. | 7. | <a href="/assets/pdf/nahc/07_Projective_GIT.pdf" target="_blank">Projective GIT</a> | Bernhard |
 | 15.02. | 8. | Hilbert-Mumford criterion | Maximilian |
 | 22.02. | 9. | The moduli problem | Leonie |
 | 29.02. | _D3._ | _Discussion: Complex geometry_ | |
