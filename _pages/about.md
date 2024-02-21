@@ -24,7 +24,6 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Feb 12-16: [Positive Geometry in Particle Physics and Cosmology](https://www.mis.mpg.de/events/series/positive-geometry-in-particle-physics-and-cosmology) at MPI MiS, Leipzig
 - Feb 29--Mar 1: [Northern German Algebraic Geometry Seminar Spring 2024](https://uol.de/milena-wrobel/north-german-algebraic-geometry-seminar) at UOL, Oldenburg
 - Mar 8--9: [SPIN 2030 Science Festival](https://spin2030.com/en/veranstaltung/spin-2030-science-festival/) at Technische Sammlungen Dresden
 - Apr 10--12: [5th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/) at HU/TU Berlin

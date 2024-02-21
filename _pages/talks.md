@@ -7,6 +7,11 @@ nav: true
 nav_order: 2
 ---
 
+## 2024
+
+- Feb 22: **The moduli problem**
+  at [_GIT & NaHC Reading Seminar_](/nahc/), MPI MiS Leipzig
+
 ## 2023
 
 - Dec 14: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag_23-12-14.pdf" target="_blank">Folien</a>)
