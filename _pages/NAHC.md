@@ -9,13 +9,13 @@ nav_order: 6
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
+**Update 2024-02-21:** Added the notes from Bernhard's second talk and updated the schedule <span style="color:red">skipping the 7th of March</span>!
+
 **Update 2024-02-06:** Added discussion sheet from Bernhard's talk and updated the seminar plan.
 
 **Update 2024-02-02:** Added the notes from Pengfei's talk.
 
 **Update 2024-01-31:** Due to [a local workshop](https://www.mis.mpg.de/de/events/series/symplectic-geometry-of-representation-and-quiver-varieties) we move this week's meeting to <span style="color:red">Friday 2.2. 14:00</span>. Sorry for the short notice!
-
-**Update 2024-01-25:** Added the notes from Jiajun's talk.
 
 The nonabelian Hodge correspondence is a deep and beautiful theory that identifies three moduli spaces: the **Betti moduli space** $$\mathcal{M}_{\text{B}}$$ of surface group representations, the **de Rham moduli space** $$\mathcal{M}_{\text{dR}}$$ of flat connections and the **Dolbeault moduli space** $$\mathcal{M}_{\text{Dol}}$$ of Higgs bundles, whose objects on the surface appear to arise from very different contexts. The moduli spaces themselves are constructed as GIT quotients based on the geometric invariant theory pioneered by Mumford. The correspondence between these moduli spaces is the cumulative work of Corlette, Donaldson, Hitchin and Simpson built on that of many mathematicians and the machinery involved to prove these results lies in the intersection of algebraic geometry, complex geometry, geometric analysis and gauge theory.
 
@@ -28,7 +28,7 @@ The goal of this reading seminar is two-fold:
 
 {:class="table table-borderless table-striped"}
 | Date | | Topic | Speaker |
-|:------:|----:|:-------------------------------------------------------|:-----------|
+|:---:|:-:|:-----|:--------|
 | 16.11. | 0. | Introduction and overview | |
 | 23.11. | 1. | <a href="/assets/pdf/nahc/01_Affine_and_projective_Varieties.pdf" target="_blank">Affine and projective varieties</a> | Leonie |
 | 30.11. | 2. | <a href="/assets/pdf/nahc/02_Algebraic_groups_and_invariant_theory.pdf" target="_blank">Algebraic groups and invariant theory</a> | Barbara |
@@ -41,11 +41,12 @@ The goal of this reading seminar is two-fold:
 | 18.01. | 5. | <a href="/assets/pdf/nahc/05_deRham_Moduli_Space.pdf" target="_blank">The de Rham Moduli space: Flat connections</a> | Jiajun |
 | 25.01. | 6. | <a href="/assets/pdf/nahc/06_Riemann-Hilbert_correspondence.pdf" target="_blank">The Riemann-Hilbert correspondence</a> | Pengfei |
 | <span style="color:red">02.02.</span> | _D2._ | <a href="/assets/pdf/nahc/D2_Proj_and_Ample_line_bundles.pdf" target="_blank">_Discussion:_ Proj and Ample line bundles</a> <span style="color:red">14:00</span> | Bernhard |
-| 08.02. | 7. | Projective GIT | Bernhard |
+| 08.02. | 7. | <a href="/assets/pdf/nahc/07_Projective_GIT.pdf" target="_blank">Projective GIT</span> | Bernhard |
 | 15.02. | 8. | Hilbert-Mumford criterion | Maximilian |
 | 22.02. | 9. | The moduli problem | Leonie |
 | 29.02. | _D3._ | _Discussion: Complex geometry_ | |
-| 07.03. | 10. | The Dolbeault Moduli space: Higgs bundles | Tim |
-| 14.03. | 11. | Harmonic bundles and Donaldson-Corlette correspondence | Christian |
-| 21.03. | 12. | The Hitchin-Simpson correspondence | Enya |
-| 28.03. | _D4._ | _Discussion_ | |
+| 07.03. | 🏕️ | | |
+| 14.03. | 10. | The Dolbeault Moduli space: Higgs bundles | Tim |
+| 21.03. | 11. | Harmonic bundles and Donaldson-Corlette correspondence | Christian |
+| 28.03. | 12. | The Hitchin-Simpson correspondence | Enya |
+| ? | _D4._ | _Discussion_ | |
