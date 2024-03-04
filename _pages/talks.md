@@ -9,7 +9,9 @@ nav_order: 2
 
 ## 2024
 
-- Mar 1: **The Geometry behind eigenvalue methods for Symmetric Tensor Decomposition** (<a href="/assets/pdf/presentations/Geometry_of_eigenvalue_methods_for_STD.pdf" target="_blank">Slides</a>)
+- Mar 9: **Formen und ihre Gleichungen** (Poster)
+  at [_SPIN 2030 Festival_](https://spin2030.com/en/veranstaltung/spin-2030-science-festival/), Technische Sammlungen Dresden
+- Mar 1: **Geometry of eigenvalue methods for Symmetric Tensor Decomposition** (<a href="/assets/pdf/presentations/Geometry_of_eigenvalue_methods_for_STD.pdf" target="_blank">Slides</a>)
   at [_NoGAGS 2024_](https://uol.de/milena-wrobel/north-german-algebraic-geometry-seminar), University Oldenburg
 - Feb 22: **The moduli problem** (<a href="/assets/pdf/nahc/09_Moduli_Problem.pdf" target="_blank">Handout</a>)
   at [_GIT & NaHC Reading Seminar_](/nahc/), MPI MiS Leipzig
