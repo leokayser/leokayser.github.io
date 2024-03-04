@@ -44,7 +44,7 @@ The goal of this reading seminar is two-fold:
 | 08.02. | 7. | <a href="/assets/pdf/nahc/07_Projective_GIT.pdf" target="_blank">Projective GIT</a> | Bernhard |
 | 15.02. | 8. | <a href="/assets/pdf/nahc/08_Hilbert_Mumford_Criterion.pdf" target="_blank">Hilbert-Mumford criterion</a> | Maximilian |
 | 22.02. | 9. | <a href="/assets/pdf/nahc/09_Moduli_Problem.pdf" target="_blank">The moduli problem</a> | Leonie |
-| <span style="color:red">04.03.</span> | _D3._ | _Discussion:_ <a href="/assets/pdf/nahc/D3_Complex_geometry.pdf" target="_blank">Complex geometry</a> <span style="color:red">11:00</span> | Maximilian? |
+| <span style="color:red">04.03.</span> | _D3._ | _Discussion:_ <a href="/assets/pdf/nahc/D3_Complex_geometry.pdf" target="_blank">Complex geometry</a> <span style="color:red">11:00</span> | Enya |
 | 07.03. | 🏕️ | | |
 | 14.03. | 10. | The Dolbeault Moduli space: Higgs bundles | Tim |
 | 21.03. | 11. | Harmonic bundles and Donaldson-Corlette correspondence | Christian |

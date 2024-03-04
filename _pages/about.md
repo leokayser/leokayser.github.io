@@ -24,7 +24,6 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Feb 29--Mar 1: [Northern German Algebraic Geometry Seminar Spring 2024](https://uol.de/milena-wrobel/north-german-algebraic-geometry-seminar) at UOL, Oldenburg
 - Mar 8--9: [SPIN 2030 Science Festival](https://spin2030.com/en/veranstaltung/spin-2030-science-festival/) at Technische Sammlungen Dresden
 - Apr 10--12: [5th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/) at HU/TU Berlin
 - May 13--17: [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) at Sorbonne Université, Paris
@@ -32,7 +31,7 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Past events
 
-- Nov 13--15: [Workshop on Geometry and Machine Learning](https://www.mis.mpg.de/calendar/conferences/2023/gaml.html) at MPI MiS, Leipzig
+- Feb 29--Mar 1: [Northern German Algebraic Geometry Seminar Spring 2024](https://uol.de/milena-wrobel/north-german-algebraic-geometry-seminar) at UOL, Oldenburg
 - Oct 16--18: [Chow Lectures 2023](https://www.mis.mpg.de/calendar/conferences/2023/chow.html) at MPI MiS, Leipzig
 - Oct 9--11: [Maths meets information specialists](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html) at MPI MiS, Leipzig
 - Sep 16: [Quantum Entanglement: Science & Music Open Air](https://www.instagram.com/quantumentanglementfestival/) at [Heiter bis Wolkig](https://www.facebook.com/heiterbiswolkigcafe/), Leipzig
