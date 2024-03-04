@@ -19,7 +19,7 @@ nav_order: 2
 ## 2023
 
 - Dec 14: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag_23-12-14.pdf" target="_blank">Folien</a>)
-  at Weihnachtsvorlesung, MPI MiS, Leipzig
+  at _Weihnachtsvorlesung_, MPI MiS, Leipzig
 - Dec 7: **The Computational Complexity of Subalgebra Membership**
   at the _NLA Seminar_, MPI MiS Leipzig
 - Nov 23: **Affine and projective varieties** (<a href="/assets/pdf/nahc/01_Affine_and_projective_Varieties.pdf" target="_blank">Slides</a>)
