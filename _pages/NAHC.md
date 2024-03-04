@@ -9,6 +9,8 @@ nav_order: 6
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
+**Update 2024-03-03:** Added notes from Max's and Leonie's talks and the third discussion sheet.
+
 **Update 2024-02-21:** Added the notes from Bernhard's second talk and updated the schedule <span style="color:red">skipping the 7th of March</span>!
 
 **Update 2024-02-06:** Added discussion sheet from Bernhard's talk and updated the seminar plan.
