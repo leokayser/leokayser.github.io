@@ -9,15 +9,11 @@ nav_order: 6
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
+**Update 2024-03-11:** This week's talk by Tim will take place on <span style="color:red">Friday 15th, 11:00</span>!
+
 **Update 2024-03-03:** Added notes from Max's and Leonie's talks and the third discussion sheet.
 
 **Update 2024-02-21:** Added the notes from Bernhard's second talk and updated the schedule <span style="color:red">skipping the 7th of March</span>!
-
-**Update 2024-02-06:** Added discussion sheet from Bernhard's talk and updated the seminar plan.
-
-**Update 2024-02-02:** Added the notes from Pengfei's talk.
-
-**Update 2024-01-31:** Due to [a local workshop](https://www.mis.mpg.de/de/events/series/symplectic-geometry-of-representation-and-quiver-varieties) we move this week's meeting to <span style="color:red">Friday 2.2. 14:00</span>. Sorry for the short notice!
 
 The nonabelian Hodge correspondence is a deep and beautiful theory that identifies three moduli spaces: the **Betti moduli space** $$\mathcal{M}_{\text{B}}$$ of surface group representations, the **de Rham moduli space** $$\mathcal{M}_{\text{dR}}$$ of flat connections and the **Dolbeault moduli space** $$\mathcal{M}_{\text{Dol}}$$ of Higgs bundles, whose objects on the surface appear to arise from very different contexts. The moduli spaces themselves are constructed as GIT quotients based on the geometric invariant theory pioneered by Mumford. The correspondence between these moduli spaces is the cumulative work of Corlette, Donaldson, Hitchin and Simpson built on that of many mathematicians and the machinery involved to prove these results lies in the intersection of algebraic geometry, complex geometry, geometric analysis and gauge theory.
 
@@ -48,7 +44,7 @@ The goal of this reading seminar is two-fold:
 | 22.02. | 9. | <a href="/assets/pdf/nahc/09_Moduli_Problem.pdf" target="_blank">The moduli problem</a> | Leonie |
 | <span style="color:red">04.03.</span> | _D3._ | _Discussion:_ <a href="/assets/pdf/nahc/D3_Complex_geometry.pdf" target="_blank">Complex geometry</a> <span style="color:red">11:00</span> | Enya |
 | 07.03. | 🏕️ | | |
-| 14.03. | 10. | The Dolbeault Moduli space: Higgs bundles | Tim |
+| <span style="color:red">15.03.</span> | 10. | The Dolbeault Moduli space: Higgs bundles <span style="color:red">11:00</span> | Tim |
 | 21.03. | 11. | Harmonic bundles and Donaldson-Corlette correspondence | Christian |
 | 28.03. | 12. | The Hitchin-Simpson correspondence | Enya |
 | ? | _D4._ | _Discussion_ | |
