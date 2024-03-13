@@ -9,7 +9,9 @@ nav_order: 6
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
-**Update 2024-03-11:** This week's talk by Tim will take place on <span style="color:red">Friday 15th, 11:00</span>!
+**Update 2024-03-12:** Due to things we are actually having the talk on Thursday, but it will be <span style="color:red">in D2 10</span> and with recording.
+
+~~**Update 2024-03-11:** This week's talk by Tim will take place on <span style="color:red">Friday 15th, 11:00</span>!~~
 
 **Update 2024-03-03:** Added notes from Max's and Leonie's talks and the third discussion sheet.
 
@@ -44,7 +46,7 @@ The goal of this reading seminar is two-fold:
 | 22.02. | 9. | <a href="/assets/pdf/nahc/09_Moduli_Problem.pdf" target="_blank">The moduli problem</a> | Leonie |
 | <span style="color:red">04.03.</span> | _D3._ | _Discussion:_ <a href="/assets/pdf/nahc/D3_Complex_geometry.pdf" target="_blank">Complex geometry</a> <span style="color:red">11:00</span> | Enya |
 | 07.03. | 🏕️ | | |
-| <span style="color:red">15.03.</span> | 10. | The Dolbeault Moduli space: Higgs bundles <span style="color:red">11:00</span> | Tim |
+| 14.03. | 10. | The Dolbeault Moduli space: Higgs bundles <span style="color:red">Room E2 10</span> | Tim |
 | 21.03. | 11. | Harmonic bundles and Donaldson-Corlette correspondence | Christian |
 | 28.03. | 12. | The Hitchin-Simpson correspondence | Enya |
 | ? | _D4._ | _Discussion_ | |
