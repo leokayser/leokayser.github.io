@@ -15,8 +15,6 @@ nav_order: 6
 
 **Update 2024-03-03:** Added notes from Max's and Leonie's talks and the third discussion sheet.
 
-**Update 2024-02-21:** Added the notes from Bernhard's second talk and updated the schedule <span style="color:red">skipping the 7th of March</span>!
-
 The nonabelian Hodge correspondence is a deep and beautiful theory that identifies three moduli spaces: the **Betti moduli space** $$\mathcal{M}_{\text{B}}$$ of surface group representations, the **de Rham moduli space** $$\mathcal{M}_{\text{dR}}$$ of flat connections and the **Dolbeault moduli space** $$\mathcal{M}_{\text{Dol}}$$ of Higgs bundles, whose objects on the surface appear to arise from very different contexts. The moduli spaces themselves are constructed as GIT quotients based on the geometric invariant theory pioneered by Mumford. The correspondence between these moduli spaces is the cumulative work of Corlette, Donaldson, Hitchin and Simpson built on that of many mathematicians and the machinery involved to prove these results lies in the intersection of algebraic geometry, complex geometry, geometric analysis and gauge theory.
 
 The goal of this reading seminar is two-fold:
@@ -46,7 +44,7 @@ The goal of this reading seminar is two-fold:
 | 22.02. | 9. | <a href="/assets/pdf/nahc/09_Moduli_Problem.pdf" target="_blank">The moduli problem</a> | Leonie |
 | <span style="color:red">04.03.</span> | _D3._ | _Discussion:_ <a href="/assets/pdf/nahc/D3_Complex_geometry.pdf" target="_blank">Complex geometry</a> <span style="color:red">11:00</span> | Enya |
 | 07.03. | 🏕️ | | |
-| 14.03. | 10. | The Dolbeault Moduli space: Higgs bundles <span style="color:red">Room E2 10</span> | Tim |
+| 14.03. | 10. | <a href="/assets/pdf/nahc/10_Moduli_of_Higgs_Bundles.pdf" target="_blank">The Dolbeault Moduli space: Higgs bundles</a> <span style="color:red">Room E2 10</span> | Tim |
 | 21.03. | 11. | Harmonic bundles and Donaldson-Corlette correspondence | Christian |
 | 28.03. | 12. | The Hitchin-Simpson correspondence | Enya |
 | ? | _D4._ | _Discussion_ | |
