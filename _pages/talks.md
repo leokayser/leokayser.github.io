@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2024
 
+- Apr 10: **Recovering forms from their space of partial derivatives** (<a href="/assets/pdf/presentations/Recovering_forms_GSMAAC24.pdf" target="_blank">Poster</a>)
+  at [_GSMAAC24_](https://sites.google.com/view/gsmaac24/), FU Berlin
 - Mar 25: **Hilbert Functions of Chopped Ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_CWI.pdf" target="_blank">Slides</a>)
   at [_N&O Seminar_](https://www.cwi.nl/en/groups/networks-and-optimization/more-networks-and-optimization/aco-seminar/), CWI Amsterdam
 - Mar 9: **Formen und ihre Gleichungen** (<a href="/assets/pdf/presentations/Formen_und_ihre_Gleichungen.pdf" target="_blank">Poster</a>)

@@ -9,11 +9,7 @@ nav_order: 6
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
 
-**Update 2024-03-12:** Due to things we are actually having the talk on Thursday, but it will be <span style="color:red">in D2 10</span> and with recording.
-
-~~**Update 2024-03-11:** This week's talk by Tim will take place on <span style="color:red">Friday 15th, 11:00</span>!~~
-
-**Update 2024-03-03:** Added notes from Max's and Leonie's talks and the third discussion sheet.
+**Update 2024-04-09:** Final update, all notes uploaded! Thank you all for participating!
 
 The nonabelian Hodge correspondence is a deep and beautiful theory that identifies three moduli spaces: the **Betti moduli space** $$\mathcal{M}_{\text{B}}$$ of surface group representations, the **de Rham moduli space** $$\mathcal{M}_{\text{dR}}$$ of flat connections and the **Dolbeault moduli space** $$\mathcal{M}_{\text{Dol}}$$ of Higgs bundles, whose objects on the surface appear to arise from very different contexts. The moduli spaces themselves are constructed as GIT quotients based on the geometric invariant theory pioneered by Mumford. The correspondence between these moduli spaces is the cumulative work of Corlette, Donaldson, Hitchin and Simpson built on that of many mathematicians and the machinery involved to prove these results lies in the intersection of algebraic geometry, complex geometry, geometric analysis and gauge theory.
 
@@ -45,6 +41,6 @@ The goal of this reading seminar is two-fold:
 | <span style="color:red">04.03.</span> | _D3._ | <a href="/assets/pdf/nahc/D3_Complex_geometry.pdf" target="_blank">_Discussion:_ Complex geometry</a> <span style="color:red">11:00</span> | Enya |
 | 07.03. | 🏕️ | | |
 | 14.03. | 10. | <a href="/assets/pdf/nahc/10_Moduli_of_Higgs_Bundles.pdf" target="_blank">The Dolbeault Moduli space: Higgs bundles</a> <span style="color:red">Room E2 10</span> | Tim |
-| 21.03. | 11. | Harmonic bundles and Donaldson-Corlette correspondence | Christian |
-| 28.03. | 12. | The Hitchin-Simpson correspondence | Enya |
-| ? | _D4._ | _Discussion_ | |
+| 21.03. | 11. | <a href="/assets/pdf/nahc/11_Corlette-Donaldson.pdf" target="_blank">Harmonic bundles and Donaldson-Corlette correspondence</a> | Christian |
+| 28.03. | 12. | <a href="/assets/pdf/nahc/12_Hitchin-Simpson_Correspondence.pdf" target="_blank">The Hitchin-Simpson correspondence</a> | Enya |
+| 04.04. | _D4._ | <a href="/assets/pdf/nahc/D4_Rank_one_case.pdf" target="_blank">_Discussion:_ The rank one case</a> | Enya & Tim |
