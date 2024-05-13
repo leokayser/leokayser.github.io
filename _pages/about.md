@@ -26,6 +26,7 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 - May 13--17: [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) at Sorbonne Université, Paris
 - May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
+- June 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
 
 ## Past events
 
@@ -39,5 +40,3 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Jul 10--14: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at TU Eindhoven
 - May 31--Jun 1: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at LUH, Hannover
 - May 22--24: [Commutative Algebra TOwards Applications](https://sites.google.com/view/commalgintorino/home) at Politecnico and Università di Torino
-- Mar 9: Seminar day on [Algebra, Geometry and Computation](https://simontelen.webnode.page/l/algebra-geometry-and-computation-at-cwi/) at CWI, Amsterdam
-- Feb 9--10, 2023: [Northern German Algebraic Geometry Seminar 2023](https://www.math.hu-berlin.de/~www-ag/NoGAGS.html) at HU Berlin

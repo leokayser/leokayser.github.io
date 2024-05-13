@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2024
 
+- May 14: **Tensor Decomposition using Numerical (Non)Linear Algebra** (<a href="/assets/pdf/presentations/Tensor_Decomposition_using_Numerical_Nonlinear_Algebra_SIAM.pdf" target="_blank">Slides</a>)
+  at [_SIAM LA24_](https://www.siam.org/conferences/cm/conference/la24), Sorbonne Université, Paris
 - Apr 10: **Recovering forms from their space of partial derivatives** (<a href="/assets/pdf/presentations/Recovering_forms_GSMAAC24.pdf" target="_blank">Poster</a>)
   at [_GSMAAC24_](https://sites.google.com/view/gsmaac24/), FU Berlin
 - Mar 25: **Hilbert Functions of Chopped Ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_CWI.pdf" target="_blank">Slides</a>)
