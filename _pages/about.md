@@ -26,7 +26,7 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 - May 13--17: [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) at Sorbonne Université, Paris
 - May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
-- June 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
+- Jun 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
 
 ## Past events
 
