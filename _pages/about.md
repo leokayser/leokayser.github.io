@@ -24,12 +24,14 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- May 13--17: [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) at Sorbonne Université, Paris
-- May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
 - Jun 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
+- Jul 15--19: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/de/events/series/summer-school-in-algebraic-combinatorics) at MPI MiS, Leipzig
+- Jul 29--Aug 2: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024) at MPI MiS, Leipzig
 
 ## Past events
 
+- May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
+- May 13--17: [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) at Sorbonne Université, Paris
 - Apr 10--12: [5th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/) at HU/TU Berlin
 - Mar 8--9: [SPIN 2030 Science Festival](https://spin2030.com/en/veranstaltung/spin-2030-science-festival/) at Technische Sammlungen Dresden
 - Feb 29--Mar 1: [Northern German Algebraic Geometry Seminar Spring 2024](https://uol.de/milena-wrobel/north-german-algebraic-geometry-seminar) at UOL, Oldenburg
@@ -39,4 +41,3 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Sep 6--8: [Conference on Applied Algebra](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/) at Osnabrück University
 - Jul 10--14: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at TU Eindhoven
 - May 31--Jun 1: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at LUH, Hannover
-- May 22--24: [Commutative Algebra TOwards Applications](https://sites.google.com/view/commalgintorino/home) at Politecnico and Università di Torino
