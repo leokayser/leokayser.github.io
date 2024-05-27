@@ -8,7 +8,8 @@ nav_order: 2
 ---
 
 ## 2024
-
+- May 21: **Multigraded polynomial rings** (Blackboard)
+  at [_Reading group on Combinatorial Commutative Algebra_](https://www.mis.mpg.de/de/events/series/reading-group-on-combinatorial-commutative-algebra), MPI MiS Leipzig
 - May 14: **Tensor Decomposition using Numerical (Non)Linear Algebra** (<a href="/assets/pdf/presentations/Tensor_Decomposition_using_Numerical_Nonlinear_Algebra_SIAM.pdf" target="_blank">Slides</a>)
   at [_SIAM LA24_](https://www.siam.org/conferences/cm/conference/la24), Sorbonne Université, Paris
 - Apr 10: **Recovering forms from their space of partial derivatives** (<a href="/assets/pdf/presentations/Recovering_forms_GSMAAC24.pdf" target="_blank">Poster</a>)
