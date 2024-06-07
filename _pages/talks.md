@@ -8,6 +8,8 @@ nav_order: 2
 ---
 
 ## 2024
+- June 6: **Queer In Math Day - Introduction** (<a href="/assets/pdf/presentations/Queer_In_Math_Day.pdf" target="_blank">Slides</a>)
+  at [_Queer In Math Day_](https://www.mis.mpg.de/de/events/series/queer-in-math-day), MPI MiS Leipzig
 - May 21: **Multigraded polynomial rings** (Blackboard)
   at [_Reading group on Combinatorial Commutative Algebra_](https://www.mis.mpg.de/de/events/series/reading-group-on-combinatorial-commutative-algebra), MPI MiS Leipzig
 - May 14: **Tensor Decomposition using Numerical (Non)Linear Algebra** (<a href="/assets/pdf/presentations/Tensor_Decomposition_using_Numerical_Nonlinear_Algebra_SIAM.pdf" target="_blank">Slides</a>)

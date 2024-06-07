@@ -24,12 +24,12 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Jun 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
 - Jul 15--19: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/de/events/series/summer-school-in-algebraic-combinatorics) at MPI MiS, Leipzig
 - Jul 29--Aug 2: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024) at MPI MiS, Leipzig
 
 ## Past events
 
+- Jun 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
 - May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
 - May 13--17: [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) at Sorbonne Université, Paris
 - Apr 10--12: [5th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/) at HU/TU Berlin
