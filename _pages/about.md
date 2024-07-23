@@ -24,11 +24,11 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Jul 15--19: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/de/events/series/summer-school-in-algebraic-combinatorics) at MPI MiS, Leipzig
 - Jul 29--Aug 2: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024) at MPI MiS, Leipzig
 
 ## Past events
 
+- Jul 15--19: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/de/events/series/summer-school-in-algebraic-combinatorics) at MPI MiS, Leipzig
 - Jun 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
 - May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
 - May 13--17: [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) at Sorbonne Université, Paris
@@ -39,5 +39,3 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Oct 9--11: [Maths meets information specialists](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html) at MPI MiS, Leipzig
 - Sep 16: [Quantum Entanglement: Science & Music Open Air](https://www.instagram.com/quantumentanglementfestival/) at [Heiter bis Wolkig](https://www.facebook.com/heiterbiswolkigcafe/), Leipzig
 - Sep 6--8: [Conference on Applied Algebra](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/) at Osnabrück University
-- Jul 10--14: [SIAM Conference on Applied Algebraic Geometry (AG23)](https://www.siam.org/conferences/cm/conference/ag23) at TU Eindhoven
-- May 31--Jun 1: [10. Computeralgebra-Tagung der Fachgruppe](https://konferenz.uni-hannover.de/event/83/) at LUH, Hannover
