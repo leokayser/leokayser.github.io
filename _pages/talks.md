@@ -9,7 +9,7 @@ nav_order: 2
 
 ## 2024
 - July 18: **Commutative and non-commutative rank** (<a href="/assets/pdf/presentations/Non-commutative_rank.pdf" target="_blank">Slides</a>, [Video](https://www.youtube.com/playlist?list=PLbBoaSCFITu67YJCBgv18N95t4dYOupuU))
-  at [_Seminar Mathematics and Computation: Tensor Ranks and Tensor Invariants_](https://qi.rub.de/tensors_ss24), Ruhr University Bochum
+  at [_Seminar on Tensor Ranks and Tensor Invariants_](https://qi.rub.de/tensors_ss24), Ruhr University Bochum
 - July 11: **Pair of pants decomposition** (Blackboard)
   at _Reading group on Teichmüller spaces_, MPI MiS Leipzig
 - June 6: **Queer In Math Day - Introduction** (<a href="/assets/pdf/presentations/Queer_In_Math_Day.pdf" target="_blank">Slides</a>)
@@ -50,7 +50,7 @@ nav_order: 2
 - Sep 28: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag.pdf" target="_blank">Poster</a>)
   at MPI MiS, Leipzig
 - Sep 16: **Domino spielen mit Emil Post** (<a href="/assets/pdf/presentations/PCP_Poster.pdf" target="_blank">Poster</a>)
-  at [_Quantum Entanglement Science & Music Open Air_](https://www.instagram.com/quantumentanglementfestival/), Leipzig
+  at [_Quantum Entanglement Science & Music Open Air_](https://www.mis.mpg.de/events/series/quantum-entanglement-science-music-open-air), Leipzig
 - Sep 6: **Hilbert Functions of Chopped ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_SIAM.pdf" target="_blank">Poster</a>)
   at [_Conference on Applied Algebra_](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/), Osnabrück University
 - Jul 10: **Hilbert Functions of Chopped ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_SIAM.pdf" target="_blank">Poster</a>)
