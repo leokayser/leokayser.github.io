@@ -8,8 +8,8 @@ nav_order: 2
 ---
 
 ## 2024
-- July 18: **Commutative & non-commutative rank** (<a href="/assets/pdf/presentations/Non-commutative_rank.pdf" target="_blank">Slides</a>, [Video](https://www.youtube.com/playlist?list=PLbBoaSCFITu67YJCBgv18N95t4dYOupuU))
-  at [_Seminar: Tensor Ranks and Tensor Invariants_](https://qi.rub.de/tensors_ss24), Ruhr University Bochum
+- July 18: **Commutative & non-commutative rank** (<a href="/assets/pdf/presentations/Non-commutative_rank.pdf" target="_blank">Slides</a>/[Video](https://www.youtube.com/playlist?list=PLbBoaSCFITu67YJCBgv18N95t4dYOupuU))
+  at [_Seminar: Tensor Ranks & Tensor Invariants_](https://qi.rub.de/tensors_ss24), Ruhr University Bochum
 - July 11: **Pair of pants decomposition** (Blackboard)
   at _Reading group on Teichmüller spaces_, MPI MiS Leipzig
 - June 6: **Queer In Math Day - Introduction** (<a href="/assets/pdf/presentations/Queer_In_Math_Day.pdf" target="_blank">Slides</a>)
