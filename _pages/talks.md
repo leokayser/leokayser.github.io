@@ -8,6 +8,8 @@ nav_order: 2
 ---
 
 ## 2024
+- July 29: **Mukai lifting of self-dual points in ℙ⁶** (<a href="/assets/pdf/presentations/Mukai_Lifting_MEGA.pdf" target="_blank">Slides</a>)
+  at [_MEGA 2024_](https://www.mis.mpg.de/events/series/mega-2024), MPI MiS Leipzig
 - July 18: **Commutative & non-commutative rank** (<a href="/assets/pdf/presentations/Non-commutative_rank.pdf" target="_blank">Slides</a>, [Video](https://www.youtube.com/playlist?list=PLbBoaSCFITu67YJCBgv18N95t4dYOupuU))
   at [_Seminar: Tensor Ranks and Tensor Invariants_](https://qi.rub.de/tensors_ss24), University Bochum
 - July 11: **Pair of pants decomposition** (Blackboard)
