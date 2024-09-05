@@ -24,10 +24,13 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Jul 29--Aug 2: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024) at MPI MiS, Leipzig
+- Sep 7: [Quantum Entanglement: Science & Music Open Air](https://www.instagram.com/quantumentanglementfestival/) at [Heiter bis Wolkig](https://www.facebook.com/heiterbiswolkigcafe/), Leipzig
+- Okt 7--9: [PhDnet General Meeting 2024](https://www.phdnet.mpg.de/events-and-activities/general-meeting) at MPIP & MPIC, Mainz
+- Nov 25--28: [Macaulay2 in the Sciences](https://www.mis.mpg.de/events/series/macaulay2-in-the-sciences) at MPI MiS, Leipzig
 
 ## Past events
 
+- Jul 29--Aug 2: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024) at MPI MiS, Leipzig
 - Jul 15--19: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/de/events/series/summer-school-in-algebraic-combinatorics) at MPI MiS, Leipzig
 - Jun 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
 - May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
@@ -37,5 +40,3 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Feb 29--Mar 1: [Northern German Algebraic Geometry Seminar Spring 2024](https://uol.de/milena-wrobel/north-german-algebraic-geometry-seminar) at UOL, Oldenburg
 - Oct 16--18: [Chow Lectures 2023](https://www.mis.mpg.de/calendar/conferences/2023/chow.html) at MPI MiS, Leipzig
 - Oct 9--11: [Maths meets information specialists](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html) at MPI MiS, Leipzig
-- Sep 16: [Quantum Entanglement: Science & Music Open Air](https://www.instagram.com/quantumentanglementfestival/) at [Heiter bis Wolkig](https://www.facebook.com/heiterbiswolkigcafe/), Leipzig
-- Sep 6--8: [Conference on Applied Algebra](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/) at Osnabrück University
