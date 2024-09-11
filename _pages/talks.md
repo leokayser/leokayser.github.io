@@ -8,13 +8,16 @@ nav_order: 2
 ---
 
 ## 2024
-- July 29: **Mukai lifting of self-dual points in ℙ⁶** (<a href="/assets/pdf/presentations/Mukai_Lifting_MEGA.pdf" target="_blank">Slides</a>)
+
+- Sep 7: **Formen und ihre Gleichungen** (<a href="/assets/pdf/presentations/Formen_und_ihre_Gleichungen.pdf" target="_blank">Poster</a>)
+  at [_Entanglement Music & Science Open Air_](https://www.instagram.com/quantumentanglementfestival/), [_heiter bis wolkig_](https://www.instagram.com/cafe_heiter_bis_wolkig/), Leipzig
+- Jul 29: **Mukai lifting of self-dual points in ℙ⁶** (<a href="/assets/pdf/presentations/Mukai_Lifting_MEGA.pdf" target="_blank">Slides</a>)
   at [_MEGA 2024_](https://www.mis.mpg.de/events/series/mega-2024), MPI MiS Leipzig
-- July 18: **Commutative & non-commutative rank** (<a href="/assets/pdf/presentations/Non-commutative_rank.pdf" target="_blank">Slides</a>, [Video](https://www.youtube.com/playlist?list=PLbBoaSCFITu67YJCBgv18N95t4dYOupuU))
+- Jul 18: **Commutative & non-commutative rank** (<a href="/assets/pdf/presentations/Non-commutative_rank.pdf" target="_blank">Slides</a>, [Video](https://www.youtube.com/playlist?list=PLbBoaSCFITu67YJCBgv18N95t4dYOupuU))
   at [_Seminar: Tensor Ranks and Tensor Invariants_](https://qi.rub.de/tensors_ss24), University Bochum
-- July 11: **Pair of pants decomposition** (Blackboard)
+- Jul 11: **Pair of pants decomposition** (Blackboard)
   at _Reading group on Teichmüller spaces_, MPI MiS Leipzig
-- June 6: **Queer In Math Day - Introduction** (<a href="/assets/pdf/presentations/Queer_In_Math_Day.pdf" target="_blank">Slides</a>)
+- Jun 6: **Queer In Math Day - Introduction** (<a href="/assets/pdf/presentations/Queer_In_Math_Day.pdf" target="_blank">Slides</a>)
   at [_Queer In Math Day_](https://www.mis.mpg.de/de/events/series/queer-in-math-day), MPI MiS Leipzig
 - May 21: **Multigraded polynomial rings** (Blackboard)
   at [_Reading group on Combinatorial Commutative Algebra_](https://www.mis.mpg.de/de/events/series/reading-group-on-combinatorial-commutative-algebra), MPI MiS Leipzig
@@ -37,7 +40,7 @@ nav_order: 2
 
 - Dec 14: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag_23-12-14.pdf" target="_blank">Folien</a>)
   at _Weihnachtsvorlesung_, MPI MiS, Leipzig
-- Dec 7: **The Computational Complexity of Subalgebra Membership**
+- Dec 7: **The Computational Complexity of Subalgebra Membership** (<a href="/assets/pdf/presentations/Comutational_Complexity_of_Subalgebra_Membership_MPI.pdf" target="_blank">Slides</a>)
   at the _NLA Seminar_, MPI MiS Leipzig
 - Nov 23: **Affine and projective varieties** (<a href="/assets/pdf/nahc/01_Affine_and_projective_Varieties.pdf" target="_blank">Slides</a>)
   at [_GIT & NaHC Reading Seminar_](/nahc/), MPI MiS Leipzig
