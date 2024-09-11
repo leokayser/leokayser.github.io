@@ -22,7 +22,7 @@ nav_order: 2
 - May 21: **Multigraded polynomial rings** (Blackboard)
   at [_Reading group on Combinatorial Commutative Algebra_](https://www.mis.mpg.de/de/events/series/reading-group-on-combinatorial-commutative-algebra), MPI MiS Leipzig
 - May 14: **Tensor Decomposition using Numerical (Non)Linear Algebra** (<a href="/assets/pdf/presentations/Tensor_Decomposition_using_Numerical_Nonlinear_Algebra_SIAM.pdf" target="_blank">Slides</a>)
-  at [_SIAM LA24_](https://www.siam.org/conferences/cm/conference/la24), Sorbonne Université, Paris
+  at [_SIAM LA24_](https://www.siam.org/conferences-events/past-event-archive/la24/), Sorbonne Université, Paris
 - Apr 10: **Recovering forms from their space of partial derivatives** (<a href="/assets/pdf/presentations/Recovering_forms_GSMAAC24.pdf" target="_blank">Poster</a>)
   at [_GSMAAC24_](https://sites.google.com/view/gsmaac24/), FU Berlin
 - Mar 25: **Hilbert Functions of Chopped Ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_CWI.pdf" target="_blank">Slides</a>)
@@ -59,7 +59,7 @@ nav_order: 2
 - Sep 6: **Hilbert Functions of Chopped ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_SIAM.pdf" target="_blank">Poster</a>)
   at [_Conference on Applied Algebra_](https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/), Osnabrück University
 - Jul 10: **Hilbert Functions of Chopped ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_SIAM.pdf" target="_blank">Poster</a>)
-  at [_SIAM AG23_](https://www.siam.org/conferences/cm/conference/ag23), TU Eindhoven
+  at [_SIAM AG23_](https://www.siam.org/conferences-events/past-event-archive/ag23/), TU Eindhoven
 - Jun 21: **Hilbert Functions of Chopped ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_MPI.pdf" target="_blank">Slides</a>)
   at the _NLA Seminar_, MPI MiS Leipzig
 - May 31: **Hilbert Functions of Chopped ideals** (outdated <a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_Hannover.pdf" target="_blank">~~Slides~~</a>)

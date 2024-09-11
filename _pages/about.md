@@ -33,7 +33,7 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Jul 15--19: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/de/events/series/summer-school-in-algebraic-combinatorics) at MPI MiS, Leipzig
 - Jun 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
 - May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
-- May 13--17: [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) at Sorbonne Université, Paris
+- May 13--17: [SIAM LA 2024](https://www.siam.org/conferences-events/past-event-archive/la24/) at Sorbonne Université, Paris
 - Apr 10--12: [5th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/) at HU/TU Berlin
 - Mar 8--9: [SPIN 2030 Science Festival](https://spin2030.com/en/veranstaltung/spin-2030-science-festival/) at Technische Sammlungen Dresden
 - Feb 29--Mar 1: [Northern German Algebraic Geometry Seminar Spring 2024](https://uol.de/milena-wrobel/north-german-algebraic-geometry-seminar) at UOL, Oldenburg
