@@ -1,1 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://leokayser.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://leokayser.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-09-11T15:22:51+00:00</updated><id>https://leokayser.github.io/feed.xml</id><title type="html">blank</title><subtitle>Homepage of Leonie Kayser, math PhD student @ MPI MiS Leipzig. </subtitle><entry><title type="html">Infinitely many primes for Christmas</title><link href="https://leokayser.github.io/blog/2023/primes_for_xmas/" rel="alternate" type="text/html" title="Infinitely many primes for Christmas"/><published>2023-12-26T19:00:00+00:00</published><updated>2023-12-26T19:00:00+00:00</updated><id>https://leokayser.github.io/blog/2023/primes_for_xmas</id><content type="html" xml:base="https://leokayser.github.io/blog/2023/primes_for_xmas/"><![CDATA[<p>As my first <em>ever</em> blog post on here and also as a mathematical Christmas gift, I wanted to share my favorite proof of the infinitude of prime numbers, only using commutative algebra (in the guise of the theory of Dedekind domains).</p> <blockquote> <p><strong>Euclid’s theorem.</strong> There are infinitely many prime numbers $p \in \ZZ$.</p> </blockquote> <p>Before showing you the proof, I recall some basic results from algebraic number theory.</p> <p>A Dedekind domain $A$ is an integral domain that has well-behaved factorization properties. One definition is that every nonzero ideal $\mathfrak a \subseteq A$ is the product of maximal ideals $\mathfrak a = \mathfrak p_1 \dotsm \mathfrak p_s$; this decomposition is then unique (up to permutation). In Dedekind domains the containment relation is the divisibility relation, i.e. $\mathfrak b \supseteq \mathfrak a$ if and only if there is an ideal $\mathfrak c$ with $\mathfrak a = \mathfrak b \mathfrak c$.</p> <blockquote> <p><strong>Fact 1.</strong> The integral closure of $\ZZ$ in a finite field extension $K / \QQ$ (that is, all elements $\alpha \in K$ satisfying a monic polynomial equation $\alpha^n + a_{n-1}\alpha^{n-1} + \dots + a_1\alpha + a_0 = 0$, $a_i \in \ZZ$) is a Dedekind domain.</p> </blockquote> <p>In fact, we need this result only for a particular quadratic extension of the rationals.</p> <blockquote> <p><strong>Fact 2.</strong> The integral closure of $\ZZ$ in $\QQ(\sqrt{-5})$ is $\ZZ[\sqrt{-5}]$.</p> </blockquote> <p>This is not hard to see, for example by examining the minimal polynomial of a general element $\alpha = a+b \sqrt{-5}$, which is monic if and only if $\alpha$ is integral over $\ZZ$.</p> <p>Dedekind domains need not be unique factorization domains, in fact <strong>Dedekind + UFD = PID</strong>. But we have the following result:</p> <blockquote> <p><strong>Fact 3.</strong> A Dedekind domain $A$ with finitely many maximal ideals is a principal ideal domain.</p> </blockquote> <p><em>Proof.</em> By the prime factorization it suffices that each of the finitely many maximal ideals $\mathfrak p_1,\dots,\mathfrak p_m$ is principal, let’s show this for $\mathfrak q = \mathfrak p_1$. By the Chinese Remainder Theorem applied to the comaximal ideals $\mathfrak q^2, \mathfrak p_2, \dots, \mathfrak p_m$, the map</p> \[A \to A/\mathfrak q^2 \times A/\mathfrak p_2 \times \dotsm \times A/\mathfrak p_m\] <p>is surjective. Pick $a \in \mathfrak q \setminus \mathfrak q^2$ and let $q \in A$ be any preimage of $(a,1,\dots,1)$. The prime factorization of $qA \subseteq \mathfrak q$ can not involve any of $\mathfrak p_2, \dots, \mathfrak p_m$ and also not $\mathfrak q^2$ by construction, hence $qA = \mathfrak q$. $\square$</p> <p>Finally, we need the following easy fact</p> <blockquote> <p><strong>Fact 4.</strong> If $A \subseteq B$ is an integral extension and $\mathfrak M \subseteq B$ is a maximal ideal, then so is $\mathfrak m \coloneqq \mathfrak M \cap A \subseteq A$.</p> </blockquote> <p><em>Proof.</em> If $A \subseteq B$ is integral, then so is $A’ \coloneqq A/ \mathfrak m \subseteq B / \mathfrak M \eqqcolon K$. Thus it suffices to show that if $A’ \subseteq K$ is an integral extension with $K$ a field, then $A’$ is a field too. Let $0 \neq x \in A$, then $x^{-1} \in K$ is integral over $A’$, i.e. $x^{-n} + a_{n-1}x^{-(n-1)} + \dots + a_1x^{-1} + a_0 = 0$. Multiply by $x^{n-1}$ and rearrange to see</p> \[x^{-1} = -a_{n-1} - a_{n-2}x - \dots - a_1 x^{n-2} - a_0 x^{n-1} \in A'. \tag*{$\square$}\] <p>This implies that all maximal ideals in a finite extension $B \supseteq A$ of Dedekind domains are factors of $\mathfrak p B$ for $\mathfrak p \subseteq A$ maximal (Proof: $\mathfrak M \supseteq (\mathfrak M \cap A)B$).</p> <p>We are ready to prove the infinitude of prime numbers!</p> <p><em>Proof of Euclid’s theorem.</em> Assume that $\ZZ$ has only finitely prime numbers. Then the Dedekind domain $\ZZ[\sqrt{-5}]$ (<strong>Fact 1+2</strong>) also has only finitely maximal ideals (<strong>Fact 4</strong> + remark after) and hence is a principal ideal domain (<strong>Fact 3</strong>). But the decomposition</p> \[2\cdot 3 = 6 = (1+\sqrt{-5}) \cdot (1-\sqrt{-5})\] <p>shows that $\ZZ[\sqrt{-5}]$ is <em>not</em> an unique factorization domain! It is easy to see that $2$ is irreducible by considering the multiplicative norm $N(x) = \lvert x \rvert^2$, but $2$ does <em>not</em> divide $1\pm \sqrt{-5}$, so it is not prime. :zap:</p> <p>Merry Christmas and happy holidays! :christmas_tree:</p>]]></content><author><name></name></author><category term="commutative algebra"/><category term="commutative algebra"/><category term="number theory"/><summary type="html"><![CDATA[Tis the season, and as a special gift I have infinitely many prime numbers for you using commutative algebra!]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://leokayser.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://leokayser.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-09-11T16:39:41+00:00</updated><id>https://leokayser.github.io/feed.xml</id><title type="html">blank</title><subtitle>Homepage of Leonie Kayser, math PhD student @ MPI MiS Leipzig. </subtitle><entry><title type="html">a post with tabs</title><link href="https://leokayser.github.io/blog/2024/tabs/" rel="alternate" type="text/html" title="a post with tabs"/><published>2024-05-01T00:32:13+00:00</published><updated>2024-05-01T00:32:13+00:00</updated><id>https://leokayser.github.io/blog/2024/tabs</id><content type="html" xml:base="https://leokayser.github.io/blog/2024/tabs/"><![CDATA[<p>This is how a post with <a href="https://github.com/Ovski4/jekyll-tabs">tabs</a> looks like. Note that the tabs could be used for different purposes, not only for code.</p> <h2 id="first-tabs">First tabs</h2> <p>To add tabs, use the following syntax:</p> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">{%</span><span class="w"> </span><span class="nt">tabs</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="cp">%}</span>
+
+<span class="cp">{%</span><span class="w"> </span><span class="nt">tab</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="nv">tab-name-1</span><span class="w"> </span><span class="cp">%}</span>
+
+Content 1
+
+<span class="cp">{%</span><span class="w"> </span><span class="nt">endtab</span><span class="w"> </span><span class="cp">%}</span>
+
+<span class="cp">{%</span><span class="w"> </span><span class="nt">tab</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="nv">tab-name-2</span><span class="w"> </span><span class="cp">%}</span>
+
+Content 2
+
+<span class="cp">{%</span><span class="w"> </span><span class="nt">endtab</span><span class="w"> </span><span class="cp">%}</span>
+
+<span class="cp">{%</span><span class="w"> </span><span class="nt">endtabs</span><span class="w"> </span><span class="cp">%}</span>
+</code></pre></div></div> <p>With this you can generate visualizations like:</p> <ul id="log" class="tab" data-tab="5f7509f6-5938-4629-8129-9c76f0f7bbee" data-name="log"> <li class="active" id="log-php"> <a href="#">php </a> </li> <li id="log-js"> <a href="#">js </a> </li> <li id="log-ruby"> <a href="#">ruby </a> </li> </ul> <ul class="tab-content" id="5f7509f6-5938-4629-8129-9c76f0f7bbee" data-name="log"> <li class="active"> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
+</code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">console</span><span class="p">.</span><span class="nf">log</span><span class="p">(</span><span class="dl">"</span><span class="s2">hello</span><span class="dl">"</span><span class="p">);</span>
+</code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">pputs</span> <span class="dl">'</span><span class="s1">hello</span><span class="dl">'</span>
+</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="67d1b666-d301-41fe-a6ee-b5eafd2db4a3" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="67d1b666-d301-41fe-a6ee-b5eafd2db4a3" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s2">"</span><span class="s">whatsup"</span>
+  <span class="pi">-</span> <span class="s2">"</span><span class="s">hi"</span>
+</code></pre></div></div> </li> <li> <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"hello"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"whatsup"</span><span class="p">,</span><span class="w"> </span><span class="s2">"hi"</span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div> </li> </ul> <h2 id="tabs-for-something-else">Tabs for something else</h2> <ul id="something-else" class="tab" data-tab="f2649b29-2474-4bd0-b4ae-eafb76c3a2e5" data-name="something-else"> <li class="active" id="something-else-text"> <a href="#">text </a> </li> <li id="something-else-quote"> <a href="#">quote </a> </li> <li id="something-else-list"> <a href="#">list </a> </li> </ul> <ul class="tab-content" id="f2649b29-2474-4bd0-b4ae-eafb76c3a2e5" data-name="something-else"> <li class="active"> <p>Regular text</p> </li> <li> <blockquote> <p>A quote</p> </blockquote> </li> <li> <p>Hipster list</p> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> </li> </ul>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://leokayser.github.io/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://leokayser.github.io/blog/2024/typograms</id><content type="html" xml:base="https://leokayser.github.io/blog/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
+</span><span class="sb">+----+
+|    |---&gt; My first diagram!
++----+</span>
+<span class="p">```</span>
+</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-typograms">+----+
+|    |---&gt; My first diagram!
++----+
+</code></pre> <p>Another example:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
+</span><span class="sb">.------------------------.
+|.----------------------.|
+||"https://example.com" ||
+|'----------------------'|
+| ______________________ |
+||                      ||
+||   Welcome!           ||
+||                      ||
+||                      ||
+||  .----------------.  ||
+||  | username       |  ||
+||  '----------------'  ||
+||  .----------------.  ||
+||  |"*******"       |  ||
+||  '----------------'  ||
+||                      ||
+||  .----------------.  ||
+||  |   "Sign-up"    |  ||
+||  '----------------'  ||
+||                      ||
+|+----------------------+|
+.------------------------.</span>
+<span class="p">```</span>
+</code></pre></div></div> <p>which generates:</p> <pre><code class="language-typograms">.------------------------.
+|.----------------------.|
+||"https://example.com" ||
+|'----------------------'|
+| ______________________ |
+||                      ||
+||   Welcome!           ||
+||                      ||
+||                      ||
+||  .----------------.  ||
+||  | username       |  ||
+||  '----------------'  ||
+||  .----------------.  ||
+||  |"*******"       |  ||
+||  '----------------'  ||
+||                      ||
+||  .----------------.  ||
+||  |   "Sign-up"    |  ||
+||  '----------------'  ||
+||                      ||
+|+----------------------+|
+.------------------------.
+</code></pre> <p>For more examples, check out the <a href="https://google.github.io/typograms/#examples">typograms documentation</a>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="diagrams"/><summary type="html"><![CDATA[this is what included typograms code could look like]]></summary></entry><entry><title type="html">a post that can be cited</title><link href="https://leokayser.github.io/blog/2024/post-citation/" rel="alternate" type="text/html" title="a post that can be cited"/><published>2024-04-28T15:06:00+00:00</published><updated>2024-04-28T15:06:00+00:00</updated><id>https://leokayser.github.io/blog/2024/post-citation</id><content type="html" xml:base="https://leokayser.github.io/blog/2024/post-citation/"><![CDATA[<p>This is an example post that can be cited. The content of the post ends here, while the citation information is automatically provided below. The only thing needed is for you to set the <code class="language-plaintext highlighter-rouge">citation</code> key in the front matter to <code class="language-plaintext highlighter-rouge">true</code>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="citation"/><summary type="html"><![CDATA[this is what a post that can be cited looks like]]></summary></entry><entry><title type="html">a post with pseudo code</title><link href="https://leokayser.github.io/blog/2024/pseudocode/" rel="alternate" type="text/html" title="a post with pseudo code"/><published>2024-04-15T00:01:00+00:00</published><updated>2024-04-15T00:01:00+00:00</updated><id>https://leokayser.github.io/blog/2024/pseudocode</id><content type="html" xml:base="https://leokayser.github.io/blog/2024/pseudocode/"><![CDATA[<p>This is an example post with some pseudo code rendered by <a href="https://github.com/SaswatPadhi/pseudocode.js">pseudocode</a>. The example presented here is the same as the one in the <a href="https://saswat.padhi.me/pseudocode.js/">pseudocode.js</a> documentation, with only one simple but important change: everytime you would use <code class="language-plaintext highlighter-rouge">$</code>, you should use <code class="language-plaintext highlighter-rouge">$$</code> instead. Also, note that the <code class="language-plaintext highlighter-rouge">pseudocode</code> key in the front matter is set to <code class="language-plaintext highlighter-rouge">true</code> to enable the rendering of pseudo code. As an example, using this code:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">pseudocode
+</span><span class="sb">% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
+\begin{algorithm}
+\caption{Quicksort}
+\begin{algorithmic}
+\PROCEDURE{Quicksort}{$$A, p, r$$}
+    \IF{$$p &lt; r$$}
+        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
+        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
+        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
+    \ENDIF
+\ENDPROCEDURE
+\PROCEDURE{Partition}{$$A, p, r$$}
+    \STATE $$x = A[r]$$
+    \STATE $$i = p - 1$$
+    \FOR{$$j = p$$ \TO $$r - 1$$}
+        \IF{$$A[j] &lt; x$$}
+            \STATE $$i = i + 1$$
+            \STATE exchange
+            $$A[i]$$ with $$A[j]$$
+        \ENDIF
+        \STATE exchange $$A[i]$$ with $$A[r]$$
+    \ENDFOR
+\ENDPROCEDURE
+\end{algorithmic}
+\end{algorithm}</span>
+<span class="p">```</span>
+</code></pre></div></div> <p>Generates:</p> <pre><code class="language-pseudocode">% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
+\begin{algorithm}
+\caption{Quicksort}
+\begin{algorithmic}
+\PROCEDURE{Quicksort}{$$A, p, r$$}
+    \IF{$$p &lt; r$$}
+        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
+        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
+        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
+    \ENDIF
+\ENDPROCEDURE
+\PROCEDURE{Partition}{$$A, p, r$$}
+    \STATE $$x = A[r]$$
+    \STATE $$i = p - 1$$
+    \FOR{$$j = p$$ \TO $$r - 1$$}
+        \IF{$$A[j] &lt; x$$}
+            \STATE $$i = i + 1$$
+            \STATE exchange
+            $$A[i]$$ with $$A[j]$$
+        \ENDIF
+        \STATE exchange $$A[i]$$ with $$A[r]$$
+    \ENDFOR
+\ENDPROCEDURE
+\end{algorithmic}
+\end{algorithm}
+</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included pseudo code could look like]]></summary></entry><entry><title type="html">Infinitely many primes for Christmas</title><link href="https://leokayser.github.io/blog/2023/primes_for_xmas/" rel="alternate" type="text/html" title="Infinitely many primes for Christmas"/><published>2023-12-26T19:00:00+00:00</published><updated>2023-12-26T19:00:00+00:00</updated><id>https://leokayser.github.io/blog/2023/primes_for_xmas</id><content type="html" xml:base="https://leokayser.github.io/blog/2023/primes_for_xmas/"><![CDATA[<p>As my first <em>ever</em> blog post on here and also as a mathematical Christmas gift, I wanted to share my favorite proof of the infinitude of prime numbers, only using commutative algebra (in the guise of the theory of Dedekind domains).</p> <blockquote> <p><strong>Euclid’s theorem.</strong> There are infinitely many prime numbers $p \in \ZZ$.</p> </blockquote> <p>Before showing you the proof, I recall some basic results from algebraic number theory.</p> <p>A Dedekind domain $A$ is an integral domain that has well-behaved factorization properties. One definition is that every nonzero ideal $\mathfrak a \subseteq A$ is the product of maximal ideals $\mathfrak a = \mathfrak p_1 \dotsm \mathfrak p_s$; this decomposition is then unique (up to permutation). In Dedekind domains the containment relation is the divisibility relation, i.e. $\mathfrak b \supseteq \mathfrak a$ if and only if there is an ideal $\mathfrak c$ with $\mathfrak a = \mathfrak b \mathfrak c$.</p> <blockquote> <p><strong>Fact 1.</strong> The integral closure of $\ZZ$ in a finite field extension $K / \QQ$ (that is, all elements $\alpha \in K$ satisfying a monic polynomial equation $\alpha^n + a_{n-1}\alpha^{n-1} + \dots + a_1\alpha + a_0 = 0$, $a_i \in \ZZ$) is a Dedekind domain.</p> </blockquote> <p>In fact, we need this result only for a particular quadratic extension of the rationals.</p> <blockquote> <p><strong>Fact 2.</strong> The integral closure of $\ZZ$ in $\QQ(\sqrt{-5})$ is $\ZZ[\sqrt{-5}]$.</p> </blockquote> <p>This is not hard to see, for example by examining the minimal polynomial of a general element $\alpha = a+b \sqrt{-5}$, which is monic if and only if $\alpha$ is integral over $\ZZ$.</p> <p>Dedekind domains need not be unique factorization domains, in fact <strong>Dedekind + UFD = PID</strong>. But we have the following result:</p> <blockquote> <p><strong>Fact 3.</strong> A Dedekind domain $A$ with finitely many maximal ideals is a principal ideal domain.</p> </blockquote> <p><em>Proof.</em> By the prime factorization it suffices that each of the finitely many maximal ideals $\mathfrak p_1,\dots,\mathfrak p_m$ is principal, let’s show this for $\mathfrak q = \mathfrak p_1$. By the Chinese Remainder Theorem applied to the comaximal ideals $\mathfrak q^2, \mathfrak p_2, \dots, \mathfrak p_m$, the map</p> \[A \to A/\mathfrak q^2 \times A/\mathfrak p_2 \times \dotsm \times A/\mathfrak p_m\] <p>is surjective. Pick $a \in \mathfrak q \setminus \mathfrak q^2$ and let $q \in A$ be any preimage of $(a,1,\dots,1)$. The prime factorization of $qA \subseteq \mathfrak q$ can not involve any of $\mathfrak p_2, \dots, \mathfrak p_m$ and also not $\mathfrak q^2$ by construction, hence $qA = \mathfrak q$. $\square$</p> <p>Finally, we need the following easy fact</p> <blockquote> <p><strong>Fact 4.</strong> If $A \subseteq B$ is an integral extension and $\mathfrak M \subseteq B$ is a maximal ideal, then so is $\mathfrak m \coloneqq \mathfrak M \cap A \subseteq A$.</p> </blockquote> <p><em>Proof.</em> If $A \subseteq B$ is integral, then so is $A’ \coloneqq A/ \mathfrak m \subseteq B / \mathfrak M \eqqcolon K$. Thus it suffices to show that if $A’ \subseteq K$ is an integral extension with $K$ a field, then $A’$ is a field too. Let $0 \neq x \in A$, then $x^{-1} \in K$ is integral over $A’$, i.e. $x^{-n} + a_{n-1}x^{-(n-1)} + \dots + a_1x^{-1} + a_0 = 0$. Multiply by $x^{n-1}$ and rearrange to see</p> \[x^{-1} = -a_{n-1} - a_{n-2}x - \dots - a_1 x^{n-2} - a_0 x^{n-1} \in A'. \tag*{$\square$}\] <p>This implies that all maximal ideals in a finite extension $B \supseteq A$ of Dedekind domains are factors of $\mathfrak p B$ for $\mathfrak p \subseteq A$ maximal (Proof: $\mathfrak M \supseteq (\mathfrak M \cap A)B$).</p> <p>We are ready to prove the infinitude of prime numbers!</p> <p><em>Proof of Euclid’s theorem.</em> Assume that $\ZZ$ has only finitely prime numbers. Then the Dedekind domain $\ZZ[\sqrt{-5}]$ (<strong>Fact 1+2</strong>) also has only finitely maximal ideals (<strong>Fact 4</strong> + remark after) and hence is a principal ideal domain (<strong>Fact 3</strong>). But the decomposition</p> \[2\cdot 3 = 6 = (1+\sqrt{-5}) \cdot (1-\sqrt{-5})\] <p>shows that $\ZZ[\sqrt{-5}]$ is <em>not</em> an unique factorization domain! It is easy to see that $2$ is irreducible by considering the multiplicative norm $N(x) = \lvert x \rvert^2$, but $2$ does <em>not</em> divide $1\pm \sqrt{-5}$, so it is not prime. :zap:</p> <p>Merry Christmas and happy holidays! :christmas_tree:</p>]]></content><author><name></name></author><category term="commutative algebra"/><category term="commutative algebra"/><category term="number theory"/><summary type="html"><![CDATA[Tis the season, and as a special gift I have infinitely many prime numbers for you using commutative algebra!]]></summary></entry></feed>
