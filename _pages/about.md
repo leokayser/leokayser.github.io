@@ -24,6 +24,7 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 ## Upcoming events
 
 - Nov 25--28: [Macaulay2 in the Sciences](https://www.mis.mpg.de/events/series/macaulay2-in-the-sciences) at MPI MiS, Leipzig
+- Dec 9--11: [Women in Algebra and Symbolic Computation III](https://www.computeralgebra.de/women-in-algebra-and-symbolic-computation-iii/) at Kurpark-Hotel, Bad Dürkheim
 
 ## Past events
 
