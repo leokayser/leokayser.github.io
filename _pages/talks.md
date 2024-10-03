@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2024
 
+- Oct 3: **Computational Mukai lifting of self-dual points in ℙ⁶** (Blackboard)
+  at [_Séminaire de Géométrie Complexe_](https://indico.math.cnrs.fr/event/12569/), IMT, Toulouse
 - Sep 7: **Formen und ihre Gleichungen** (<a href="/assets/pdf/presentations/Formen_und_ihre_Gleichungen.pdf" target="_blank">Poster</a>)
   at [_Entanglement Music & Science Open Air_](https://www.instagram.com/quantumentanglementfestival/), [_heiter bis wolkig_](https://www.instagram.com/cafe_heiter_bis_wolkig/), Leipzig
 - Jul 29: **Mukai lifting of self-dual points in ℙ⁶** (<a href="/assets/pdf/presentations/Mukai_Lifting_MEGA.pdf" target="_blank">Slides</a>)
