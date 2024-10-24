@@ -9,9 +9,9 @@ nav_order: 2
 
 ## 2024
 
-- Oct 23: **Logarithmic Discriminants of Hyperplane Arrangements**
+- Oct 23: **Logarithmic Discriminants of Hyperplane Arrangements** (<a href="/assets/pdf/presentations/Logarithmic_Discriminants_of_Hyperplane_Arrangements_RePS.pdf" target="_blank">Slides</a>)
   at [_RePS_](https://sites.google.com/view/regiomontanus-phd/home), Universität Leipzig
-- Oct 22: **Logarithmic Discriminants of Hyperplane Arrangements**
+- Oct 22: **Logarithmic Discriminants of Hyperplane Arrangements** (<a href="/assets/pdf/presentations/Logarithmic_Discriminants_of_Hyperplane_Arrangements_PosGeo.pdf" target="_blank">Slides</a>)
   at [_Positive Geometry Seminar_](https://www.mis.mpg.de/de/events/event/logarithmic-discriminants-of-hyperplane-arrangements), MPI MiS Leipzig
 - Oct 3: **Computational Mukai lifting of self-dual points in ℙ⁶** (Blackboard)
   at [_Séminaire de Géométrie Complexe_](https://indico.math.cnrs.fr/event/12569/), IMT, Toulouse
