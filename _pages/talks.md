@@ -7,10 +7,16 @@ nav: true
 nav_order: 2
 ---
 
+## 2025
+
+- Jan 14: **Mukai lifting of self-dual points in ℙ⁶** (<a href="/assets/pdf/presentations/Mukai_Lifting_Jovenes.pdf" target="_blank">Slides</a>)
+  at [RSME’s 7th Congress of Young Researchers](https://jovenes2025.rsme.es/index_en.html), UPV/EHU Bilbao
+
+
 ## 2024
 
 - Dec 11: **Logarithmic Discriminants of Hyperplane Arrangements** (<a href="/assets/pdf/presentations/Logarithmic_Discriminants_of_Hyperplane_Arrangements_WIAASC.pdf" target="_blank">Slides</a>)
-  at [_Women in Algebra and Symbolic Computation III_](https://www.computeralgebra.de/women-in-algebra-and-symbolic-computation-iii/), Bad Dürkheim
+  at [_Women in Algebra and Symb. Comp._](https://www.computeralgebra.de/women-in-algebra-and-symbolic-computation-iii/), Bad Dürkheim
 - Nov 26: **Recovering a form from its (higher) spaces of partials** (Blackboard)
   at [_Macaulay2 in the Sciences_](https://www.mis.mpg.de/events/series/macaulay2-in-the-sciences), MPI MiS Leipzig
 - Oct 23: **Logarithmic Discriminants of Hyperplane Arrangements** (<a href="/assets/pdf/presentations/Logarithmic_Discriminants_of_Hyperplane_Arrangements_RePS.pdf" target="_blank">Slides</a>)
