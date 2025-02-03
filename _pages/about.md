@@ -23,11 +23,13 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Jan 13--17: [RSME's 7th Congress of Young Researchers](https://jovenes2025.rsme.es/index_en.html) at UPV/EHU, Bilbao
-- Jan 30--31: [Northern German Algebraic Geometry Seminar Spring 2025](https://trr358.math.uni-bielefeld.de/workshops/view/426) at Bielefeld University
+- February 3--6: [Numerical (Nonlinear) Algebra in the Real World](https://plan.events.mpg.de/event/355/overview) at MPI CBG, Dresden
+- May 26--30: [Invariant Theory - from classics to modern developments](https://sites.google.com/view/time-2025-invariant-theory) at Lie-Størmer Center, Tromsø
+- Jun 2--4: [The 11th Conference of the Fachgruppe Computeralgebra](https://www.mis.mpg.de/de/events/series/the-11th-conference-of-the-fachgruppe-computeralgebra) at MPI MiS Leipzig
 
 ## Past events
 
+- Jan 13--17: [RSME's 7th Congress of Young Researchers](https://jovenes2025.rsme.es/index_en.html) at UPV/EHU, Bilbao
 - Dec 9--11: [Women in Algebra and Symbolic Computation III](https://www.computeralgebra.de/women-in-algebra-and-symbolic-computation-iii/) at Kurpark-Hotel, Bad Dürkheim
 - Nov 25--28: [Macaulay2 in the Sciences](https://www.mis.mpg.de/events/series/macaulay2-in-the-sciences) at MPI MiS, Leipzig
 - Sep 7: [Quantum Entanglement: Science & Music Open Air](https://www.instagram.com/quantumentanglementfestival/) at [heiter bis wolkig](https://www.instagram.com/cafe_heiter_bis_wolkig/), Leipzig
