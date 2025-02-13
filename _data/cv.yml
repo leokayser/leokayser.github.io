@@ -4,7 +4,7 @@
     - name: Full Name
       value: Leonie Kayser
     - name: Languages
-      value: German, English
+      value: German, English, French
 
 - title: Education
   type: time_table
@@ -13,8 +13,8 @@
       institution: Max Planck Institute for Mathematics in the Sciences
       year: ≥ 2023
       description:
-        - Member of the <a href="https://www.mis.mpg.de/nlalg/research.html">Nonlinear Algebra group</a>
-        - Research under the supervision of <a href="https://simontelen.webnode.page/">Simon Telen</a>
+        - Member of the <a href="https://www.mis.mpg.de/numerical-algebraic-geometry">Numerical Algebraic Geometry group</a>
+        - Research under the supervision of <a href="https://simontelen.webnode.page/">Simon Telen</a> <a href="https://fulges.github.io/">Fulvio Gesmundo</a>
     - title: M.Sc. Computer Science
       institution: Leibniz University Hannover, Hanover, Germany
       year: 2021 - 2022
