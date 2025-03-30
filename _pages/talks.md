@@ -9,9 +9,12 @@ nav_order: 2
 
 ## 2025
 
+- Mar 31: **Symmetric Tensor_Decomposition in small characteristics** (<a href="/assets/pdf/presentations/Symmetric_Tensor_Decomposition_in_small_characteristics_WACT.pdf" target="_blank">Poster</a>)
+  at [_WACT 2025_](https://qi.rub.de/wact), Ruhr University Bochum
+- Mar 26: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag_25-03-26.pdf" target="_blank">Folien</a>)
+  at MPI MiS, Leipzig
 - Jan 14: **Mukai lifting of self-dual points in ℙ⁶** (<a href="/assets/pdf/presentations/Mukai_Lifting_Jovenes.pdf" target="_blank">Slides</a>)
-  at [RSME’s 7th Congress of Young Researchers](https://jovenes2025.rsme.es/index_en.html), UPV/EHU Bilbao
-
+  at [_RSME’s 7th Congress of Young Researchers_](https://jovenes2025.rsme.es/index_en.html), UPV/EHU Bilbao
 
 ## 2024
 
@@ -68,7 +71,7 @@ nav_order: 2
   at [_RePS_](https://sites.google.com/view/regiomontanus-phd/home), Universität Leipzig
 - Oct 9: **MathRepo - MPI MiS’ mathematical repository** (<a href="/assets/pdf/presentations/MaRDI_meets_information_specialists.pdf" target="_blank">Slides</a>)
   at [_MaRDI meets information specialists_](https://www.mis.mpg.de/calendar/conferences/2023/mardimeetsis.html), MPI MiS, Leipzig
-- Sep 28: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag.pdf" target="_blank">Poster</a>)
+- Sep 28: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag_23-09-28.pdf" target="_blank">Folien</a>)
   at MPI MiS, Leipzig
 - Sep 16: **Domino spielen mit Emil Post** (<a href="/assets/pdf/presentations/PCP_Poster.pdf" target="_blank">Poster</a>)
   at [_Quantum Entanglement Science & Music Open Air_](https://www.mis.mpg.de/events/series/quantum-entanglement-science-music-open-air), Leipzig
