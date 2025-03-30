@@ -101,6 +101,9 @@ ninja.data = [{
           section: "News",},{id: "news-hilbert-functions-of-chopped-ideals-just-got-accepted-by-the-journal-of-algebra-tada",
           title: 'Hilbert Functions of Chopped Ideals just got accepted by the Journal of Algebra!...',
           description: "",
+          section: "News",},{id: "news-our-article-about-the-queer-in-math-day-2024-just-got-published-in-the-mitteilungen-der-dmv-meanwhile-registration-is-open-for-the-qimd",
+          title: 'Our article about the Queer in Math Day 2024 just got published in...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
