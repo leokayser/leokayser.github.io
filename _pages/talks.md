@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2025
 
+- Apr 16: **Can a mathematician and an engineer be friends?** (Blackboard)
+  at [_RePS_](https://sites.google.com/view/regiomontanus-phd/home), Universität Leipzig
 - Mar 31: **Symmetric Tensor_Decomposition in small characteristics** (<a href="/assets/pdf/presentations/Symmetric_Tensor_Decomposition_in_small_characteristics_WACT.pdf" target="_blank">Poster</a>)
   at [_WACT 2025_](https://qi.rub.de/wact), Ruhr University Bochum
 - Mar 26: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag_25-03-26.pdf" target="_blank">Folien</a>)

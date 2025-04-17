@@ -31,7 +31,7 @@ Hi, I'm Leonie, a PhD student in math at [MPI MiS](https://www.mis.mpg.de/), Lei
 I studied both mathematics and computer science at Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on <a href="/assets/pdf/papers/The_Waring_problem_for_polynomials.pdf" target="_blank">The Waring problem for polynomials</a> under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on <a href="/assets/pdf/papers/Groebner_Bases_and_Their_Complexity.pdf" target="_blank">Gröbner Bases and Their Complexity</a> under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
 
 ## Upcoming events
-- Mar 31--April 4: [8th Workshop on Algebraic Complexity Theory](https://qi.rub.de/wact) at RU Bochum
+
 - May 26--30: [Invariant Theory - from classics to modern developments](https://sites.google.com/view/time-2025-invariant-theory) at Lie-Størmer Center, Tromsø
 - Jun 2--4: [The 11th Conference of the Fachgruppe Computeralgebra](https://www.mis.mpg.de/de/events/series/the-11th-conference-of-the-fachgruppe-computeralgebra) at MPI MiS Leipzig
 - Jun 11: [Queer in Math Day 2025](https://www.mis.mpg.de/de/events/series/queer-in-math-day-2025) at MPI MiS Leipzig
@@ -39,6 +39,7 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Past events
 
+- Mar 31--April 4: [8th Workshop on Algebraic Complexity Theory](https://qi.rub.de/wact) at RU Bochum
 - February 3--6: [Numerical (Nonlinear) Algebra in the Real World](https://plan.events.mpg.de/event/355/overview) at MPI CBG, Dresden
 - Jan 13--17: [RSME's 7th Congress of Young Researchers](https://jovenes2025.rsme.es/index_en.html) at UPV/EHU, Bilbao
 - Dec 9--11: [Women in Algebra and Symbolic Computation III](https://www.computeralgebra.de/women-in-algebra-and-symbolic-computation-iii/) at Kurpark-Hotel, Bad Dürkheim
@@ -49,4 +50,3 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Jun 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
 - May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
 - May 13--17: [SIAM LA 2024](https://www.siam.org/conferences-events/past-event-archive/la24/) at Sorbonne Université, Paris
-- Apr 10--12: [5th Graduate Student Meeting in Applied Algebra and Combinatorics](https://sites.google.com/view/gsmaac24/) at HU/TU Berlin
