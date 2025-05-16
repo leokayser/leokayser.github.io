@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2025
 
+- May 8: **Critical points to low-rank Hankel matrix approximation** (<a href="/assets/pdf/presentations/Critical_points_to_low-rank_Hankel_matrix_approximation_NLA.pdf" target="_blank">Slides</a>)
+  at [_NLA Seminar_](https://www.mis.mpg.de/events/event/can-a-mathematician-and-an-engineer-be-friends-critical-points-to-low-rank-hankel-matrix-approximation), MPI MiS, Leipzig
 - Apr 16: **Can a mathematician and an engineer be friends?** (Blackboard)
   at [_RePS_](https://sites.google.com/view/regiomontanus-phd/home), Universität Leipzig
 - Mar 31: **Symmetric Tensor Decomposition in small characteristics** (<a href="/assets/pdf/presentations/Symmetric_Tensor_Decomposition_in_small_characteristics_WACT.pdf" target="_blank">Poster</a>)
