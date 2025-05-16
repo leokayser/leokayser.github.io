@@ -49,6 +49,4 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Sep 7: [Quantum Entanglement: Science & Music Open Air](https://www.instagram.com/quantumentanglementfestival/) at [heiter bis wolkig](https://www.instagram.com/cafe_heiter_bis_wolkig/), Leipzig
 - Jul 29--Aug 2: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024) at MPI MiS, Leipzig
 - Jul 15--19: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/de/events/series/summer-school-in-algebraic-combinatorics) at MPI MiS, Leipzig
-- Jun 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day) at MPI MiS, Leipzig
-- May 22--24: [IMPRS Combo II](https://www.mis.mpg.de/de/events/series/imprs-combo-ii) at MPI MiS, Leipzig
-- May 13--17: [SIAM LA 2024](https://www.siam.org/conferences-events/past-event-archive/la24/) at Sorbonne Université, Paris
+- Jun 6: [Queer In Math Day](https://www.mis.mpg.de/events/series/queer-in-math-day-2024) at MPI MiS, Leipzig
