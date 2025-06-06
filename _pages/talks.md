@@ -9,8 +9,8 @@ nav_order: 2
 
 ## 2025
 
-- June 2: **Complexity of Polynomial Subalgebras and their Initial Algebras** (<a href="/assets/pdf/presentations/Computational_Complexity_of_Subalgebra_Membership_Fachgruppe_Computer_Algebra.pdf" target="_blank">Slides</a>)
-  at [_The 11th Conference of the Fachgruppe Computeralgebra_](https://www.mis.mpg.de/events/series/the-11th-conference-of-the-fachgruppe-computeralgebra), MPI MiS Leipzig
+- June 2: **Complexity of Polynomial Subalgebras & Initial Algebras** (<a href="/assets/pdf/presentations/Complexity_of_Polynomial_Subalgebras_Fachgruppe_Computeralgebra.pdf" target="_blank">Slides</a>)
+  at [_11th Conference of the Fachgruppe Computeralgebra_](https://www.mis.mpg.de/events/series/the-11th-conference-of-the-fachgruppe-computeralgebra)
 - May 8: **Critical points to low-rank Hankel matrix approximation** (<a href="/assets/pdf/presentations/Critical_points_to_low-rank_Hankel_matrix_approximation_NLA.pdf" target="_blank">Slides</a>)
   at [_NLA Seminar_](https://www.mis.mpg.de/events/event/can-a-mathematician-and-an-engineer-be-friends-critical-points-to-low-rank-hankel-matrix-approximation), MPI MiS, Leipzig
 - Apr 16: **Can a mathematician and an engineer be friends?** (Blackboard)
