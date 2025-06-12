@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2025
 
+- Jun 11: **Queer In Math Day - Welcome** (<a href="/assets/pdf/presentations/Queer_In_Math_Day_2025.pdf" target="_blank">Slides</a>)
+  at [_Queer In Math Day 2025_](https://www.mis.mpg.de/events/series/queer-in-math-day-2025), MPI MiS Leipzig
 - June 2: **Complexity of Polynomial Subalgebras & Initial Algebras** (<a href="/assets/pdf/presentations/Complexity_of_Polynomial_Subalgebras_Fachgruppe_Computeralgebra.pdf" target="_blank">Slides</a>)
   at [_11th Conference of the Fachgruppe Computeralgebra_](https://www.mis.mpg.de/events/series/the-11th-conference-of-the-fachgruppe-computeralgebra)
 - May 8: **Critical points to low-rank Hankel matrix approximation** (<a href="/assets/pdf/presentations/Critical_points_to_low-rank_Hankel_matrix_approximation_NLA.pdf" target="_blank">Slides</a>)
@@ -42,8 +44,8 @@ nav_order: 2
   at [_Seminar: Tensor Ranks and Tensor Invariants_](https://qi.rub.de/tensors_ss24), University Bochum
 - Jul 11: **Pair of pants decomposition** (Blackboard)
   at _Reading group on Teichmüller spaces_, MPI MiS Leipzig
-- Jun 6: **Queer In Math Day - Introduction** (<a href="/assets/pdf/presentations/Queer_In_Math_Day.pdf" target="_blank">Slides</a>)
-  at [_Queer In Math Day_](https://www.mis.mpg.de/events/series/queer-in-math-day-2024), MPI MiS Leipzig
+- Jun 6: **Queer In Math Day - Introduction** (<a href="/assets/pdf/presentations/Queer_In_Math_Day_2024.pdf" target="_blank">Slides</a>)
+  at [_Queer In Math Day 2024_](https://www.mis.mpg.de/events/series/queer-in-math-day-2024), MPI MiS Leipzig
 - May 21: **Multigraded polynomial rings** (Blackboard)
   at [_Reading group on Combinatorial Commutative Algebra_](https://www.mis.mpg.de/de/events/series/reading-group-on-combinatorial-commutative-algebra), MPI MiS Leipzig
 - May 14: **Tensor Decomposition using Numerical (Non)Linear Algebra** (<a href="/assets/pdf/presentations/Tensor_Decomposition_using_Numerical_Nonlinear_Algebra_SIAM.pdf" target="_blank">Slides</a>)
