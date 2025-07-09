@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2025
 
+- Jul 9: **Logarithmic Discriminants of Hyperplane Arrangements** (<a href="/assets/pdf/presentations/Logarithmic_Discriminants_of_Hyperplane_Arrangements_SIAM.pdf" target="_blank">Slides</a>)
+  at [_SIAM AG25_](https://www.siam.org/conferences-events/siam-conferences/ag25/), University of Wisconsin-Madison
 - Jun 11: **Queer In Math Day - Welcome** (<a href="/assets/pdf/presentations/Queer_In_Math_Day_2025.pdf" target="_blank">Slides</a>)
   at [_Queer In Math Day 2025_](https://www.mis.mpg.de/events/series/queer-in-math-day-2025), MPI MiS Leipzig
 - June 2: **Complexity of Polynomial Subalgebras & Initial Algebras** (<a href="/assets/pdf/presentations/Complexity_of_Polynomial_Subalgebras_Fachgruppe_Computeralgebra.pdf" target="_blank">Slides</a>)

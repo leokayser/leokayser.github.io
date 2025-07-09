@@ -32,12 +32,12 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Jun 23--Jul 4: [New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications) at MPI MiS Leipzig
 - Jul 7--11: [SIAM AG25](https://www.siam.org/conferences-events/siam-conferences/ag25/) at University of Wisconsin-Madison
 - Jul 28--Aug 1: [ISSAC 2025](https://www.issac-conference.org/2025/) at CIMAT, Guanajuato
 
 ## Past events
 
+- Jun 23--Jul 4: [New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications) at MPI MiS Leipzig
 - Jun 11: [Queer in Math Day 2025](https://www.mis.mpg.de/de/events/series/queer-in-math-day-2025) at MPI MiS Leipzig
 - Jun 2--4: [The 11th Conference of the Fachgruppe Computeralgebra](https://www.mis.mpg.de/de/events/series/the-11th-conference-of-the-fachgruppe-computeralgebra) at MPI MiS Leipzig
 - May 26--30: [Invariant Theory - from classics to modern developments](https://sites.google.com/view/time-2025-invariant-theory) at Lie-Størmer Center, Tromsø
