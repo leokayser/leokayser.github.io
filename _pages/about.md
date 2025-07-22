@@ -33,7 +33,6 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 ## Upcoming events
 
 - Jul 28--Aug 1: [ISSAC 2025](https://www.issac-conference.org/2025/) at CIMAT, Guanajuato
-- Aug 25--28: [Computations in Algebraic Geometry: Complex, Real, and Tropical](https://eth-its.ethz.ch/activities/CAG.html) at ETH, Zürich
 - Oct 6--8: [Chow Lectures 2025](https://www.mis.mpg.de/de/events/series/chow-lectures-2025) at MPI MiS Leipzig
 
 ## Past events
