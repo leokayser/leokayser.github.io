@@ -32,21 +32,22 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Jul 7--11: [SIAM AG25](https://www.siam.org/conferences-events/siam-conferences/ag25/) at University of Wisconsin-Madison
 - Jul 28--Aug 1: [ISSAC 2025](https://www.issac-conference.org/2025/) at CIMAT, Guanajuato
+- Aug 25--28: [Computations in Algebraic Geometry: Complex, Real, and Tropical](https://eth-its.ethz.ch/activities/CAG.html) at ETH, Zürich
+- Oct 6--8: [Chow Lectures 2025](https://www.mis.mpg.de/de/events/series/chow-lectures-2025) at MPI MiS Leipzig
 
 ## Past events
 
+- Jul 7--11: [SIAM AG25](https://www.siam.org/conferences-events/siam-conferences/ag25/) at University of Wisconsin-Madison
 - Jun 23--Jul 4: [New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications) at MPI MiS Leipzig
 - Jun 11: [Queer in Math Day 2025](https://www.mis.mpg.de/de/events/series/queer-in-math-day-2025) at MPI MiS Leipzig
 - Jun 2--4: [The 11th Conference of the Fachgruppe Computeralgebra](https://www.mis.mpg.de/de/events/series/the-11th-conference-of-the-fachgruppe-computeralgebra) at MPI MiS Leipzig
 - May 26--30: [Invariant Theory - from classics to modern developments](https://sites.google.com/view/time-2025-invariant-theory) at Lie-Størmer Center, Tromsø
 - Mar 31--April 4: [8th Workshop on Algebraic Complexity Theory](https://qi.rub.de/wact) at RU Bochum
-- February 3--6: [Numerical (Nonlinear) Algebra in the Real World](https://plan.events.mpg.de/event/355/overview) at MPI CBG, Dresden
+- Feb 3--6: [Numerical (Nonlinear) Algebra in the Real World](https://plan.events.mpg.de/event/355/overview) at MPI CBG, Dresden
 - Jan 13--17: [RSME's 7th Congress of Young Researchers](https://jovenes2025.rsme.es/index_en.html) at UPV/EHU, Bilbao
 - Dec 9--11: [Women in Algebra and Symbolic Computation III](https://www.computeralgebra.de/women-in-algebra-and-symbolic-computation-iii/) at Kurpark-Hotel, Bad Dürkheim
 - Nov 25--28: [Macaulay2 in the Sciences](https://www.mis.mpg.de/events/series/macaulay2-in-the-sciences) at MPI MiS, Leipzig
 - Sep 7: [Quantum Entanglement: Science & Music Open Air](https://www.instagram.com/quantumentanglementfestival/) at [heiter bis wolkig](https://www.instagram.com/cafe_heiter_bis_wolkig/), Leipzig
 - Jul 29--Aug 2: [MEGA 2024](https://www.mis.mpg.de/de/events/series/mega-2024) at MPI MiS, Leipzig
-- Jul 15--19: [Summer School in Algebraic Combinatorics](https://www.mis.mpg.de/de/events/series/summer-school-in-algebraic-combinatorics) at MPI MiS, Leipzig
 - More past events under [talks](/talks)!
