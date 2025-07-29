@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2025
 
+- Jul 29: **Computational Complexity of Polynomial Subalgebras** (<a href="/assets/pdf/presentations/Computational_Complexity_of_Polynomial_Subalgebras_ISSAC.pdf" target="_blank">Slides</a>)
+  at [_ISSAC'25_](https://www.issac-conference.org/2025/), CIMAT, Guanajuato
 - Jul 9: **Logarithmic Discriminants of Hyperplane Arrangements** (<a href="/assets/pdf/presentations/Logarithmic_Discriminants_of_Hyperplane_Arrangements_SIAM.pdf" target="_blank">Slides</a>)
   at [_SIAM AG25_](https://www.siam.org/conferences-events/siam-conferences/ag25/), University of Wisconsin-Madison
 - Jun 11: **Queer In Math Day - Welcome** (<a href="/assets/pdf/presentations/Queer_In_Math_Day_2025.pdf" target="_blank">Slides</a>)

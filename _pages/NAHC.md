@@ -4,7 +4,7 @@ permalink: /nahc/
 title: git & nahc
 description: This is where Enya Hsiao and I organise the <i>Geometric Invariant Theory & Non-abelian Hodge Correspondence</i> Reading Seminar.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 <a href="/assets/pdf/nahc/GIT_NaHC_Seminar_Plan.pdf" target="_blank">Here is the current version of the seminar plan!</a>
