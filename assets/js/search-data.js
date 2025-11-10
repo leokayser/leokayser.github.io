@@ -97,6 +97,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-article-about-the-queer-in-math-day-2024-just-got-published-in-the-mitteilungen-der-dmv-meanwhile-registration-is-open-for-the-qimd-2025",
           title: 'Our article about the Queer in Math Day 2024 just got published in...',
           description: "",
+          section: "News",},{id: "news-my-first-single-author-paper-computational-complexity-of-polynomial-subalgebras-is-now-published-in-the-proceedings-of-issac-25",
+          title: 'My first single-author paper Computational Complexity of Polynomial Subalgebras is now published in...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
