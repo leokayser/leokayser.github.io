@@ -30,14 +30,10 @@ Hi, I'm Leonie (she/her), PhD candidate in mathematics at [MPI MiS](https://www.
 
 I studied both mathematics and computer science at Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on <a href="/assets/pdf/papers/The_Waring_problem_for_polynomials.pdf" target="_blank">The Waring problem for polynomials</a> under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on <a href="/assets/pdf/papers/Groebner_Bases_and_Their_Complexity.pdf" target="_blank">Gröbner Bases and Their Complexity</a> under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
 
-## Upcoming events
-
-- Oct 6--8: [Chow Lectures 2025](https://www.mis.mpg.de/de/events/series/chow-lectures-2025) at MPI MiS Leipzig
-- Oct 13--24: [Tensors and their applications: Foundations and recent advances](https://tensordec.maths.unitn.it/#masterclass_jeroen), hybrid
-- Nov 3--7: [Modern algebraic geometry in algebraic combinatorics and tensors](https://www.mfo.de/www/activity/2545a) at Conference Center, Będlewo
 
 ## Past events
 
+- Nov 3--7: [Modern algebraic geometry in algebraic combinatorics and tensors](https://www.mfo.de/www/activity/2545a) at Conference Center, Będlewo
 - Jul 28--Aug 1: [ISSAC 2025](https://www.issac-conference.org/2025/) at CIMAT, Guanajuato
 - Jul 7--11: [SIAM AG25](https://www.siam.org/conferences-events/siam-conferences/ag25/) at University of Wisconsin-Madison
 - Jun 23--Jul 4: [New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications) at MPI MiS Leipzig

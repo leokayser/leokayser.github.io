@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2025
 
+- Oct 24: **The algebraic degree of low-rank Hankel matrix approximation** (Blackboard)
+  at [_Informal Group Seminar_](https://www.math.unibe.ch/about_us/personen/prof_dr_draisma_jan/index_eng.html), Uni Bern
 - Jul 29: **Computational Complexity of Polynomial Subalgebras** (<a href="/assets/pdf/presentations/Computational_Complexity_of_Polynomial_Subalgebras_ISSAC.pdf" target="_blank">Slides</a>)
   at [_ISSAC'25_](https://www.issac-conference.org/2025/), CIMAT, Guanajuato
 - Jul 9: **Logarithmic Discriminants of Hyperplane Arrangements** (<a href="/assets/pdf/presentations/Logarithmic_Discriminants_of_Hyperplane_Arrangements_SIAM.pdf" target="_blank">Slides</a>)
