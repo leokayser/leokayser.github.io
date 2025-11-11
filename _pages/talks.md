@@ -65,7 +65,7 @@ nav_order: 2
 - Mar 8: **What is Tensor Decomposition?** (<a href="/assets/pdf/presentations/What_is_Tensor_Decomposition.pdf" target="_blank">Slides</a>)
   at _What is... Mathematics talks_, MPI CBG Dresden
 - Mar 1: **Geometry of Eigenvalue Methods for Symmetric Tensor Decomposition** (<a href="/assets/pdf/presentations/Geometry_of_eigenvalue_methods_for_STD.pdf" target="_blank">Slides</a>)
-  at [_NoGAGS 2024_](https://uol.de/milena-wrobel/north-german-algebraic-geometry-seminar), University Oldenburg
+  at [_NoGAGS 2024_](https://uol.de/mathematik/veranstaltungen/termin/north-german-algebraic-geometry-seminar), University Oldenburg
 - Feb 22: **The moduli problem** (<a href="/assets/pdf/nahc/09_Moduli_Problem.pdf" target="_blank">Handout</a>)
   at [_GIT & NaHC Reading Seminar_](/nahc/), MPI MiS Leipzig
 
