@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2025
 
+- Nov 27: **Infinite-dimensional Euclidean Distance Degrees in Model Order Reduction** (<a href="/assets/pdf/presentations/Degree_of_Model_Order_Reduction_NLA.pdf" target="_blank">Slides</a>)
+  at [_NLA Seminar_](https://www.mis.mpg.de/events/event/infinite-dimensional-euclidean-distance-degrees-in-model-order-reduction), MPI MiS Leipzig
 - Oct 24: **The algebraic degree of low-rank Hankel matrix approximation** (Blackboard)
   at [_Informal Group Seminar_](https://www.math.unibe.ch/about_us/personen/prof_dr_draisma_jan/index_eng.html), Uni Bern
 - Jul 29: **Computational Complexity of Polynomial Subalgebras** (<a href="/assets/pdf/presentations/Computational_Complexity_of_Polynomial_Subalgebras_ISSAC.pdf" target="_blank">Slides</a>)

@@ -44,5 +44,4 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Feb 3--6: [Numerical (Nonlinear) Algebra in the Real World](https://plan.events.mpg.de/event/355/overview) at MPI CBG, Dresden
 - Jan 13--17: [RSME's 7th Congress of Young Researchers](https://jovenes2025.rsme.es/index_en.html) at UPV/EHU, Bilbao
 - Dec 9--11: [Women in Algebra and Symbolic Computation III](https://www.computeralgebra.de/women-in-algebra-and-symbolic-computation-iii/) at Kurpark-Hotel, Bad Dürkheim
-- Nov 25--28: [Macaulay2 in the Sciences](https://www.mis.mpg.de/events/series/macaulay2-in-the-sciences) at MPI MiS, Leipzig
 - More past events under [talks](/talks)!
