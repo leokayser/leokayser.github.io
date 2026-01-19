@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-git-amp-nahc",
-          title: "git &amp; nahc",
-          description: "This is where Enya Hsiao and I organise the Geometric Invariant Theory &amp; Non-abelian Hodge Correspondence Reading Seminar.",
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Course pages amd material.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/nahc/";
+            window.location.href = "/teaching/";
           },
         },{id: "post-infinitely-many-primes-for-christmas",
       
