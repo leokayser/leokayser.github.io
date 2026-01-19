@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2025
 
+- Dec 18: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag_25-03-26.pdf" target="_blank">Folien</a>)
+  at _Weihnachtsvorlesung_ MPI MiS, Leipzig
 - Nov 27: **Infinite-dimensional Euclidean Distance Degrees in Model Order Reduction** (<a href="/assets/pdf/presentations/Degree_of_Model_Order_Reduction_NLA.pdf" target="_blank">Slides</a>)
   at [_NLA Seminar_](https://www.mis.mpg.de/events/event/infinite-dimensional-euclidean-distance-degrees-in-model-order-reduction), MPI MiS Leipzig
 - Oct 24: **The algebraic degree of low-rank Hankel matrix approximation** (Blackboard)

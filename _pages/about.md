@@ -42,6 +42,4 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - May 26--30: [Invariant Theory - from classics to modern developments](https://sites.google.com/view/time-2025-invariant-theory) at Lie-Størmer Center, Tromsø
 - Mar 31--April 4: [8th Workshop on Algebraic Complexity Theory](https://qi.rub.de/wact) at RU Bochum
 - Feb 3--6: [Numerical (Nonlinear) Algebra in the Real World](https://plan.events.mpg.de/event/355/overview) at MPI CBG, Dresden
-- Jan 13--17: [RSME's 7th Congress of Young Researchers](https://jovenes2025.rsme.es/index_en.html) at UPV/EHU, Bilbao
-- Dec 9--11: [Women in Algebra and Symbolic Computation III](https://www.computeralgebra.de/women-in-algebra-and-symbolic-computation-iii/) at Kurpark-Hotel, Bad Dürkheim
 - More past events under [talks](/talks)!
