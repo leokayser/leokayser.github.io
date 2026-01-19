@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## [Algebraic Geometry Tools for Polynomial Systems in Engineering](/AGcrash/)
+## [Algebraic Geometry Tools for Polynomial Systems in Engineering](/agcrash/)
 
 Algebraic geometry crash course for engineers and friends at ESAT/STADIUS, KU Leuven.
 
