@@ -100,6 +100,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-first-single-author-paper-computational-complexity-of-polynomial-subalgebras-is-now-published-in-the-proceedings-of-issac-25",
           title: 'My first single-author paper Computational Complexity of Polynomial Subalgebras is now published in...',
           description: "",
+          section: "News",},{id: "news-i-submitted-my-doctoral-thesis-titled-computation-and-complexity-in-algebraic-geometry",
+          title: 'I submitted my doctoral thesis titled Computation and Complexity in Algebraic Geometry! 📑...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
