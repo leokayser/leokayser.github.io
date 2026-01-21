@@ -7,6 +7,11 @@ nav: true
 nav_order: 2
 ---
 
+## 2026
+
+- Jan 20: **Hilbert functions of chopped ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_STADIUS.pdf" target="blank">Slides</a>)
+  at [_STADIUS guest seminar_](https://www.esat.kuleuven.be/stadius/), KU Leuven
+
 ## 2025
 
 - Dec 18: **Die Euler-Charakteristik: Von unplättbaren Graphen und anderen Welten** (<a href="/assets/pdf/presentations/Eulercharakteristik_Schuelervortrag_25-03-26.pdf" target="_blank">Folien</a>)
