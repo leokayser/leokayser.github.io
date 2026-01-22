@@ -32,6 +32,6 @@ nav: false
 |:-----------:|:--:|:-----|:---|:--------|
 | 20.1. 10:00 | 1. | <a href="/assets/pdf/agcrash/Lecture1.pdf" target="_blank">Affine varieties</a>  | <a href="/assets/pdf/agcrash/Exercise1.pdf" target="_blank">Exercises 1</a> | Aula van de Tweede Hoofdwet |
 | 20.1. 17:00 |    | *Seminar:* <a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_STADIUS.pdf" target="_blank">Hilbert Functions of Chopped Ideals</a> | | Aula R ELEC.00.0054. |
-| 22.1. 10:00 | 2. | Projective varieties | | Aula van de Tweede Hoofdwet |
+| 22.1. 10:00 | 2. | <a href="/assets/pdf/agcrash/Lecture2.pdf" target="_blank">Projective varieties</a> | <a href="/assets/pdf/agcrash/Exercise2.pdf" target="_blank">Exercises 2</a>  | Aula van de Tweede Hoofdwet |
 | 27.1. 10:00 | 3. | Intersection theory (tbd) | | Aula van de Tweede Hoofdwet |
 | 29.1. 10:00 | 4. | tbd | | Aula van de Tweede Hoofdwet |
