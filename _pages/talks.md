@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2026
 
+- Jan 27: **Euclidean Distance Degrees to Secant Varieties of the Rational Normal Curve** (<a href="/assets/pdf/presentations/EDDs_of_Secant_Varieties_to_the_RNC_NUMA.pdf" target="blank">Slides</a>)
+  at [_NUMA Seminar_](https://wms.cs.kuleuven.be/groups/NUMA/events), KU Leuven
 - Jan 20: **Hilbert functions of chopped ideals** (<a href="/assets/pdf/presentations/Hilbert_Functions_of_Chopped_Ideals_STADIUS.pdf" target="blank">Slides</a>)
   at [_STADIUS guest seminar_](https://www.esat.kuleuven.be/stadius/), KU Leuven
 

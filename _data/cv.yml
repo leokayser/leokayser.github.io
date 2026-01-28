@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Leonie Kayser
+      value: Elisabeth Leonie Kayser
     - name: Languages
       value: German, English, French
 
@@ -14,7 +14,8 @@
       year: ≥ 2023
       description:
         - Member of the <a href="https://www.mis.mpg.de/numerical-algebraic-geometry">Numerical Algebraic Geometry group</a>
-        - Research under the supervision of <a href="https://simontelen.webnode.page/">Simon Telen</a> <a href="https://fulges.github.io/">Fulvio Gesmundo</a>
+        - Research under the supervision of <a href="https://sites.google.com/view/simontelen/">Simon Telen</a>
+        - Thesis Advisory Committee mentor <a href="https://fulges.github.io/">Fulvio Gesmundo</a>
     - title: M.Sc. Computer Science
       institution: Leibniz University Hannover, Hanover, Germany
       year: 2021 - 2022
