@@ -35,5 +35,5 @@ nav: false
 | 22.1. 10:00 | 2. | <a href="/assets/pdf/agcrash/Lecture2.pdf" target="_blank">Projective varieties</a> | <a href="/assets/pdf/agcrash/Exercise2.pdf" target="_blank">Exercises 2</a>  | Aula van de Tweede Hoofdwet |
 | 27.1. 10:00 | 3. | <a href="/assets/pdf/agcrash/Lecture3.pdf" target="_blank">Multiplicity and reducedness</a> | <a href="/assets/pdf/agcrash/Exercise3.pdf" target="_blank">Exercises 3</a> | Aula van de Tweede Hoofdwet |
 | 27.1. 14:00 |    |  *Seminar:* <a href="/assets/pdf/presentations/EDDs_of_Secant_Varieties_to_the_RNC_NUMA.pdf" target="_blank">EDDs of secant varieties to the rational normal curve</a> | | Java room 05.152 |
-| 29.1. 10:00 | 4. | Thom-Porteous formula and engineering applications | | Aula van de Tweede Hoofdwet |
+| 29.1. 10:00 | 4. | <a href="/assets/pdf/agcrash/Lecture4.pdf" target="_blank">Thom-Porteous formula and engineering applications</a> | <a href="/assets/pdf/agcrash/Exercise4.pdf" target="_blank">Exercise 4</a>| Aula van de Tweede Hoofdwet |
 | 29.1. 17:00 |    | *Bonus:* [Sibren Lagauw's PhD defense](https://www.esat.kuleuven.be/stadius/?p=3055) | |  Aula van de Tweede Hoofdwet |
