@@ -30,9 +30,13 @@ Hi, I'm Leonie (she/her), PhD candidate in mathematics at [MPI MiS](https://www.
 
 I studied both mathematics and computer science at Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on <a href="/assets/pdf/papers/The_Waring_problem_for_polynomials.pdf" target="_blank">The Waring problem for polynomials</a> under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on <a href="/assets/pdf/papers/Groebner_Bases_and_Their_Complexity.pdf" target="_blank">Gröbner Bases and Their Complexity</a> under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
 
+## Upcoming events
+
+- Mar 16--20: [Algebraic aspects of Metric and Integral Geometry](https://sites.google.com/view/algebraic-metric-integral-geom/conference) at Bernoulli Center, Lausanne
 
 ## Past events
 
+- Jan 20--29: [Algebraic Geometry Tools for Polynomial Systems in Engineering](https://leokayser.github.io/agcrash/) at KU Leuven
 - Nov 3--7: [Modern algebraic geometry in algebraic combinatorics and tensors](https://www.mfo.de/www/activity/2545a) at Conference Center, Będlewo
 - Jul 28--Aug 1: [ISSAC 2025](https://www.issac-conference.org/2025/) at CIMAT, Guanajuato
 - Jul 7--11: [SIAM AG25](https://www.siam.org/conferences-events/siam-conferences/ag25/) at University of Wisconsin-Madison
@@ -41,5 +45,4 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Jun 2--4: [The 11th Conference of the Fachgruppe Computeralgebra](https://www.mis.mpg.de/de/events/series/the-11th-conference-of-the-fachgruppe-computeralgebra) at MPI MiS Leipzig
 - May 26--30: [Invariant Theory - from classics to modern developments](https://sites.google.com/view/time-2025-invariant-theory) at Lie-Størmer Center, Tromsø
 - Mar 31--April 4: [8th Workshop on Algebraic Complexity Theory](https://qi.rub.de/wact) at RU Bochum
-- Feb 3--6: [Numerical (Nonlinear) Algebra in the Real World](https://plan.events.mpg.de/event/355/overview) at MPI CBG, Dresden
 - More past events under [talks](/talks)!
