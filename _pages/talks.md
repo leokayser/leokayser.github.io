@@ -11,7 +11,7 @@ nav_order: 2
 
 - Mar 16: **Inverse limits of varieties and their ℓ²-distance degree** (<a href="/assets/pdf/presentations/Inverse_limits_of_varieties_and_their_l2-distance_degree.pdf" target="blank">Slides</a>)
   at [_AMIG conference_](https://sites.google.com/view/algebraic-metric-integral-geom/conference), Bernoulli Center, Lausanne
-- Mar 11: **Hyperplane arrangements, reciprocal linear spaces, logarithmic discriminants and beyond** (<a href="/assets/pdf/presentations/Logarithmic_Discriminants_of_Hyperplane_Arrangements_GOCC.pdf" target="blank">Slides</a>)
+- Mar 11: **Hyperplane arrangements, reciprocal linear spaces, logarithmic discriminants and beyond** (<a href="/assets/pdf/presentations/Logarithmic_Discriminants_of_Hyperplane_Arrangements_GOCC.pdf" target="blank">Slides</a>, [Video](https://www.youtube.com/watch?v=CFncz0RhkEA))
   at [_GOCC_](https://sites.google.com/view/gocc-combinatorics)
 - Jan 27: **Euclidean Distance Degrees to Secant Varieties of the Rational Normal Curve** (<a href="/assets/pdf/presentations/EDDs_of_Secant_Varieties_to_the_RNC_NUMA.pdf" target="blank">Slides</a>)
   at [_NUMA Seminar_](https://wms.cs.kuleuven.be/groups/NUMA/events), KU Leuven

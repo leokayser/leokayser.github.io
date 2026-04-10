@@ -32,10 +32,11 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- Mar 16--20: [Algebraic aspects of Metric and Integral Geometry](https://sites.google.com/view/algebraic-metric-integral-geom/conference) at Bernoulli Center, Lausanne
+- May 27--29: [From Geometry to Numbers: a celebration of women in mathematics](https://sites.google.com/view/a-celebration-of-women-in-math/) at HU Berlin
 
 ## Past events
 
+- Mar 16--20: [Algebraic aspects of Metric and Integral Geometry](https://sites.google.com/view/algebraic-metric-integral-geom/conference) at Bernoulli Center, Lausanne
 - Jan 20--29: [Algebraic Geometry Tools for Polynomial Systems in Engineering](https://leokayser.github.io/agcrash/) at KU Leuven
 - Nov 3--7: [Modern algebraic geometry in algebraic combinatorics and tensors](https://www.mfo.de/www/activity/2545a) at Conference Center, Będlewo
 - Jul 28--Aug 1: [ISSAC 2025](https://www.issac-conference.org/2025/) at CIMAT, Guanajuato
