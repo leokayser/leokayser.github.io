@@ -9,8 +9,12 @@ nav_order: 2
 
 ## 2026
 
-- Apr 30: **The Algebraic Degree of System Identification and Model Order Reduction in LTI System Theory** (<a href="/assets/pdf/presentations/CSBD.pdf" target="blank">Slides</a>)
-  at [_Math Seminar at CSBD_](https://maximilianwiesmann.github.io/seminar/), MPI CBG, Dresden
+- May 8: **Hilbert Functions of Chopped Ideals** (Blackboard, <a href="/assets/pdf/presentations/HFoCI_IMPANGA.pdf" target="blank">Figures</a>)
+  at [_IMPANGA seminar_](https://www.impan.pl/~impanga/), IMPAN, Warsaw
+- May 7: **ED degrees & inverse limits of varieties of low-rank binary forms** (Blackboard)
+  at _Informal tensor seminar_, MIMUW, Warsaw
+- Apr 30: **Algebraic Degree of System Identification & Model Order Reduction in LTI System Theory** (<a href="/assets/pdf/presentations/CSBD.pdf" target="blank">Slides</a>)
+  at [_CSBD Math Seminar_](https://maximilianwiesmann.github.io/seminar/)
 - Mar 16: **Inverse limits of varieties and their ℓ²-distance degree** (<a href="/assets/pdf/presentations/Inverse_limits_of_varieties_and_their_l2-distance_degree.pdf" target="blank">Slides</a>)
   at [_AMIG conference_](https://sites.google.com/view/algebraic-metric-integral-geom/conference), Bernoulli Center, Lausanne
 - Mar 11: **Hyperplane arrangements, reciprocal linear spaces, logarithmic discriminants and beyond** (<a href="/assets/pdf/presentations/Logarithmic_Discriminants_of_Hyperplane_Arrangements_GOCC.pdf" target="blank">Slides</a>, [Video](https://www.youtube.com/watch?v=CFncz0RhkEA))
