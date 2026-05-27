@@ -33,6 +33,7 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 ## Upcoming events
 
 - May 27--29: [From Geometry to Numbers: a celebration of women in mathematics](https://sites.google.com/view/a-celebration-of-women-in-math/) at HU Berlin
+- July 20--24: [Women in commutative algebra IV](https://icms.ac.uk/activities/workshop/women-in-commutative-algebra-iv-icms/) at ICMS, Bayes Centre, Edinburgh
 
 ## Past events
 
@@ -45,5 +46,4 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Jun 11: [Queer in Math Day 2025](https://www.mis.mpg.de/de/events/series/queer-in-math-day-2025) at MPI MiS Leipzig
 - Jun 2--4: [The 11th Conference of the Fachgruppe Computeralgebra](https://www.mis.mpg.de/de/events/series/the-11th-conference-of-the-fachgruppe-computeralgebra) at MPI MiS Leipzig
 - May 26--30: [Invariant Theory - from classics to modern developments](https://sites.google.com/view/time-2025-invariant-theory) at Lie-Størmer Center, Tromsø
-- Mar 31--April 4: [8th Workshop on Algebraic Complexity Theory](https://qi.rub.de/wact) at RU Bochum
 - More past events under [talks](/talks)!

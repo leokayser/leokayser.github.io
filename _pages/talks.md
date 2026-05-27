@@ -9,6 +9,9 @@ nav_order: 2
 
 ## 2026
 
+- May 27: **Specific EDDs of
+Secant Varieties to the Rational Normal Curve** (<a href="/assets/pdf/presentations/EDDs_of_Secant_Varieties_to_the_RNC_WomenInMathematics.pdf" target="blank">Slides</a>)
+  at [_From Geometry To Numbers_](https://sites.google.com/view/a-celebration-of-women-in-math/), HU Berlin
 - May 8: **Hilbert Functions of Chopped Ideals** (Blackboard, <a href="/assets/pdf/presentations/HFoCI_IMPANGA.pdf" target="blank">Figures</a>)
   at [_IMPANGA seminar_](https://www.impan.pl/~impanga/), IMPAN, Warsaw
 - May 7: **ED degrees & inverse limits of varieties of low-rank binary forms** (Blackboard)

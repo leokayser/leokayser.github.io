@@ -2,24 +2,37 @@
 layout: post
 title: How to hide a body in the acknowledgements
 date: 2026-02-05 16:20:00+0200
-description: I describe how to make a
+description: Have you ever felt l
 tags: [latex]
 categories: [latex]
 giscus_comments: true
 related_posts: false
 ---
 
+
 ```latex
 \documentclass[12pt, border=0.5pt]{standalone}
 
-\usepackage{calc}
+\newcommand{\name}[1]{\unskip\makebox[0em][l]{#1}}
+
+\begin{document}
+\name{Henri} \name{Claude} \name{Jean} \name{André} \name{Paul}
+\name{Charles} \name{Szolem} \name{René} \name{Jacques} \name{Samuel}
+\name{Roger} \name{Jean-Louis} \name{Pierre} \name{Laurent} \name{Jean-Pierre}
+\name{Armand} \name{François} \name{Alexander} \name{Serge} \name{John}
+\hspace{5em}
+\end{document}
+```
+
+
+
+
+
+```latex
+\documentclass[12pt, border=0.5pt]{standalone}
 
 \usepackage{tokcycle}
-\newcommand\spaceouttext[2]{
-  \tokcycle{\addcytoks{##1\nobreak\hspace{#1}}}
-  {\processtoks{##1}}{\addcytoks{##1}}
-  {\addcytoks{##1\hspace{#1}}}{#2}
-  \the\cytoks\unskip}
+
 \newcommand\spread[2]{
   \tokcycle
   {\addcytoks{##1\hfill}}
@@ -29,6 +42,7 @@ related_posts: false
   \makebox[#1]{\the\cytoks\unskip}
 }
 
+\usepackage{calc}
 \newlength{\mywidth}
 \setlength{\mywidth}{\widthof{Anna-Laura}}
 
