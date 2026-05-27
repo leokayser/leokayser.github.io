@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-infinitely-many-primes-for-christmas",
+        },{id: "post-",
       
-        title: "Infinitely many primes for Christmas",
+        title: "",
       
-      description: "Tis the season, and as a special gift I have infinitely many prime numbers for you using commutative algebra!",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/primes_for_xmas/";
+          window.location.href = "/blog/2026/2023-12-26-primes_for_xmas/";
         
       },
     },{id: "news-hello-world-this-website-just-launched-sparkles",
