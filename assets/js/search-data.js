@@ -103,6 +103,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-submitted-my-doctoral-thesis-titled-computation-and-complexity-in-algebraic-geometry",
           title: 'I submitted my doctoral thesis titled Computation and Complexity in Algebraic Geometry! 📑...',
           description: "",
+          section: "News",},{id: "news-my-public-phd-defense-will-be-held-on-june-9th-feel-free-to-reach-out-to-me-if-you-would-like-to-join",
+          title: 'My public PhD defense will be held on June 9th! 🤺 Feel free...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
