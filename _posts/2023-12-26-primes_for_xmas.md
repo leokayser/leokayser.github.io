@@ -2,7 +2,7 @@
 layout: post
 title: Infinitely many primes for Christmas
 date: 2023-12-26 20:00:00+0100
-description: 'Tis the season, and as a special gift I have infinitely many prime numbers for you using commutative algebra!
+description: "'Tis the season, and as a special gift I have infinitely many prime numbers for you using commutative algebra!"
 tags: [commutative algebra, number theory]
 categories: [commutative algebra]
 giscus_comments: true

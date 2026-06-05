@@ -32,11 +32,11 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 
 ## Upcoming events
 
-- May 27--29: [From Geometry to Numbers: a celebration of women in mathematics](https://sites.google.com/view/a-celebration-of-women-in-math/) at HU Berlin
 - July 20--24: [Women in commutative algebra IV](https://icms.ac.uk/activities/workshop/women-in-commutative-algebra-iv-icms/) at ICMS, Bayes Centre, Edinburgh
 
 ## Past events
 
+- May 27--29: [From Geometry to Numbers: a celebration of women in mathematics](https://sites.google.com/view/a-celebration-of-women-in-math/) at HU Berlin
 - Mar 16--20: [Algebraic aspects of Metric and Integral Geometry](https://sites.google.com/view/algebraic-metric-integral-geom/conference) at Bernoulli Center, Lausanne
 - Jan 20--29: [Algebraic Geometry Tools for Polynomial Systems in Engineering](https://leokayser.github.io/agcrash/) at KU Leuven
 - Nov 3--7: [Modern algebraic geometry in algebraic combinatorics and tensors](https://www.mfo.de/www/activity/2545a) at Conference Center, Będlewo
@@ -45,5 +45,4 @@ I studied both mathematics and computer science at Leibniz University Hannover f
 - Jun 23--Jul 4: [New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications) at MPI MiS Leipzig
 - Jun 11: [Queer in Math Day 2025](https://www.mis.mpg.de/de/events/series/queer-in-math-day-2025) at MPI MiS Leipzig
 - Jun 2--4: [The 11th Conference of the Fachgruppe Computeralgebra](https://www.mis.mpg.de/de/events/series/the-11th-conference-of-the-fachgruppe-computeralgebra) at MPI MiS Leipzig
-- May 26--30: [Invariant Theory - from classics to modern developments](https://sites.google.com/view/time-2025-invariant-theory) at Lie-Størmer Center, Tromsø
 - More past events under [talks](/talks)!
