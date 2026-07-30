@@ -41,3 +41,10 @@
 "stump":
   - firstname: ["Christian", "C."]
     url: https://math.ruhr-uni-bochum.de/en/fakultaet/arbeitsbereiche/algebra/research-team-stump/team/prof-dr-christian-stump/
+
+"weigert":
+  - firstname: ["Julian", "J."]
+    url: https://julian-weigert.science/
+
+"briand":
+  - firstname: ["Clara", "C."]

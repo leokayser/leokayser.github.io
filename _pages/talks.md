@@ -2,15 +2,18 @@
 layout: page
 permalink: /talks/
 title: talks
-description: Talks and posters I've presented over the years. Mostly with PDF's.
+description: Talks and posters I've presented over the years. Mostly with PDFs.
 nav: true
 nav_order: 2
 ---
 
 ## 2026
 
-- May 27: **Specific EDDs of
-Secant Varieties to the Rational Normal Curve** (<a href="/assets/pdf/presentations/EDDs_of_Secant_Varieties_to_the_RNC_WomenInMathematics.pdf" target="blank">Slides</a>)
+- July 29: **Fun with Reynolds operators** (Blackboard, <a href="/assets/pdf/notes/Fun_with_Reynolds.pdf" target="blank">Notes</a>)
+  at [_Representation and Invariant Theory Reading Group_](https://www.mis.mpg.de/events/event/representation-and-invariant-theory-reading-group), MPI MiS, Leipzig
+- June 9: **Computation and Complexity in Algebraic Geometry** (<a href="/assets/pdf/presentations/Defense.pdf" target="blank">Slides</a>),
+  PhD defence at MPI MiS, Leipzig
+- May 27: **Specific EDDs of Secant Varieties to the Rational Normal Curve** (<a href="/assets/pdf/presentations/EDDs_of_Secant_Varieties_to_the_RNC_WomenInMathematics.pdf" target="blank">Slides</a>)
   at [_From Geometry To Numbers_](https://sites.google.com/view/a-celebration-of-women-in-math/), HU Berlin
 - May 8: **Hilbert Functions of Chopped Ideals** (Blackboard, <a href="/assets/pdf/presentations/HFoCI_IMPANGA.pdf" target="blank">Figures</a>)
   at [_IMPANGA seminar_](https://www.impan.pl/~impanga/), IMPAN, Warsaw
