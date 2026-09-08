@@ -2,13 +2,14 @@
 layout: post
 title: How to hide a body in the acknowledgements
 date: 2026-02-05 16:20:00+0200
-description: Have you ever felt l
+description: "Have you ever written the 'Acknowledgements' section of a project and wanted to thank many people, but worried that you would forget someone? Here's how I solved this problem in my PhD thesis."
 tags: [latex]
 categories: [latex]
 giscus_comments: true
 related_posts: false
 ---
 
+So I recently submitted my PhD thesis, and as one of the final steps in the writing process, I wrote the acknowledgements section. 
 
 ```latex
 \documentclass[12pt, border=0.5pt]{standalone}
@@ -25,7 +26,9 @@ related_posts: false
 ```
 
 
-
+<p align="center">
+  <img src="/assets/img/blog/NameStack1.jpg" alt="Stacking names using the first method" width="500"/>
+</p>
 
 
 ```latex

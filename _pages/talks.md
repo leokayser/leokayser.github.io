@@ -133,7 +133,7 @@ nav_order: 2
 - Mar 16: **Smoothness of Hilbert schemes** (Blackboard)
   at _Hilbert Schemes Learning Seminar_, MPI MiS Leipzig
 - Mar 9: **What is a Hilbert function?** (<a href="/assets/pdf/presentations/What_is_a_Hilbert_function_CWI.pdf" target="_blank">Slides</a>)
-  on the [_Seminar day on Algebra, Geometry and Computation_](https://simontelen.webnode.page/l/algebra-geometry-and-computation-at-cwi/), CWI Amsterdam
+  on the [_Seminar day on Algebra, Geometry and Computation_](https://www.cwi.nl/en/research/networks-and-optimization/events/algebra-geometry-and-computation-at-cwi/), CWI Amsterdam
 
 ## 2022
 
