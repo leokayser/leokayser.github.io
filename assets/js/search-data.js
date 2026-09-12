@@ -106,12 +106,15 @@ ninja.data = [{
           section: "News",},{id: "news-my-public-phd-defense-will-be-held-on-june-9th-feel-free-to-reach-out-to-me-if-you-would-like-to-join",
           title: 'My public PhD defense will be held on June 9th! 🤺 Feel free...',
           description: "",
+          section: "News",},{id: "news-grüessech-i-joined-jan-draisma-s-group-in-bern-as-a-postdoctoral-researcher",
+          title: 'Grüessech! I joined Jan Draisma’s group in Bern as a postdoctoral researcher! 🇨🇭...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6C%65%6F.%6B%61%79%73%65%72@%6D%69%73.%6D%70%67.%64%65", "_blank");
+          window.open("mailto:%6C%65%6F%6E%69%65.%6B%61%79%73%65%72@%75%6E%69%62%65.%63%68", "_blank");
         },
       },{
         id: 'social-github',
