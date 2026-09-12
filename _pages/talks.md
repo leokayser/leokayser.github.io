@@ -9,9 +9,11 @@ nav_order: 2
 
 ## 2026
 
-- July 29: **Fun with Reynolds operators** (Blackboard, <a href="/assets/pdf/notes/Fun_with_Reynolds.pdf" target="blank">Notes</a>)
+- Aug 8: **Bubble Breeze Galaxy Speedrun** (Nintendo Switch, [Video](https://youtu.be/W2k7hG6W4wM?t=1627))
+  at [_ESA Summer 2026_](https://esamarathon.com/), Malmö
+- Jul 29: **Fun with Reynolds operators** (Blackboard, <a href="/assets/pdf/notes/Fun_with_Reynolds.pdf" target="blank">Notes</a>)
   at [_Representation and Invariant Theory Reading Group_](https://www.mis.mpg.de/events/event/representation-and-invariant-theory-reading-group), MPI MiS, Leipzig
-- June 9: **Computation and Complexity in Algebraic Geometry** (<a href="/assets/pdf/presentations/Defense.pdf" target="blank">Slides</a>),
+- Jun 9: **Computation and Complexity in Algebraic Geometry** (<a href="/assets/pdf/presentations/Defense.pdf" target="blank">Slides</a>),
   PhD defence at MPI MiS, Leipzig
 - May 27: **Specific EDDs of Secant Varieties to the Rational Normal Curve** (<a href="/assets/pdf/presentations/EDDs_of_Secant_Varieties_to_the_RNC_WomenInMathematics.pdf" target="blank">Slides</a>)
   at [_From Geometry To Numbers_](https://sites.google.com/view/a-celebration-of-women-in-math/), HU Berlin
