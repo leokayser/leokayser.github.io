@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2026
 
+- Sep 25: **Projective geometry of reciprocal linear spaces** (Blackboard)
+  at [_Seminar on Algebra and its Applications_](https://math-unibe.ch/algebraseminar/index.php?location=current), Uni Bern
 - Aug 8: **Bubble Breeze Galaxy Speedrun** (Nintendo Switch, [Video](https://youtu.be/W2k7hG6W4wM?t=1627))
   at [_ESA Summer 2026_](https://esamarathon.com/), Malmö
 - Jul 29: **Fun with Reynolds operators** (Blackboard, <a href="/assets/pdf/notes/Fun_with_Reynolds.pdf" target="blank">Notes</a>)
