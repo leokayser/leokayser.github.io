@@ -9,13 +9,20 @@
 - title: Education
   type: time_table
   contents:
+    - title: Early postdoc
+      institution: University of Bern
+      year: ≥ 2026
+      description:
+        - Member of the <a href="https://www.math.unibe.ch/index_eng.html">Applied Algebra group</a>
+        - Postdoc mentor <a href="https://math-unibe.ch/jdraisma/">Jan Draisma</a>
     - title: Ph.D. in Mathematics
       institution: Max Planck Institute for Mathematics in the Sciences
-      year: ≥ 2023
+      year: 2023 - 2026
       description:
         - Member of the <a href="https://www.mis.mpg.de/numerical-algebraic-geometry">Numerical Algebraic Geometry group</a>
         - Research under the supervision of <a href="https://sites.google.com/view/simontelen/">Simon Telen</a>
-        - Thesis Advisory Committee mentor <a href="https://fulges.github.io/">Fulvio Gesmundo</a>
+        - TAC mentor <a href="https://fulges.github.io/">Fulvio Gesmundo</a>
+        - Thesis <i><a href="/assets/pdf/papers/Computation_and_Complexity_in_Algebraic_Geometry.pdf" target="_blank">Computation and Complexity in Algebraic Geometry</a></i>
     - title: M.Sc. Computer Science
       institution: Leibniz University Hannover, Hanover, Germany
       year: 2021 - 2022
@@ -42,7 +49,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2024
+    - year 2026:
+      items:
+        - Dissertation with magna cum laude
+    - year: 2024 - 2025
       items:
         - External PhD Representative at MPI MiS
     - year: 2023
