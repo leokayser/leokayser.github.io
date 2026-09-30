@@ -109,6 +109,9 @@ ninja.data = [{
           section: "News",},{id: "news-grüessech-i-joined-jan-draisma-s-group-in-bern-as-a-postdoctoral-researcher",
           title: 'Grüessech! I joined Jan Draisma’s group in Bern as a postdoctoral researcher! 🇨🇭...',
           description: "",
+          section: "News",},{id: "news-friends-of-matroids-the-sister-papers-polar-degrees-of-matroids-and-splitting-the-matroid-determinant-with-clara-and-julian-are-out-on-the-arxiv-now",
+          title: 'Friends of matroids, the sister papers Polar Degrees of Matroids and Splitting the...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
