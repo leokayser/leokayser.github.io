@@ -35,7 +35,7 @@ Before that, I studied both mathematics and computer science at Leibniz Universi
 
 ## Past events
 
-- Aug 10+: [DIR: Combinatorics in Algebraic Statistics and Game Theory](https://sites.google.com/view/aidamaraj/dresdendir) at MPI-CBG, Dresden
+- Aug 10--Sep 18: [DIR: Combinatorics in Algebraic Statistics and Game Theory](https://sites.google.com/view/aidamaraj/dresdendir) at MPI-CBG, Dresden
 - Jul 20--24: [Women in commutative algebra IV](https://icms.ac.uk/activities/workshop/women-in-commutative-algebra-iv-icms/) at ICMS, Bayes Centre, Edinburgh
 - Jun 22: [Queer in Math Day 2026](https://www.mis.mpg.de/events/series/queer-in-math-day-2026) at MPI MiS Leipzig
 - May 27--29: [From Geometry to Numbers: a celebration of women in mathematics](https://sites.google.com/view/a-celebration-of-women-in-math/) at HU Berlin
