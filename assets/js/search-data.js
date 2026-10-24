@@ -148,6 +148,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=-hA9WnoAAAAJ", "_blank");
         },
       },{
+        id: 'social-stackexchange',
+        title: 'Stackexchange',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://math.stackexchange.com/users/leobeth", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
