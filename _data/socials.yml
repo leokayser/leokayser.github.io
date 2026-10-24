@@ -50,6 +50,6 @@ scholar_userid: -hA9WnoAAAAJ # your Google Scholar ID
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
 stackexchange:
-  logo: img/math_se_ico.svg
+  logo: https://leokayser.github.io/assets/img/math_se_ico.svg
   title: Math.SE
   url: https://math.stackexchange.com/users/leobeth
