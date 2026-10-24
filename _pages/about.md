@@ -32,6 +32,9 @@ Hi! I'm Leonie (she/her), postdoctoral researcher at [University of Bern](https:
 From 2023 to 2026, I was a doctoral researcher in the [Nonlinear Algebra Group](https://www.mis.mpg.de/nonlinear-algebra) at, more specifically the [Numerical Algebraic Geometry Group](https://www.mis.mpg.de/numerical-algebraic-geometry). My PhD advisor was [Simon Telen](https://sites.google.com/view/simontelen/) and my PhD mentor was [Fulvio Gesmundo](https://fulges.github.io/). 
 Before that, I studied both mathematics and computer science at Leibniz University Hannover from 2016 to 2022. I wrote my master's theses on <a href="/assets/pdf/papers/The_Waring_problem_for_polynomials.pdf" target="_blank">The Waring problem for polynomials</a> under [Matthias Schütt](https://www.iag.uni-hannover.de/en/schuett/) and on <a href="/assets/pdf/papers/Groebner_Bases_and_Their_Complexity.pdf" target="_blank">Gröbner Bases and Their Complexity</a> under [Heribert Vollmer](https://www.thi.uni-hannover.de/en/vollmer/).
 
+## Upcoming events
+
+- Oct 26--30: [Tensors and Moduli](https://mimuw.edu.pl/~jjelisiejew/moduli_and_tensors.html) at IMPAN, Warszawa
 
 ## Past events
 
