@@ -22,8 +22,8 @@
   - firstname: ["Andreas", "A."]
     url: https://sites.google.com/view/andreas-kretschmer/
 
-"blomenhofer":
-  - firstname: ["Alexander Taveira", "A. T."]
+"taveira blomenhofer":
+  - firstname: ["Alexander", "A."]
     url: https://a44l.github.io/
 
 "sendra-arranz":
@@ -49,3 +49,11 @@
 "briand":
   - firstname: ["Clara", "C."]
     url: https://clarabriand.github.io/
+
+"lagauw":
+  - firstname: ["Sibren", "S."]
+    url: https://leokayser.github.io/assets/img/SibrenAndLeonie.jpg
+
+"de moor":
+  - firstname: ["Bart", "B."]
+    url: https://www.bartdemoor.be/

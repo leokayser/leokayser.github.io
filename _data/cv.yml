@@ -76,12 +76,12 @@
   contents:
     - title: Mathematics
       items:
-        - Commutative Algebra
-        - Algebraic Geometry, specifically Projective Geometry, syzygies
-        - Computer Algebra
+        - Commutative Algebra with a view towards computation
+        - Algebraic Geometry, specifically Hilbert functions, combinatorial aspects,
         - Tensor decomposition
     - title: Computer Science
       items:
         - Computational Complexity and efficient algorithms
+        - Complexity of matrix multiplication
         - Algebraic Complexity Theory
         - Machine Learning
