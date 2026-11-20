@@ -9,6 +9,8 @@ nav_order: 2
 
 ## 2026
 
+- Nov 20: **A geometer’s guide to reciprocal linear spaces** (<a href="/assets/pdf/presentations/Reciprocal_Linear_Spaces_Konstanz.pdf" target="blank">Slides</a>),
+  at [_InterCity Seminars_](https://math-unibe.ch/intercity-seminar/), Uni Konstanz
 - Oct 23: **Splitting the Matroid Determinant** (Blackboard)
   at [_Seminar on Algebra and its Applications_](https://math-unibe.ch/algebraseminar/index.php?location=current), Uni Bern
 - Sep 25: **Projective geometry of reciprocal linear spaces** (Blackboard)
